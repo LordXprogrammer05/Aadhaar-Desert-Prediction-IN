@@ -1,0 +1,3454 @@
+state,district,month,total_enroll,total_updates,service_load,next_month_service_load
+Andaman & Nicobar Islands,Nicobar,2025-09,55,267,322,29
+Andaman & Nicobar Islands,Nicobar,2025-10,11,18,29,117
+Andaman & Nicobar Islands,Nicobar,2025-11,17,100,117,11
+Andaman & Nicobar Islands,North And Middle Andaman,2025-09,75,486,561,269
+Andaman & Nicobar Islands,North And Middle Andaman,2025-10,42,227,269,290
+Andaman & Nicobar Islands,North And Middle Andaman,2025-11,51,239,290,310
+Andaman & Nicobar Islands,South Andaman,2025-09,81,515,596,333
+Andaman & Nicobar Islands,South Andaman,2025-10,43,290,333,422
+Andaman & Nicobar Islands,South Andaman,2025-11,66,356,422,266
+Andhra Pradesh,Adilabad,2025-09,714,7261,7975,5946
+Andhra Pradesh,Adilabad,2025-10,355,5591,5946,4391
+Andhra Pradesh,Adilabad,2025-11,459,3932,4391,1275
+Andhra Pradesh,Alluri Sitharama Raju,2025-09,434,1488,1922,2569
+Andhra Pradesh,Alluri Sitharama Raju,2025-10,365,2204,2569,2348
+Andhra Pradesh,Alluri Sitharama Raju,2025-11,417,1931,2348,936
+Andhra Pradesh,Anakapalli,2025-09,167,385,552,408
+Andhra Pradesh,Anakapalli,2025-10,102,306,408,994
+Andhra Pradesh,Anakapalli,2025-11,236,758,994,515
+Andhra Pradesh,Anantapur,2025-09,1577,7994,9571,13385
+Andhra Pradesh,Anantapur,2025-10,1262,12123,13385,13892
+Andhra Pradesh,Anantapur,2025-11,1720,12172,13892,3992
+Andhra Pradesh,Ananthapur,2025-09,638,2145,2783,5260
+Andhra Pradesh,Ananthapur,2025-10,558,4702,5260,4357
+Andhra Pradesh,Ananthapur,2025-11,647,3710,4357,2072
+Andhra Pradesh,Ananthapuramu,2025-09,1103,4050,5153,8258
+Andhra Pradesh,Ananthapuramu,2025-10,877,7381,8258,7040
+Andhra Pradesh,Ananthapuramu,2025-11,1108,5932,7040,3703
+Andhra Pradesh,Annamayya,2025-09,335,1230,1565,1577
+Andhra Pradesh,Annamayya,2025-10,229,1348,1577,2253
+Andhra Pradesh,Annamayya,2025-11,389,1864,2253,999
+Andhra Pradesh,Bapatla,2025-09,147,298,445,313
+Andhra Pradesh,Bapatla,2025-10,93,220,313,769
+Andhra Pradesh,Bapatla,2025-11,185,584,769,348
+Andhra Pradesh,Chittoor,2025-09,2915,20137,23052,33169
+Andhra Pradesh,Chittoor,2025-10,2102,31067,33169,40736
+Andhra Pradesh,Chittoor,2025-11,3045,37691,40736,13005
+Andhra Pradesh,Cuddapah,2025-09,2003,13297,15300,21013
+Andhra Pradesh,Cuddapah,2025-10,1466,19547,21013,24104
+Andhra Pradesh,Cuddapah,2025-11,2246,21858,24104,9253
+Andhra Pradesh,Dr B R Ambedkar Konaseema,2025-09,240,416,656,519
+Andhra Pradesh,Dr B R Ambedkar Konaseema,2025-10,121,398,519,1012
+Andhra Pradesh,Dr B R Ambedkar Konaseema,2025-11,241,771,1012,470
+Andhra Pradesh,East Godavari,2025-09,2875,20249,23124,26968
+Andhra Pradesh,East Godavari,2025-10,1734,25234,26968,37006
+Andhra Pradesh,East Godavari,2025-11,2780,34226,37006,12406
+Andhra Pradesh,Eluru,2025-09,203,583,786,560
+Andhra Pradesh,Eluru,2025-10,121,439,560,904
+Andhra Pradesh,Eluru,2025-11,245,659,904,489
+Andhra Pradesh,Guntur,2025-09,3161,21666,24827,31420
+Andhra Pradesh,Guntur,2025-10,1986,29434,31420,43535
+Andhra Pradesh,Guntur,2025-11,3917,39618,43535,15806
+Andhra Pradesh,Hyderabad,2025-09,1719,10710,12429,11123
+Andhra Pradesh,Hyderabad,2025-10,1396,9727,11123,13759
+Andhra Pradesh,Hyderabad,2025-11,1863,11896,13759,5521
+Andhra Pradesh,K V Rangareddy,2025-09,36,30,66,41
+Andhra Pradesh,K V Rangareddy,2025-10,27,14,41,26
+Andhra Pradesh,K V Rangareddy,2025-11,17,9,26,20
+Andhra Pradesh,Kakinada,2025-09,304,1227,1531,1450
+Andhra Pradesh,Kakinada,2025-10,235,1215,1450,1886
+Andhra Pradesh,Kakinada,2025-11,341,1545,1886,1011
+Andhra Pradesh,Karim Nagar,2025-09,25,58,83,94
+Andhra Pradesh,Karim Nagar,2025-10,27,67,94,94
+Andhra Pradesh,Karim Nagar,2025-11,24,70,94,30
+Andhra Pradesh,Karimnagar,2025-09,306,1599,1905,1089
+Andhra Pradesh,Karimnagar,2025-10,184,905,1089,635
+Andhra Pradesh,Karimnagar,2025-11,163,472,635,339
+Andhra Pradesh,Khammam,2025-09,526,3314,3840,3384
+Andhra Pradesh,Khammam,2025-10,286,3098,3384,3512
+Andhra Pradesh,Khammam,2025-11,401,3111,3512,647
+Andhra Pradesh,Krishna,2025-09,2522,21054,23576,20377
+Andhra Pradesh,Krishna,2025-10,1479,18898,20377,28600
+Andhra Pradesh,Krishna,2025-11,2509,26091,28600,9394
+Andhra Pradesh,Kurnool,2025-09,3886,25546,29432,46608
+Andhra Pradesh,Kurnool,2025-10,3185,43423,46608,45273
+Andhra Pradesh,Kurnool,2025-11,4042,41231,45273,16566
+Andhra Pradesh,Mahabub Nagar,2025-09,743,3473,4216,3042
+Andhra Pradesh,Mahabub Nagar,2025-10,432,2610,3042,2090
+Andhra Pradesh,Mahabub Nagar,2025-11,449,1641,2090,530
+Andhra Pradesh,Mahabubnagar,2025-09,3,1,4,1
+Andhra Pradesh,Mahabubnagar,2025-10,1,0,1,3
+Andhra Pradesh,Mahbubnagar,2025-09,317,1328,1645,1429
+Andhra Pradesh,Mahbubnagar,2025-10,215,1214,1429,976
+Andhra Pradesh,Mahbubnagar,2025-11,224,752,976,394
+Andhra Pradesh,Medak,2025-09,621,2710,3331,2853
+Andhra Pradesh,Medak,2025-10,385,2468,2853,2718
+Andhra Pradesh,Medak,2025-11,458,2260,2718,564
+Andhra Pradesh,N T R,2025-09,326,1645,1971,1208
+Andhra Pradesh,N T R,2025-10,201,1007,1208,2471
+Andhra Pradesh,N T R,2025-11,375,2096,2471,1006
+Andhra Pradesh,Nalgonda,2025-09,546,3432,3978,3626
+Andhra Pradesh,Nalgonda,2025-10,321,3305,3626,2736
+Andhra Pradesh,Nalgonda,2025-11,348,2388,2736,758
+Andhra Pradesh,Nandyal,2025-09,261,701,962,1386
+Andhra Pradesh,Nandyal,2025-10,245,1141,1386,1569
+Andhra Pradesh,Nandyal,2025-11,335,1234,1569,565
+Andhra Pradesh,Nellore,2025-09,2003,11936,13939,16211
+Andhra Pradesh,Nellore,2025-10,1203,15008,16211,20249
+Andhra Pradesh,Nellore,2025-11,1970,18279,20249,7432
+Andhra Pradesh,Nizamabad,2025-09,222,795,1017,1189
+Andhra Pradesh,Nizamabad,2025-10,184,1005,1189,776
+Andhra Pradesh,Nizamabad,2025-11,151,625,776,293
+Andhra Pradesh,Palnadu,2025-09,309,864,1173,896
+Andhra Pradesh,Palnadu,2025-10,182,714,896,1228
+Andhra Pradesh,Palnadu,2025-11,230,998,1228,818
+Andhra Pradesh,Parvathipuram Manyam,2025-09,194,456,650,735
+Andhra Pradesh,Parvathipuram Manyam,2025-10,132,603,735,834
+Andhra Pradesh,Parvathipuram Manyam,2025-11,150,684,834,402
+Andhra Pradesh,Prakasam,2025-07,237,562,799,20763
+Andhra Pradesh,Prakasam,2025-09,3007,17756,20763,21580
+Andhra Pradesh,Prakasam,2025-10,1720,19860,21580,28304
+Andhra Pradesh,Prakasam,2025-11,2536,25768,28304,8472
+Andhra Pradesh,Rangareddi,2025-09,717,4444,5161,4797
+Andhra Pradesh,Rangareddi,2025-10,525,4272,4797,4686
+Andhra Pradesh,Rangareddi,2025-11,692,3994,4686,1707
+Andhra Pradesh,Spsr Nellore,2025-03,116,0,116,1348
+Andhra Pradesh,Spsr Nellore,2025-06,1348,0,1348,719
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2025-09,633,1301,1934,1522
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2025-10,366,1156,1522,1981
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2025-11,566,1415,1981,716
+Andhra Pradesh,Sri Sathya Sai,2025-09,284,894,1178,1289
+Andhra Pradesh,Sri Sathya Sai,2025-10,229,1060,1289,1513
+Andhra Pradesh,Sri Sathya Sai,2025-11,306,1207,1513,827
+Andhra Pradesh,Srikakulam,2025-09,1603,13907,15510,19234
+Andhra Pradesh,Srikakulam,2025-10,1020,18214,19234,20662
+Andhra Pradesh,Srikakulam,2025-11,1598,19064,20662,6822
+Andhra Pradesh,Tirupati,2025-09,657,1246,1903,1157
+Andhra Pradesh,Tirupati,2025-10,263,894,1157,2852
+Andhra Pradesh,Tirupati,2025-11,650,2202,2852,1695
+Andhra Pradesh,Visakhapatnam,2025-09,2869,26003,28872,26740
+Andhra Pradesh,Visakhapatnam,2025-10,1879,24861,26740,38852
+Andhra Pradesh,Visakhapatnam,2025-11,2988,35864,38852,14513
+Andhra Pradesh,Vizianagaram,2025-09,1475,10820,12295,13829
+Andhra Pradesh,Vizianagaram,2025-10,919,12910,13829,18176
+Andhra Pradesh,Vizianagaram,2025-11,1378,16798,18176,6223
+Andhra Pradesh,Warangal,2025-09,437,3882,4319,3720
+Andhra Pradesh,Warangal,2025-10,336,3384,3720,2321
+Andhra Pradesh,Warangal,2025-11,305,2016,2321,1119
+Andhra Pradesh,West Godavari,2025-09,2291,16658,18949,17681
+Andhra Pradesh,West Godavari,2025-10,1257,16424,17681,24844
+Andhra Pradesh,West Godavari,2025-11,2206,22638,24844,7560
+Andhra Pradesh,Y S R,2025-09,285,1286,1571,934
+Andhra Pradesh,Y S R,2025-10,171,763,934,1669
+Andhra Pradesh,Y S R,2025-11,295,1374,1669,493
+Assam,Bajali,2025-09,12,20,32,5
+Assam,Bajali,2025-10,4,1,5,26
+Assam,Bajali,2025-11,10,16,26,11
+Assam,Baksa,2025-03,38,0,38,2995
+Assam,Baksa,2025-04,1078,1917,2995,285
+Assam,Baksa,2025-05,82,203,285,114
+Assam,Baksa,2025-06,52,62,114,393
+Assam,Baksa,2025-07,220,173,393,3437
+Assam,Baksa,2025-09,844,2593,3437,3461
+Assam,Baksa,2025-10,671,2790,3461,3862
+Assam,Baksa,2025-11,618,3244,3862,2384
+Assam,Barpeta,2025-03,68,0,68,1249
+Assam,Barpeta,2025-04,215,1034,1249,982
+Assam,Barpeta,2025-05,183,799,982,4247
+Assam,Barpeta,2025-06,1179,3068,4247,8624
+Assam,Barpeta,2025-07,4389,4235,8624,24195
+Assam,Barpeta,2025-09,4283,19912,24195,24960
+Assam,Barpeta,2025-10,1960,23000,24960,20134
+Assam,Barpeta,2025-11,2307,17827,20134,8302
+Assam,Biswanath,2025-04,250,554,804,2189
+Assam,Biswanath,2025-09,398,1791,2189,1727
+Assam,Biswanath,2025-10,237,1490,1727,1529
+Assam,Biswanath,2025-11,391,1138,1529,950
+Assam,Bongaigaon,2025-03,89,0,89,5705
+Assam,Bongaigaon,2025-04,369,5336,5705,1173
+Assam,Bongaigaon,2025-05,166,1007,1173,61
+Assam,Bongaigaon,2025-06,61,0,61,391
+Assam,Bongaigaon,2025-07,303,88,391,7196
+Assam,Bongaigaon,2025-09,996,6200,7196,9032
+Assam,Bongaigaon,2025-10,488,8544,9032,6774
+Assam,Bongaigaon,2025-11,615,6159,6774,3018
+Assam,Cachar,2025-04,1748,6039,7787,3517
+Assam,Cachar,2025-06,1632,1885,3517,9390
+Assam,Cachar,2025-07,5873,3517,9390,21256
+Assam,Cachar,2025-09,3926,17330,21256,15318
+Assam,Cachar,2025-10,2115,13203,15318,12809
+Assam,Cachar,2025-11,2454,10355,12809,5909
+Assam,Charaideo,2025-04,305,316,621,160
+Assam,Charaideo,2025-05,50,110,160,3143
+Assam,Charaideo,2025-09,347,2796,3143,1937
+Assam,Charaideo,2025-10,194,1743,1937,1948
+Assam,Charaideo,2025-11,286,1662,1948,644
+Assam,Chirang,2025-03,56,0,56,1577
+Assam,Chirang,2025-04,567,1010,1577,2411
+Assam,Chirang,2025-07,1309,1102,2411,3103
+Assam,Chirang,2025-09,574,2529,3103,5056
+Assam,Chirang,2025-10,270,4786,5056,4075
+Assam,Chirang,2025-11,465,3610,4075,2776
+Assam,Darrang,2025-04,1264,2847,4111,856
+Assam,Darrang,2025-05,448,408,856,191
+Assam,Darrang,2025-06,98,93,191,344
+Assam,Darrang,2025-07,257,87,344,9957
+Assam,Darrang,2025-09,2003,7954,9957,7464
+Assam,Darrang,2025-10,1212,6252,7464,7069
+Assam,Darrang,2025-11,2032,5037,7069,4144
+Assam,Dhemaji,2025-03,85,0,85,1108
+Assam,Dhemaji,2025-04,407,701,1108,1826
+Assam,Dhemaji,2025-05,591,1235,1826,634
+Assam,Dhemaji,2025-06,316,318,634,4538
+Assam,Dhemaji,2025-07,2538,2000,4538,6895
+Assam,Dhemaji,2025-09,1048,5847,6895,6292
+Assam,Dhemaji,2025-10,831,5461,6292,4561
+Assam,Dhemaji,2025-11,1016,3545,4561,2708
+Assam,Dhubri,2025-03,416,0,416,6211
+Assam,Dhubri,2025-04,1732,4479,6211,4148
+Assam,Dhubri,2025-06,772,3376,4148,1592
+Assam,Dhubri,2025-07,1107,485,1592,25908
+Assam,Dhubri,2025-09,4556,21352,25908,15127
+Assam,Dhubri,2025-10,2059,13068,15127,13334
+Assam,Dhubri,2025-11,2288,11046,13334,9008
+Assam,Dibrugarh,2025-03,36,0,36,2613
+Assam,Dibrugarh,2025-04,514,2099,2613,1406
+Assam,Dibrugarh,2025-05,384,1022,1406,1689
+Assam,Dibrugarh,2025-06,674,1015,1689,5541
+Assam,Dibrugarh,2025-07,2484,3057,5541,8086
+Assam,Dibrugarh,2025-09,1184,6902,8086,3790
+Assam,Dibrugarh,2025-10,728,3062,3790,5290
+Assam,Dibrugarh,2025-11,1081,4209,5290,1950
+Assam,Dima Hasao,2025-06,71,0,71,148
+Assam,Dima Hasao,2025-07,148,0,148,13
+Assam,Dima Hasao,2025-09,13,0,13,17
+Assam,Dima Hasao,2025-10,9,8,17,15
+Assam,Dima Hasao,2025-11,7,8,15,5
+Assam,Goalpara,2025-04,1164,2664,3828,1993
+Assam,Goalpara,2025-05,781,1212,1993,135
+Assam,Goalpara,2025-06,80,55,135,6327
+Assam,Goalpara,2025-07,2898,3429,6327,10653
+Assam,Goalpara,2025-09,2456,8197,10653,8258
+Assam,Goalpara,2025-10,1132,7126,8258,8003
+Assam,Goalpara,2025-11,1449,6554,8003,4855
+Assam,Golaghat,2025-04,1213,1178,2391,3095
+Assam,Golaghat,2025-05,1863,1232,3095,2096
+Assam,Golaghat,2025-06,1265,831,2096,5540
+Assam,Golaghat,2025-07,3469,2071,5540,7337
+Assam,Golaghat,2025-09,1658,5679,7337,5702
+Assam,Golaghat,2025-10,800,4902,5702,6662
+Assam,Golaghat,2025-11,1242,5420,6662,2778
+Assam,Hailakandi,2025-04,463,659,1122,3209
+Assam,Hailakandi,2025-07,1016,2193,3209,8396
+Assam,Hailakandi,2025-09,1991,6405,8396,5504
+Assam,Hailakandi,2025-10,996,4508,5504,4997
+Assam,Hailakandi,2025-11,1200,3797,4997,3383
+Assam,Hojai,2025-03,89,0,89,4134
+Assam,Hojai,2025-04,1116,3018,4134,893
+Assam,Hojai,2025-06,364,529,893,5338
+Assam,Hojai,2025-07,2123,3215,5338,9155
+Assam,Hojai,2025-09,1711,7444,9155,6874
+Assam,Hojai,2025-10,822,6052,6874,6711
+Assam,Hojai,2025-11,892,5819,6711,3870
+Assam,Jorhat,2025-04,520,882,1402,180
+Assam,Jorhat,2025-05,54,126,180,150
+Assam,Jorhat,2025-06,56,94,150,2789
+Assam,Jorhat,2025-07,1371,1418,2789,3950
+Assam,Jorhat,2025-09,906,3044,3950,4863
+Assam,Jorhat,2025-10,829,4034,4863,4308
+Assam,Jorhat,2025-11,1077,3231,4308,1816
+Assam,Kamrup,2025-03,46,0,46,5798
+Assam,Kamrup,2025-04,1324,4474,5798,4716
+Assam,Kamrup,2025-05,1657,3059,4716,393
+Assam,Kamrup,2025-06,207,186,393,10363
+Assam,Kamrup,2025-07,4606,5757,10363,15088
+Assam,Kamrup,2025-09,2894,12194,15088,11514
+Assam,Kamrup,2025-10,1817,9697,11514,8832
+Assam,Kamrup,2025-11,1888,6944,8832,5780
+Assam,Kamrup Metro,2025-04,885,2346,3231,654
+Assam,Kamrup Metro,2025-05,162,492,654,336
+Assam,Kamrup Metro,2025-06,174,162,336,1437
+Assam,Kamrup Metro,2025-07,509,928,1437,7040
+Assam,Kamrup Metro,2025-09,1390,5650,7040,4619
+Assam,Kamrup Metro,2025-10,1243,3376,4619,6483
+Assam,Kamrup Metro,2025-11,1792,4691,6483,2737
+Assam,Karbi Anglong,2025-04,1896,2987,4883,4527
+Assam,Karbi Anglong,2025-05,2158,2369,4527,12209
+Assam,Karbi Anglong,2025-09,1844,10365,12209,9456
+Assam,Karbi Anglong,2025-10,982,8474,9456,12857
+Assam,Karbi Anglong,2025-11,1418,11439,12857,2511
+Assam,Karimganj,2025-04,1025,1246,2271,1542
+Assam,Karimganj,2025-05,761,781,1542,1180
+Assam,Karimganj,2025-06,627,553,1180,4906
+Assam,Karimganj,2025-07,3171,1735,4906,13405
+Assam,Karimganj,2025-09,4570,8835,13405,10135
+Assam,Karimganj,2025-10,1636,8499,10135,11906
+Assam,Karimganj,2025-11,2840,9066,11906,7764
+Assam,Kokrajhar,2025-03,340,0,340,2017
+Assam,Kokrajhar,2025-04,564,1453,2017,2300
+Assam,Kokrajhar,2025-05,518,1782,2300,718
+Assam,Kokrajhar,2025-06,287,431,718,1081
+Assam,Kokrajhar,2025-07,576,505,1081,4419
+Assam,Kokrajhar,2025-09,894,3525,4419,4687
+Assam,Kokrajhar,2025-10,552,4135,4687,4861
+Assam,Kokrajhar,2025-11,804,4057,4861,2919
+Assam,Lakhimpur,2025-03,101,0,101,2984
+Assam,Lakhimpur,2025-04,714,2270,2984,2441
+Assam,Lakhimpur,2025-05,747,1694,2441,842
+Assam,Lakhimpur,2025-06,451,391,842,1613
+Assam,Lakhimpur,2025-07,911,702,1613,10965
+Assam,Lakhimpur,2025-09,1949,9016,10965,8166
+Assam,Lakhimpur,2025-10,984,7182,8166,6885
+Assam,Lakhimpur,2025-11,1017,5868,6885,4209
+Assam,Majuli,2025-07,210,213,423,1113
+Assam,Majuli,2025-09,196,917,1113,605
+Assam,Majuli,2025-10,58,547,605,286
+Assam,Majuli,2025-11,51,235,286,296
+Assam,Marigaon,2025-03,546,0,546,4489
+Assam,Marigaon,2025-04,1093,3396,4489,754
+Assam,Marigaon,2025-05,378,376,754,2142
+Assam,Marigaon,2025-06,780,1362,2142,4371
+Assam,Marigaon,2025-07,2506,1865,4371,13614
+Assam,Marigaon,2025-09,2449,11165,13614,9022
+Assam,Marigaon,2025-10,1065,7957,9022,7837
+Assam,Marigaon,2025-11,1389,6448,7837,6434
+Assam,Nagaon,2025-03,56,0,56,3981
+Assam,Nagaon,2025-04,776,3205,3981,250
+Assam,Nagaon,2025-06,156,94,250,6398
+Assam,Nagaon,2025-07,2420,3978,6398,33343
+Assam,Nagaon,2025-09,4844,28499,33343,28783
+Assam,Nagaon,2025-10,2110,26673,28783,23580
+Assam,Nagaon,2025-11,2462,21118,23580,16429
+Assam,Nalbari,2025-04,181,209,390,644
+Assam,Nalbari,2025-05,246,398,644,7214
+Assam,Nalbari,2025-09,1605,5609,7214,4826
+Assam,Nalbari,2025-10,906,3920,4826,5038
+Assam,Nalbari,2025-11,1083,3955,5038,2015
+Assam,North Cachar Hills,2025-04,408,279,687,209
+Assam,North Cachar Hills,2025-05,77,132,209,1488
+Assam,North Cachar Hills,2025-09,196,1292,1488,783
+Assam,North Cachar Hills,2025-10,188,595,783,722
+Assam,North Cachar Hills,2025-11,179,543,722,230
+Assam,Sibsagar,2025-04,579,355,934,558
+Assam,Sibsagar,2025-05,225,333,558,2876
+Assam,Sibsagar,2025-09,605,2271,2876,2838
+Assam,Sibsagar,2025-10,732,2106,2838,3441
+Assam,Sibsagar,2025-11,842,2599,3441,627
+Assam,Sivasagar,2025-06,80,0,80,342
+Assam,Sonitpur,2025-03,81,0,81,1121
+Assam,Sonitpur,2025-04,372,749,1121,573
+Assam,Sonitpur,2025-05,253,320,573,321
+Assam,Sonitpur,2025-06,284,37,321,1317
+Assam,Sonitpur,2025-07,1030,287,1317,11418
+Assam,Sonitpur,2025-09,2649,8769,11418,9915
+Assam,Sonitpur,2025-10,1780,8135,9915,8589
+Assam,Sonitpur,2025-11,2397,6192,8589,5120
+Assam,South Salmara Mankachar,2025-04,308,358,666,4649
+Assam,South Salmara Mankachar,2025-09,525,4124,4649,2143
+Assam,South Salmara Mankachar,2025-10,274,1869,2143,2270
+Assam,South Salmara Mankachar,2025-11,343,1927,2270,1015
+Assam,Sribhumi,2025-09,47,67,114,90
+Assam,Sribhumi,2025-10,29,61,90,246
+Assam,Sribhumi,2025-11,77,169,246,79
+Assam,Tamulpur District,2025-09,17,52,69,41
+Assam,Tamulpur District,2025-10,13,28,41,47
+Assam,Tamulpur District,2025-11,18,29,47,50
+Assam,Tinsukia,2025-03,355,0,355,1946
+Assam,Tinsukia,2025-04,991,955,1946,1339
+Assam,Tinsukia,2025-05,600,739,1339,4453
+Assam,Tinsukia,2025-07,2507,1946,4453,6787
+Assam,Tinsukia,2025-09,1337,5450,6787,6279
+Assam,Tinsukia,2025-10,777,5502,6279,5668
+Assam,Tinsukia,2025-11,1331,4337,5668,3883
+Assam,Udalguri,2025-03,90,0,90,3366
+Assam,Udalguri,2025-04,1130,2236,3366,1380
+Assam,Udalguri,2025-05,547,833,1380,4721
+Assam,Udalguri,2025-09,1050,3671,4721,5242
+Assam,Udalguri,2025-10,810,4432,5242,3570
+Assam,Udalguri,2025-11,939,2631,3570,2540
+Assam,West Karbi Anglong,2025-04,483,325,808,445
+Assam,West Karbi Anglong,2025-05,266,179,445,399
+Assam,West Karbi Anglong,2025-06,295,104,399,573
+Assam,West Karbi Anglong,2025-07,382,191,573,1137
+Assam,West Karbi Anglong,2025-09,196,941,1137,618
+Assam,West Karbi Anglong,2025-10,113,505,618,676
+Assam,West Karbi Anglong,2025-11,152,524,676,264
+Bihar,Araria,2025-06,1676,2460,4136,792
+Bihar,Araria,2025-07,288,504,792,47649
+Bihar,Araria,2025-09,4557,43092,47649,38625
+Bihar,Araria,2025-10,4978,33647,38625,29399
+Bihar,Araria,2025-11,3518,25881,29399,14791
+Bihar,Arwal,2025-05,209,429,638,541
+Bihar,Arwal,2025-07,505,36,541,10003
+Bihar,Arwal,2025-09,1246,8757,10003,4665
+Bihar,Arwal,2025-10,868,3797,4665,7453
+Bihar,Arwal,2025-11,1025,6428,7453,2566
+Bihar,Aurangabad,2025-09,3633,28463,32096,18938
+Bihar,Aurangabad,2025-10,2836,16102,18938,26589
+Bihar,Aurangabad,2025-11,3652,22937,26589,10626
+Bihar,Banka,2025-06,975,1408,2383,502
+Bihar,Banka,2025-07,428,74,502,26736
+Bihar,Banka,2025-09,3121,23615,26736,18182
+Bihar,Banka,2025-10,2924,15258,18182,23469
+Bihar,Banka,2025-11,3291,20178,23469,10075
+Bihar,Begusarai,2025-07,762,71,833,40808
+Bihar,Begusarai,2025-09,4390,36418,40808,21350
+Bihar,Begusarai,2025-10,3143,18207,21350,30147
+Bihar,Begusarai,2025-11,3840,26307,30147,14135
+Bihar,Bhagalpur,2025-03,71,0,71,13201
+Bihar,Bhagalpur,2025-04,1879,11322,13201,8619
+Bihar,Bhagalpur,2025-05,2948,5671,8619,9638
+Bihar,Bhagalpur,2025-06,3850,5788,9638,1464
+Bihar,Bhagalpur,2025-07,557,907,1464,44211
+Bihar,Bhagalpur,2025-09,4530,39681,44211,26696
+Bihar,Bhagalpur,2025-10,3262,23434,26696,34032
+Bihar,Bhagalpur,2025-11,4518,29514,34032,13291
+Bihar,Bhojpur,2025-07,823,1223,2046,45657
+Bihar,Bhojpur,2025-09,3865,41792,45657,22462
+Bihar,Bhojpur,2025-10,3768,18694,22462,25167
+Bihar,Bhojpur,2025-11,4489,20678,25167,11681
+Bihar,Buxar,2025-09,2806,14503,17309,13343
+Bihar,Buxar,2025-10,2185,11158,13343,13644
+Bihar,Buxar,2025-11,2171,11473,13644,7230
+Bihar,Darbhanga,2025-06,448,500,948,48550
+Bihar,Darbhanga,2025-09,6012,42538,48550,31538
+Bihar,Darbhanga,2025-10,4389,27149,31538,43893
+Bihar,Darbhanga,2025-11,4855,39038,43893,18087
+Bihar,Gaya,2025-04,1862,7140,9002,7521
+Bihar,Gaya,2025-05,2317,5204,7521,5188
+Bihar,Gaya,2025-06,1893,3295,5188,8122
+Bihar,Gaya,2025-07,3212,4910,8122,62301
+Bihar,Gaya,2025-09,6536,55765,62301,30723
+Bihar,Gaya,2025-10,5436,25287,30723,35078
+Bihar,Gaya,2025-11,4821,30257,35078,17853
+Bihar,Gopalganj,2025-05,907,2722,3629,5166
+Bihar,Gopalganj,2025-06,1773,3393,5166,7110
+Bihar,Gopalganj,2025-07,2891,4219,7110,26104
+Bihar,Gopalganj,2025-09,3426,22678,26104,21875
+Bihar,Gopalganj,2025-10,3103,18772,21875,23254
+Bihar,Gopalganj,2025-11,2720,20534,23254,11350
+Bihar,Jamui,2025-04,1692,2756,4448,1897
+Bihar,Jamui,2025-05,550,1347,1897,2449
+Bihar,Jamui,2025-06,772,1677,2449,21916
+Bihar,Jamui,2025-09,2648,19268,21916,14051
+Bihar,Jamui,2025-10,2405,11646,14051,17532
+Bihar,Jamui,2025-11,2403,15129,17532,8356
+Bihar,Jehanabad,2025-04,418,1623,2041,527
+Bihar,Jehanabad,2025-07,256,271,527,14943
+Bihar,Jehanabad,2025-09,1472,13471,14943,8327
+Bihar,Jehanabad,2025-10,1443,6884,8327,9300
+Bihar,Jehanabad,2025-11,1273,8027,9300,3573
+Bihar,Kaimur Bhabua,2025-04,357,1540,1897,3275
+Bihar,Kaimur Bhabua,2025-05,937,2338,3275,2176
+Bihar,Kaimur Bhabua,2025-06,711,1465,2176,1776
+Bihar,Kaimur Bhabua,2025-07,694,1082,1776,25143
+Bihar,Kaimur Bhabua,2025-09,2425,22718,25143,14527
+Bihar,Kaimur Bhabua,2025-10,1307,13220,14527,17631
+Bihar,Kaimur Bhabua,2025-11,1333,16298,17631,6617
+Bihar,Katihar,2025-05,495,1553,2048,3953
+Bihar,Katihar,2025-06,985,2968,3953,61590
+Bihar,Katihar,2025-09,5998,55592,61590,41631
+Bihar,Katihar,2025-10,4959,36672,41631,48622
+Bihar,Katihar,2025-11,4585,44037,48622,17078
+Bihar,Khagaria,2025-09,3491,25909,29400,12458
+Bihar,Khagaria,2025-10,1941,10517,12458,14658
+Bihar,Khagaria,2025-11,2018,12640,14658,9414
+Bihar,Kishanganj,2025-09,3406,66630,70036,28647
+Bihar,Kishanganj,2025-10,3292,25355,28647,31274
+Bihar,Kishanganj,2025-11,2315,28959,31274,15149
+Bihar,Lakhisarai,2025-06,786,1808,2594,4483
+Bihar,Lakhisarai,2025-07,1608,2875,4483,16249
+Bihar,Lakhisarai,2025-09,1305,14944,16249,8441
+Bihar,Lakhisarai,2025-10,816,7625,8441,14586
+Bihar,Lakhisarai,2025-11,1869,12717,14586,4292
+Bihar,Madhepura,2025-09,3378,27806,31184,21499
+Bihar,Madhepura,2025-10,2519,18980,21499,19746
+Bihar,Madhepura,2025-11,2195,17551,19746,12422
+Bihar,Madhubani,2025-03,330,0,330,4754
+Bihar,Madhubani,2025-04,933,3821,4754,7158
+Bihar,Madhubani,2025-05,1971,5187,7158,6725
+Bihar,Madhubani,2025-06,2425,4300,6725,6236
+Bihar,Madhubani,2025-07,2141,4095,6236,48588
+Bihar,Madhubani,2025-09,5877,42711,48588,38150
+Bihar,Madhubani,2025-10,5921,32229,38150,51922
+Bihar,Madhubani,2025-11,5920,46002,51922,20720
+Bihar,Munger,2025-04,491,1676,2167,1457
+Bihar,Munger,2025-06,406,1051,1457,1901
+Bihar,Munger,2025-07,699,1202,1901,18698
+Bihar,Munger,2025-09,1946,16752,18698,8200
+Bihar,Munger,2025-10,1160,7040,8200,12003
+Bihar,Munger,2025-11,1471,10532,12003,4453
+Bihar,Muzaffarpur,2025-03,74,0,74,9673
+Bihar,Muzaffarpur,2025-04,2089,7584,9673,14318
+Bihar,Muzaffarpur,2025-05,4366,9952,14318,10951
+Bihar,Muzaffarpur,2025-06,3782,7169,10951,5482
+Bihar,Muzaffarpur,2025-07,2149,3333,5482,59908
+Bihar,Muzaffarpur,2025-09,6202,53706,59908,35300
+Bihar,Muzaffarpur,2025-10,4234,31066,35300,50412
+Bihar,Muzaffarpur,2025-11,5553,44859,50412,19938
+Bihar,Nalanda,2025-06,1497,1742,3239,4340
+Bihar,Nalanda,2025-07,2058,2282,4340,61910
+Bihar,Nalanda,2025-09,4166,57744,61910,23520
+Bihar,Nalanda,2025-10,3216,20304,23520,25617
+Bihar,Nalanda,2025-11,3284,22333,25617,14294
+Bihar,Nawada,2025-07,3672,4391,8063,31171
+Bihar,Nawada,2025-09,4973,26198,31171,17186
+Bihar,Nawada,2025-10,3915,13271,17186,17529
+Bihar,Nawada,2025-11,3044,14485,17529,9453
+Bihar,Pashchim Champaran,2025-03,126,0,126,21728
+Bihar,Pashchim Champaran,2025-04,6709,15019,21728,14712
+Bihar,Pashchim Champaran,2025-05,4966,9746,14712,6507
+Bihar,Pashchim Champaran,2025-06,6507,0,6507,9642
+Bihar,Pashchim Champaran,2025-07,9642,0,9642,63797
+Bihar,Pashchim Champaran,2025-09,6959,56838,63797,47957
+Bihar,Pashchim Champaran,2025-10,5118,42839,47957,53260
+Bihar,Pashchim Champaran,2025-11,5541,47719,53260,20660
+Bihar,Patna,2025-03,80,0,80,13767
+Bihar,Patna,2025-04,3399,10368,13767,1686
+Bihar,Patna,2025-05,474,1212,1686,3964
+Bihar,Patna,2025-06,1367,2597,3964,6459
+Bihar,Patna,2025-07,2110,4349,6459,73942
+Bihar,Patna,2025-09,7310,66632,73942,37758
+Bihar,Patna,2025-10,4239,33519,37758,45578
+Bihar,Patna,2025-11,5003,40575,45578,21909
+Bihar,Purba Champaran,2025-03,336,0,336,16395
+Bihar,Purba Champaran,2025-04,4052,12343,16395,13310
+Bihar,Purba Champaran,2025-05,4508,8802,13310,6198
+Bihar,Purba Champaran,2025-06,6198,0,6198,8337
+Bihar,Purba Champaran,2025-07,8337,0,8337,70333
+Bihar,Purba Champaran,2025-09,8355,61978,70333,41683
+Bihar,Purba Champaran,2025-10,4838,36845,41683,57956
+Bihar,Purba Champaran,2025-11,6950,51006,57956,24033
+Bihar,Purnea,2025-04,814,3721,4535,6262
+Bihar,Purnea,2025-06,1418,4844,6262,6950
+Bihar,Purnea,2025-07,1924,5026,6950,54100
+Bihar,Purnea,2025-09,6170,47930,54100,37492
+Bihar,Purnea,2025-10,5922,31570,37492,32779
+Bihar,Purnea,2025-11,3344,29435,32779,19401
+Bihar,Rohtas,2025-09,2924,28789,31713,19717
+Bihar,Rohtas,2025-10,1862,17855,19717,26939
+Bihar,Rohtas,2025-11,2673,24266,26939,11520
+Bihar,Saharsa,2025-05,642,1651,2293,2811
+Bihar,Saharsa,2025-06,826,1985,2811,4316
+Bihar,Saharsa,2025-07,1238,3078,4316,37313
+Bihar,Saharsa,2025-09,4182,33131,37313,20174
+Bihar,Saharsa,2025-10,3017,17157,20174,22189
+Bihar,Saharsa,2025-11,2993,19196,22189,10290
+Bihar,Samastipur,2025-07,1014,1605,2619,58274
+Bihar,Samastipur,2025-09,6232,52042,58274,32041
+Bihar,Samastipur,2025-10,4965,27076,32041,44025
+Bihar,Samastipur,2025-11,5878,38147,44025,21613
+Bihar,Saran,2025-04,327,970,1297,2500
+Bihar,Saran,2025-06,1111,1389,2500,5807
+Bihar,Saran,2025-07,2531,3276,5807,44502
+Bihar,Saran,2025-09,7139,37363,44502,32888
+Bihar,Saran,2025-10,6190,26698,32888,39433
+Bihar,Saran,2025-11,6205,33228,39433,18916
+Bihar,Sheikhpura,2025-09,1423,12952,14375,6623
+Bihar,Sheikhpura,2025-10,912,5711,6623,8313
+Bihar,Sheikhpura,2025-11,846,7467,8313,2905
+Bihar,Sheohar,2025-09,939,9403,10342,6293
+Bihar,Sheohar,2025-10,848,5445,6293,6943
+Bihar,Sheohar,2025-11,929,6014,6943,3480
+Bihar,Sitamarhi,2025-03,1335,0,1335,17375
+Bihar,Sitamarhi,2025-04,4564,12811,17375,31314
+Bihar,Sitamarhi,2025-05,6884,24430,31314,18867
+Bihar,Sitamarhi,2025-06,6476,12391,18867,25323
+Bihar,Sitamarhi,2025-07,9117,16206,25323,47501
+Bihar,Sitamarhi,2025-09,5131,42370,47501,28644
+Bihar,Sitamarhi,2025-10,4033,24611,28644,37882
+Bihar,Sitamarhi,2025-11,4754,33128,37882,18712
+Bihar,Siwan,2025-05,665,1605,2270,1462
+Bihar,Siwan,2025-06,504,958,1462,1402
+Bihar,Siwan,2025-07,618,784,1402,30044
+Bihar,Siwan,2025-09,4769,25275,30044,27130
+Bihar,Siwan,2025-10,4172,22958,27130,29798
+Bihar,Siwan,2025-11,4394,25404,29798,14836
+Bihar,Supaul,2025-09,2911,26085,28996,24844
+Bihar,Supaul,2025-10,3943,20901,24844,23482
+Bihar,Supaul,2025-11,3231,20251,23482,11712
+Bihar,Vaishali,2025-04,497,1538,2035,47395
+Bihar,Vaishali,2025-09,6690,40705,47395,31331
+Bihar,Vaishali,2025-10,5671,25660,31331,34593
+Bihar,Vaishali,2025-11,4993,29600,34593,19010
+Chandigarh,Chandigarh,2025-04,117,2809,2926,8352
+Chandigarh,Chandigarh,2025-09,924,7428,8352,5192
+Chandigarh,Chandigarh,2025-10,646,4546,5192,8852
+Chandigarh,Chandigarh,2025-11,930,7922,8852,4059
+Chandigarh,Rupnagar,2025-09,1,0,1,3
+Chhattisgarh,Balod,2025-09,620,11797,12417,6358
+Chhattisgarh,Balod,2025-10,440,5918,6358,11735
+Chhattisgarh,Balod,2025-11,551,11184,11735,6236
+Chhattisgarh,Baloda Bazar,2025-05,544,5585,6129,21935
+Chhattisgarh,Baloda Bazar,2025-09,1551,20384,21935,17761
+Chhattisgarh,Baloda Bazar,2025-10,1084,16677,17761,27408
+Chhattisgarh,Baloda Bazar,2025-11,1609,25799,27408,12331
+Chhattisgarh,Balrampur,2025-07,1988,6026,8014,14131
+Chhattisgarh,Balrampur,2025-09,1794,12337,14131,6157
+Chhattisgarh,Balrampur,2025-10,903,5254,6157,11760
+Chhattisgarh,Balrampur,2025-11,1319,10441,11760,7696
+Chhattisgarh,Bastar,2025-09,1757,20925,22682,13854
+Chhattisgarh,Bastar,2025-10,1257,12597,13854,17043
+Chhattisgarh,Bastar,2025-11,2528,14515,17043,10861
+Chhattisgarh,Bemetara,2025-09,809,12383,13192,9954
+Chhattisgarh,Bemetara,2025-10,750,9204,9954,18818
+Chhattisgarh,Bemetara,2025-11,1109,17709,18818,9068
+Chhattisgarh,Bijapur,2025-03,160,0,160,2902
+Chhattisgarh,Bijapur,2025-04,658,2244,2902,2531
+Chhattisgarh,Bijapur,2025-05,610,1921,2531,3092
+Chhattisgarh,Bijapur,2025-06,632,2460,3092,3692
+Chhattisgarh,Bijapur,2025-07,1391,2301,3692,4605
+Chhattisgarh,Bijapur,2025-09,871,3734,4605,3027
+Chhattisgarh,Bijapur,2025-10,631,2396,3027,5748
+Chhattisgarh,Bijapur,2025-11,1217,4531,5748,4340
+Chhattisgarh,Bilaspur,2025-07,1476,4449,5925,24665
+Chhattisgarh,Bilaspur,2025-09,2826,21839,24665,28503
+Chhattisgarh,Bilaspur,2025-10,2239,26264,28503,41348
+Chhattisgarh,Bilaspur,2025-11,2352,38996,41348,19678
+Chhattisgarh,Dakshin Bastar Dantewada,2025-09,157,2442,2599,1726
+Chhattisgarh,Dakshin Bastar Dantewada,2025-10,165,1561,1726,3592
+Chhattisgarh,Dakshin Bastar Dantewada,2025-11,757,2835,3592,2571
+Chhattisgarh,Dantewada,2025-09,82,1515,1597,509
+Chhattisgarh,Dantewada,2025-10,63,446,509,2371
+Chhattisgarh,Dantewada,2025-11,463,1908,2371,951
+Chhattisgarh,Dhamtari,2025-09,711,10430,11141,8509
+Chhattisgarh,Dhamtari,2025-10,485,8024,8509,14573
+Chhattisgarh,Dhamtari,2025-11,715,13858,14573,5835
+Chhattisgarh,Durg,2025-04,768,11618,12386,8104
+Chhattisgarh,Durg,2025-07,495,7609,8104,20185
+Chhattisgarh,Durg,2025-09,1231,18954,20185,9652
+Chhattisgarh,Durg,2025-10,545,9107,9652,40830
+Chhattisgarh,Durg,2025-11,1219,39611,40830,11046
+Chhattisgarh,Gariyaband,2025-09,587,6111,6698,4636
+Chhattisgarh,Gariyaband,2025-10,349,4287,4636,9030
+Chhattisgarh,Gariyaband,2025-11,568,8462,9030,4712
+Chhattisgarh,Gaurela Pendra Marwahi,2025-09,56,329,385,268
+Chhattisgarh,Gaurela Pendra Marwahi,2025-10,40,228,268,351
+Chhattisgarh,Gaurela Pendra Marwahi,2025-11,45,306,351,253
+Chhattisgarh,Gaurella Pendra Marwahi,2025-06,631,0,631,352
+Chhattisgarh,Janjgir Champa,2025-09,1807,18895,20702,23318
+Chhattisgarh,Janjgir Champa,2025-10,1233,22085,23318,31258
+Chhattisgarh,Janjgir Champa,2025-11,1632,29626,31258,14982
+Chhattisgarh,Jashpur,2025-09,740,7360,8100,8451
+Chhattisgarh,Jashpur,2025-10,531,7920,8451,20945
+Chhattisgarh,Jashpur,2025-11,1079,19866,20945,7153
+Chhattisgarh,Kabeerdham,2025-09,343,4326,4669,3478
+Chhattisgarh,Kabeerdham,2025-10,218,3260,3478,6417
+Chhattisgarh,Kabeerdham,2025-11,284,6133,6417,3506
+Chhattisgarh,Kanker,2025-09,665,5005,5670,4179
+Chhattisgarh,Kanker,2025-10,419,3760,4179,9249
+Chhattisgarh,Kanker,2025-11,577,8672,9249,4779
+Chhattisgarh,Kawardha,2025-09,718,9555,10273,9331
+Chhattisgarh,Kawardha,2025-10,581,8750,9331,12207
+Chhattisgarh,Kawardha,2025-11,745,11462,12207,7364
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,2025-09,63,379,442,270
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,2025-10,51,219,270,581
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,2025-11,110,471,581,345
+Chhattisgarh,Kondagaon,2025-09,1049,7116,8165,8166
+Chhattisgarh,Kondagaon,2025-10,956,7210,8166,10566
+Chhattisgarh,Kondagaon,2025-11,911,9655,10566,6105
+Chhattisgarh,Korba,2025-09,1380,14159,15539,14275
+Chhattisgarh,Korba,2025-10,1088,13187,14275,13613
+Chhattisgarh,Korba,2025-11,1001,12612,13613,7020
+Chhattisgarh,Koriya,2025-09,644,6432,7076,6947
+Chhattisgarh,Koriya,2025-10,547,6400,6947,7666
+Chhattisgarh,Koriya,2025-11,501,7165,7666,6192
+Chhattisgarh,Mahasamund,2025-09,1323,12246,13569,9995
+Chhattisgarh,Mahasamund,2025-10,805,9190,9995,19866
+Chhattisgarh,Mahasamund,2025-11,1271,18595,19866,10076
+Chhattisgarh,Manendragarh Chirmiri Bharatpur,2025-09,104,530,634,450
+Chhattisgarh,Manendragarh Chirmiri Bharatpur,2025-10,76,374,450,518
+Chhattisgarh,Manendragarh Chirmiri Bharatpur,2025-11,94,424,518,600
+Chhattisgarh,Mohalla Manpur Ambagarh Chowki,2025-09,1,0,1,13
+Chhattisgarh,Mohalla Manpur Ambagarh Chowki,2025-11,11,2,13,2
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,2025-09,89,1388,1477,441
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,2025-10,68,373,441,1411
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,2025-11,114,1297,1411,1253
+Chhattisgarh,Mungeli,2025-09,1026,9610,10636,10238
+Chhattisgarh,Mungeli,2025-10,789,9449,10238,18346
+Chhattisgarh,Mungeli,2025-11,1071,17275,18346,9173
+Chhattisgarh,Narayanpur,2025-09,279,2561,2840,1731
+Chhattisgarh,Narayanpur,2025-10,148,1583,1731,2183
+Chhattisgarh,Narayanpur,2025-11,221,1962,2183,1664
+Chhattisgarh,Raigarh,2025-07,1522,6505,8027,36536
+Chhattisgarh,Raigarh,2025-09,1638,34898,36536,21834
+Chhattisgarh,Raigarh,2025-10,894,20940,21834,25418
+Chhattisgarh,Raigarh,2025-11,1057,24361,25418,10436
+Chhattisgarh,Raipur,2025-03,100,0,100,3745
+Chhattisgarh,Raipur,2025-04,322,3423,3745,24147
+Chhattisgarh,Raipur,2025-09,2314,21833,24147,12599
+Chhattisgarh,Raipur,2025-10,1612,10987,12599,36185
+Chhattisgarh,Raipur,2025-11,2995,33190,36185,18979
+Chhattisgarh,Rajnandgaon,2025-09,1365,17211,18576,13952
+Chhattisgarh,Rajnandgaon,2025-10,933,13019,13952,29600
+Chhattisgarh,Rajnandgaon,2025-11,1978,27622,29600,13142
+Chhattisgarh,Sakti,2025-09,201,846,1047,630
+Chhattisgarh,Sakti,2025-10,87,543,630,1720
+Chhattisgarh,Sakti,2025-11,155,1565,1720,553
+Chhattisgarh,Sarangarh Bilaigarh,2025-09,31,208,239,229
+Chhattisgarh,Sarangarh Bilaigarh,2025-10,37,192,229,776
+Chhattisgarh,Sarangarh Bilaigarh,2025-11,64,712,776,1059
+Chhattisgarh,Sukma,2025-04,381,387,768,588
+Chhattisgarh,Sukma,2025-05,252,336,588,1833
+Chhattisgarh,Sukma,2025-07,363,1470,1833,4752
+Chhattisgarh,Sukma,2025-09,323,4429,4752,2887
+Chhattisgarh,Sukma,2025-10,217,2670,2887,3714
+Chhattisgarh,Sukma,2025-11,315,3399,3714,4106
+Chhattisgarh,Surajpur,2025-09,1105,12613,13718,11096
+Chhattisgarh,Surajpur,2025-10,759,10337,11096,11950
+Chhattisgarh,Surajpur,2025-11,902,11048,11950,8430
+Chhattisgarh,Surguja,2025-09,1505,17161,18666,12451
+Chhattisgarh,Surguja,2025-10,797,11654,12451,18694
+Chhattisgarh,Surguja,2025-11,1078,17616,18694,12650
+Chhattisgarh,Uttar Bastar Kanker,2025-09,295,2409,2704,1732
+Chhattisgarh,Uttar Bastar Kanker,2025-10,198,1534,1732,3226
+Chhattisgarh,Uttar Bastar Kanker,2025-11,283,2943,3226,2424
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,2025-06,249,0,249,467
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,2025-07,467,0,467,6663
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,2025-09,403,6260,6663,1671
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,2025-10,146,1525,1671,2575
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,2025-11,216,2359,2575,1037
+Dadra And Nagar Haveli And Daman And Diu,Dadra Nagar Haveli,2025-09,13,68,81,29
+Dadra And Nagar Haveli And Daman And Diu,Dadra Nagar Haveli,2025-10,6,23,29,42
+Dadra And Nagar Haveli And Daman And Diu,Dadra Nagar Haveli,2025-11,10,32,42,6
+Dadra And Nagar Haveli And Daman And Diu,Daman,2025-09,49,396,445,83
+Dadra And Nagar Haveli And Daman And Diu,Daman,2025-10,13,70,83,313
+Dadra And Nagar Haveli And Daman And Diu,Daman,2025-11,61,252,313,136
+Dadra And Nagar Haveli And Daman And Diu,Diu,2025-09,28,43,71,47
+Dadra And Nagar Haveli And Daman And Diu,Diu,2025-10,19,28,47,277
+Dadra And Nagar Haveli And Daman And Diu,Diu,2025-11,29,248,277,68
+Delhi,Central Delhi,2025-04,133,911,1044,3650
+Delhi,Central Delhi,2025-05,333,3317,3650,1558
+Delhi,Central Delhi,2025-06,194,1364,1558,3798
+Delhi,Central Delhi,2025-07,1152,2646,3798,8194
+Delhi,Central Delhi,2025-09,808,7386,8194,4173
+Delhi,Central Delhi,2025-10,474,3699,4173,8053
+Delhi,Central Delhi,2025-11,772,7281,8053,3710
+Delhi,East Delhi,2025-04,1824,26570,28394,17628
+Delhi,East Delhi,2025-05,1378,16250,17628,27816
+Delhi,East Delhi,2025-06,1970,25846,27816,37964
+Delhi,East Delhi,2025-07,3756,34208,37964,21593
+Delhi,East Delhi,2025-09,2269,19324,21593,11874
+Delhi,East Delhi,2025-10,1355,10519,11874,19335
+Delhi,East Delhi,2025-11,1813,17522,19335,10831
+Delhi,Najafgarh,2025-09,14,34,48,21
+Delhi,Najafgarh,2025-10,4,17,21,57
+Delhi,Najafgarh,2025-11,13,44,57,4
+Delhi,New Delhi,2025-06,363,0,363,1349
+Delhi,New Delhi,2025-07,1091,258,1349,549
+Delhi,New Delhi,2025-09,70,479,549,227
+Delhi,New Delhi,2025-10,34,193,227,569
+Delhi,New Delhi,2025-11,62,507,569,291
+Delhi,North Delhi,2025-06,598,0,598,901
+Delhi,North Delhi,2025-07,901,0,901,10787
+Delhi,North Delhi,2025-09,968,9819,10787,5461
+Delhi,North Delhi,2025-10,626,4835,5461,8936
+Delhi,North Delhi,2025-11,1107,7829,8936,6444
+Delhi,North East,2025-09,675,4453,5128,2976
+Delhi,North East,2025-10,395,2581,2976,5011
+Delhi,North East,2025-11,594,4417,5011,2183
+Delhi,North East Delhi,2025-06,1577,12527,14104,46128
+Delhi,North East Delhi,2025-07,7356,38772,46128,22773
+Delhi,North East Delhi,2025-09,2345,20428,22773,11620
+Delhi,North East Delhi,2025-10,1557,10063,11620,20102
+Delhi,North East Delhi,2025-11,1945,18157,20102,13409
+Delhi,North West Delhi,2025-03,60,0,60,33215
+Delhi,North West Delhi,2025-04,1715,31500,33215,5159
+Delhi,North West Delhi,2025-05,644,4515,5159,8032
+Delhi,North West Delhi,2025-06,798,7234,8032,15097
+Delhi,North West Delhi,2025-07,1685,13412,15097,48596
+Delhi,North West Delhi,2025-09,4445,44151,48596,24457
+Delhi,North West Delhi,2025-10,2541,21916,24457,42413
+Delhi,North West Delhi,2025-11,4431,37982,42413,21820
+Delhi,Shahdara,2025-04,319,3123,3442,632
+Delhi,Shahdara,2025-05,133,499,632,3610
+Delhi,Shahdara,2025-07,799,2811,3610,1759
+Delhi,Shahdara,2025-09,212,1547,1759,883
+Delhi,Shahdara,2025-10,90,793,883,1565
+Delhi,Shahdara,2025-11,131,1434,1565,757
+Delhi,South Delhi,2025-04,563,7934,8497,2889
+Delhi,South Delhi,2025-05,333,2556,2889,11134
+Delhi,South Delhi,2025-06,911,10223,11134,10801
+Delhi,South Delhi,2025-07,1559,9242,10801,31497
+Delhi,South Delhi,2025-09,3643,27854,31497,19790
+Delhi,South Delhi,2025-10,2728,17062,19790,30546
+Delhi,South Delhi,2025-11,3646,26900,30546,14450
+Delhi,South East Delhi,2025-09,19,57,76,38
+Delhi,South East Delhi,2025-10,7,31,38,146
+Delhi,South East Delhi,2025-11,25,121,146,116
+Delhi,South West Delhi,2025-04,1458,30132,31590,8950
+Delhi,South West Delhi,2025-05,684,8266,8950,2411
+Delhi,South West Delhi,2025-06,321,2090,2411,15334
+Delhi,South West Delhi,2025-07,1408,13926,15334,23828
+Delhi,South West Delhi,2025-09,2583,21245,23828,13198
+Delhi,South West Delhi,2025-10,1557,11641,13198,21255
+Delhi,South West Delhi,2025-11,2178,19077,21255,10762
+Delhi,West Delhi,2025-03,308,0,308,63868
+Delhi,West Delhi,2025-04,3341,60527,63868,13339
+Delhi,West Delhi,2025-05,2076,11263,13339,26219
+Delhi,West Delhi,2025-06,2414,23805,26219,45524
+Delhi,West Delhi,2025-07,5352,40172,45524,28427
+Delhi,West Delhi,2025-09,3070,25357,28427,14479
+Delhi,West Delhi,2025-10,1587,12892,14479,26147
+Delhi,West Delhi,2025-11,2529,23618,26147,11231
+Goa,Bardez,2025-09,1,0,1,1
+Goa,North Goa,2025-07,42,86,128,3426
+Goa,North Goa,2025-09,558,2868,3426,2789
+Goa,North Goa,2025-10,302,2487,2789,4359
+Goa,North Goa,2025-11,430,3929,4359,1055
+Goa,South Goa,2025-09,385,2433,2818,1920
+Goa,South Goa,2025-10,223,1697,1920,3100
+Goa,South Goa,2025-11,345,2755,3100,1107
+Gujarat,Ahmedabad,2025-04,122,916,1038,21134
+Gujarat,Ahmedabad,2025-05,1200,19934,21134,1745
+Gujarat,Ahmedabad,2025-06,1225,520,1745,8980
+Gujarat,Ahmedabad,2025-07,5306,3674,8980,66534
+Gujarat,Ahmedabad,2025-09,7202,59332,66534,23714
+Gujarat,Ahmedabad,2025-10,3145,20569,23714,62236
+Gujarat,Ahmedabad,2025-11,6920,55316,62236,27924
+Gujarat,Amreli,2025-04,238,1023,1261,3964
+Gujarat,Amreli,2025-07,769,3195,3964,9207
+Gujarat,Amreli,2025-09,1241,7966,9207,2794
+Gujarat,Amreli,2025-10,433,2361,2794,7417
+Gujarat,Amreli,2025-11,1073,6344,7417,3577
+Gujarat,Anand,2025-04,241,1335,1576,1304
+Gujarat,Anand,2025-05,143,1161,1304,1645
+Gujarat,Anand,2025-06,229,1416,1645,6195
+Gujarat,Anand,2025-07,1109,5086,6195,14224
+Gujarat,Anand,2025-09,2030,12194,14224,3965
+Gujarat,Anand,2025-10,798,3167,3965,10411
+Gujarat,Anand,2025-11,1793,8618,10411,5129
+Gujarat,Arvalli,2025-04,206,1044,1250,2283
+Gujarat,Arvalli,2025-07,601,1682,2283,3892
+Gujarat,Arvalli,2025-09,637,3255,3892,836
+Gujarat,Arvalli,2025-10,208,628,836,2329
+Gujarat,Arvalli,2025-11,463,1866,2329,1578
+Gujarat,Banaskantha,2025-03,806,0,806,14148
+Gujarat,Banaskantha,2025-04,4044,10104,14148,18720
+Gujarat,Banaskantha,2025-05,2395,16325,18720,3290
+Gujarat,Banaskantha,2025-06,3290,0,3290,9339
+Gujarat,Banaskantha,2025-07,9228,111,9339,31140
+Gujarat,Banaskantha,2025-09,5392,25748,31140,9858
+Gujarat,Banaskantha,2025-10,1752,8106,9858,20093
+Gujarat,Banaskantha,2025-11,3313,16780,20093,13484
+Gujarat,Bharuch,2025-04,211,1100,1311,9290
+Gujarat,Bharuch,2025-05,626,8664,9290,10933
+Gujarat,Bharuch,2025-09,1436,9497,10933,3687
+Gujarat,Bharuch,2025-10,601,3086,3687,10697
+Gujarat,Bharuch,2025-11,1332,9365,10697,4444
+Gujarat,Bhavnagar,2025-04,628,2116,2744,2119
+Gujarat,Bhavnagar,2025-06,239,1880,2119,11665
+Gujarat,Bhavnagar,2025-07,2144,9521,11665,19896
+Gujarat,Bhavnagar,2025-09,3099,16797,19896,6391
+Gujarat,Bhavnagar,2025-10,1060,5331,6391,17373
+Gujarat,Bhavnagar,2025-11,2517,14856,17373,7203
+Gujarat,Botad,2025-04,332,580,912,1187
+Gujarat,Botad,2025-06,364,823,1187,2423
+Gujarat,Botad,2025-07,1090,1333,2423,2627
+Gujarat,Botad,2025-09,499,2128,2627,956
+Gujarat,Botad,2025-10,142,814,956,1855
+Gujarat,Botad,2025-11,447,1408,1855,827
+Gujarat,Chhotaudepur,2025-04,482,2934,3416,3021
+Gujarat,Chhotaudepur,2025-05,216,2805,3021,141
+Gujarat,Chhotaudepur,2025-06,141,0,141,6204
+Gujarat,Chhotaudepur,2025-07,1862,4342,6204,4064
+Gujarat,Chhotaudepur,2025-09,453,3611,4064,1088
+Gujarat,Chhotaudepur,2025-10,221,867,1088,2861
+Gujarat,Chhotaudepur,2025-11,527,2334,2861,1409
+Gujarat,Dahod,2025-03,110,0,110,13842
+Gujarat,Dahod,2025-04,2071,11771,13842,14873
+Gujarat,Dahod,2025-05,2080,12793,14873,4561
+Gujarat,Dahod,2025-06,3188,1373,4561,10473
+Gujarat,Dahod,2025-07,8001,2472,10473,24129
+Gujarat,Dahod,2025-09,3631,20498,24129,6935
+Gujarat,Dahod,2025-10,1229,5706,6935,17567
+Gujarat,Dahod,2025-11,3332,14235,17567,5901
+Gujarat,Dang,2025-04,120,1116,1236,4399
+Gujarat,Dang,2025-05,261,4138,4399,364
+Gujarat,Dang,2025-06,364,0,364,508
+Gujarat,Dang,2025-07,508,0,508,3773
+Gujarat,Dang,2025-09,445,3328,3773,1278
+Gujarat,Dang,2025-10,217,1061,1278,1813
+Gujarat,Dang,2025-11,271,1542,1813,796
+Gujarat,Devbhumi Dwarka,2025-04,284,1135,1419,1366
+Gujarat,Devbhumi Dwarka,2025-05,216,1150,1366,1696
+Gujarat,Devbhumi Dwarka,2025-07,577,1119,1696,3386
+Gujarat,Devbhumi Dwarka,2025-09,639,2747,3386,985
+Gujarat,Devbhumi Dwarka,2025-10,273,712,985,1795
+Gujarat,Devbhumi Dwarka,2025-11,412,1383,1795,1267
+Gujarat,Gandhinagar,2025-04,789,6707,7496,10680
+Gujarat,Gandhinagar,2025-05,590,10090,10680,4304
+Gujarat,Gandhinagar,2025-06,312,3992,4304,5459
+Gujarat,Gandhinagar,2025-07,547,4912,5459,10369
+Gujarat,Gandhinagar,2025-09,1256,9113,10369,3109
+Gujarat,Gandhinagar,2025-10,493,2616,3109,9683
+Gujarat,Gandhinagar,2025-11,1609,8074,9683,4523
+Gujarat,Gir Somnath,2025-04,1706,3527,5233,1464
+Gujarat,Gir Somnath,2025-05,260,1204,1464,4032
+Gujarat,Gir Somnath,2025-07,1344,2688,4032,4885
+Gujarat,Gir Somnath,2025-09,936,3949,4885,2104
+Gujarat,Gir Somnath,2025-10,468,1636,2104,4534
+Gujarat,Gir Somnath,2025-11,869,3665,4534,2550
+Gujarat,Jamnagar,2025-04,316,1356,1672,6753
+Gujarat,Jamnagar,2025-05,554,6199,6753,3871
+Gujarat,Jamnagar,2025-07,1014,2857,3871,11496
+Gujarat,Jamnagar,2025-09,1646,9850,11496,4705
+Gujarat,Jamnagar,2025-10,829,3876,4705,9285
+Gujarat,Jamnagar,2025-11,1375,7910,9285,4502
+Gujarat,Junagadh,2025-04,289,1415,1704,13968
+Gujarat,Junagadh,2025-09,2146,11822,13968,4273
+Gujarat,Junagadh,2025-10,763,3510,4273,10778
+Gujarat,Junagadh,2025-11,1835,8943,10778,6429
+Gujarat,Kachchh,2025-03,56,0,56,7168
+Gujarat,Kachchh,2025-04,907,6261,7168,1213
+Gujarat,Kachchh,2025-05,150,1063,1213,1032
+Gujarat,Kachchh,2025-06,133,899,1032,12048
+Gujarat,Kachchh,2025-07,1929,10119,12048,13253
+Gujarat,Kachchh,2025-09,1957,11296,13253,5953
+Gujarat,Kachchh,2025-10,1030,4923,5953,14997
+Gujarat,Kachchh,2025-11,2683,12314,14997,7310
+Gujarat,Kheda,2025-04,655,4224,4879,1186
+Gujarat,Kheda,2025-05,140,1046,1186,2423
+Gujarat,Kheda,2025-07,682,1741,2423,17968
+Gujarat,Kheda,2025-09,2330,15638,17968,5583
+Gujarat,Kheda,2025-10,951,4632,5583,14211
+Gujarat,Kheda,2025-11,2675,11536,14211,5405
+Gujarat,Mahesana,2025-04,553,3613,4166,1681
+Gujarat,Mahesana,2025-05,217,1464,1681,7600
+Gujarat,Mahesana,2025-07,1157,6443,7600,14055
+Gujarat,Mahesana,2025-09,1618,12437,14055,4377
+Gujarat,Mahesana,2025-10,646,3731,4377,12164
+Gujarat,Mahesana,2025-11,1839,10325,12164,5392
+Gujarat,Mahisagar,2025-04,138,669,807,597
+Gujarat,Mahisagar,2025-06,161,436,597,1201
+Gujarat,Mahisagar,2025-07,564,637,1201,4334
+Gujarat,Mahisagar,2025-09,679,3655,4334,1434
+Gujarat,Mahisagar,2025-10,317,1117,1434,2881
+Gujarat,Mahisagar,2025-11,557,2324,2881,1388
+Gujarat,Morbi,2025-03,71,0,71,6024
+Gujarat,Morbi,2025-04,1171,4853,6024,3546
+Gujarat,Morbi,2025-05,523,3023,3546,3782
+Gujarat,Morbi,2025-06,1169,2613,3782,13850
+Gujarat,Morbi,2025-07,3920,9930,13850,4512
+Gujarat,Morbi,2025-09,870,3642,4512,2330
+Gujarat,Morbi,2025-10,455,1875,2330,4581
+Gujarat,Morbi,2025-11,783,3798,4581,1712
+Gujarat,Narmada,2025-09,549,4383,4932,1435
+Gujarat,Narmada,2025-10,210,1225,1435,2800
+Gujarat,Narmada,2025-11,406,2394,2800,1653
+Gujarat,Navsari,2025-04,176,958,1134,1292
+Gujarat,Navsari,2025-05,158,1134,1292,1308
+Gujarat,Navsari,2025-07,257,1051,1308,6188
+Gujarat,Navsari,2025-09,832,5356,6188,2633
+Gujarat,Navsari,2025-10,346,2287,2633,6637
+Gujarat,Navsari,2025-11,926,5711,6637,2168
+Gujarat,Panchmahals,2025-04,902,5127,6029,3321
+Gujarat,Panchmahals,2025-05,455,2866,3321,1323
+Gujarat,Panchmahals,2025-07,1323,0,1323,16188
+Gujarat,Panchmahals,2025-09,2006,14182,16188,5908
+Gujarat,Panchmahals,2025-10,952,4956,5908,12981
+Gujarat,Panchmahals,2025-11,1902,11079,12981,5383
+Gujarat,Patan,2025-03,190,0,190,6952
+Gujarat,Patan,2025-04,1198,5754,6952,2313
+Gujarat,Patan,2025-05,303,2010,2313,1576
+Gujarat,Patan,2025-06,298,1278,1576,14820
+Gujarat,Patan,2025-07,3151,11669,14820,12190
+Gujarat,Patan,2025-09,1703,10487,12190,4084
+Gujarat,Patan,2025-10,565,3519,4084,8748
+Gujarat,Patan,2025-11,1338,7410,8748,4465
+Gujarat,Porbandar,2025-04,349,1558,1907,1584
+Gujarat,Porbandar,2025-06,277,1307,1584,2926
+Gujarat,Porbandar,2025-07,595,2331,2926,4370
+Gujarat,Porbandar,2025-09,531,3839,4370,1761
+Gujarat,Porbandar,2025-10,222,1539,1761,3575
+Gujarat,Porbandar,2025-11,433,3142,3575,1531
+Gujarat,Rajkot,2025-04,2354,18735,21089,30562
+Gujarat,Rajkot,2025-05,2188,28374,30562,324
+Gujarat,Rajkot,2025-06,324,0,324,22354
+Gujarat,Rajkot,2025-07,4204,18150,22354,24440
+Gujarat,Rajkot,2025-09,3042,21398,24440,11595
+Gujarat,Rajkot,2025-10,1644,9951,11595,26332
+Gujarat,Rajkot,2025-11,3625,22707,26332,12017
+Gujarat,Sabarkantha,2025-04,696,3777,4473,1074
+Gujarat,Sabarkantha,2025-05,142,932,1074,2277
+Gujarat,Sabarkantha,2025-07,2277,0,2277,15261
+Gujarat,Sabarkantha,2025-09,2028,13233,15261,3796
+Gujarat,Sabarkantha,2025-10,632,3164,3796,8718
+Gujarat,Sabarkantha,2025-11,1312,7406,8718,5080
+Gujarat,Surat,2025-04,4188,35789,39977,61335
+Gujarat,Surat,2025-05,3862,57473,61335,40257
+Gujarat,Surat,2025-07,4356,35901,40257,52495
+Gujarat,Surat,2025-09,5721,46774,52495,26002
+Gujarat,Surat,2025-10,2382,23620,26002,66337
+Gujarat,Surat,2025-11,6888,59449,66337,25000
+Gujarat,Surendranagar,2025-04,686,3745,4431,2922
+Gujarat,Surendranagar,2025-07,1753,1169,2922,14583
+Gujarat,Surendranagar,2025-09,2686,11897,14583,4803
+Gujarat,Surendranagar,2025-10,1015,3788,4803,10655
+Gujarat,Surendranagar,2025-11,1884,8771,10655,6206
+Gujarat,Tapi,2025-04,93,629,722,6043
+Gujarat,Tapi,2025-09,1132,4911,6043,1586
+Gujarat,Tapi,2025-10,288,1298,1586,3984
+Gujarat,Tapi,2025-11,677,3307,3984,1481
+Gujarat,Vadodara,2025-03,89,0,89,6763
+Gujarat,Vadodara,2025-04,1184,5579,6763,2073
+Gujarat,Vadodara,2025-05,246,1827,2073,3505
+Gujarat,Vadodara,2025-06,510,2995,3505,5210
+Gujarat,Vadodara,2025-07,784,4426,5210,27494
+Gujarat,Vadodara,2025-09,3206,24288,27494,11195
+Gujarat,Vadodara,2025-10,1754,9441,11195,32558
+Gujarat,Vadodara,2025-11,4102,28456,32558,13051
+Gujarat,Valsad,2025-04,904,3858,4762,3720
+Gujarat,Valsad,2025-05,398,3322,3720,2853
+Gujarat,Valsad,2025-07,872,1981,2853,14489
+Gujarat,Valsad,2025-09,2007,12482,14489,4952
+Gujarat,Valsad,2025-10,760,4192,4952,12507
+Gujarat,Valsad,2025-11,2149,10358,12507,5051
+Haryana,Ambala,2025-06,281,3662,3943,8262
+Haryana,Ambala,2025-09,831,7431,8262,5625
+Haryana,Ambala,2025-10,736,4889,5625,12816
+Haryana,Ambala,2025-11,1340,11476,12816,4144
+Haryana,Bhiwani,2025-09,1078,8684,9762,7863
+Haryana,Bhiwani,2025-10,892,6971,7863,12023
+Haryana,Bhiwani,2025-11,1225,10798,12023,5268
+Haryana,Charkhi Dadri,2025-09,282,1213,1495,1174
+Haryana,Charkhi Dadri,2025-10,206,968,1174,1921
+Haryana,Charkhi Dadri,2025-11,355,1566,1921,984
+Haryana,Faridabad,2025-03,150,0,150,26844
+Haryana,Faridabad,2025-04,2883,23961,26844,22901
+Haryana,Faridabad,2025-05,2842,20059,22901,31177
+Haryana,Faridabad,2025-06,3457,27720,31177,16440
+Haryana,Faridabad,2025-07,3465,12975,16440,23137
+Haryana,Faridabad,2025-09,2499,20638,23137,16290
+Haryana,Faridabad,2025-10,1540,14750,16290,31042
+Haryana,Faridabad,2025-11,3267,27775,31042,10851
+Haryana,Fatehabad,2025-09,632,7070,7702,9136
+Haryana,Fatehabad,2025-10,938,8198,9136,10429
+Haryana,Fatehabad,2025-11,1019,9410,10429,3615
+Haryana,Gurugram,2025-03,50,0,50,12735
+Haryana,Gurugram,2025-04,851,11884,12735,3075
+Haryana,Gurugram,2025-05,668,2407,3075,822
+Haryana,Gurugram,2025-06,822,0,822,1764
+Haryana,Gurugram,2025-07,1764,0,1764,14462
+Haryana,Gurugram,2025-09,1968,12494,14462,12096
+Haryana,Gurugram,2025-10,1362,10734,12096,20878
+Haryana,Gurugram,2025-11,2142,18736,20878,7518
+Haryana,Hisar,2025-06,406,3053,3459,14038
+Haryana,Hisar,2025-09,1528,12510,14038,14728
+Haryana,Hisar,2025-10,1521,13207,14728,21880
+Haryana,Hisar,2025-11,1828,20052,21880,6013
+Haryana,Jhajjar,2025-09,882,6181,7063,6167
+Haryana,Jhajjar,2025-10,757,5410,6167,8087
+Haryana,Jhajjar,2025-11,854,7233,8087,3363
+Haryana,Jind,2025-09,1397,11468,12865,9811
+Haryana,Jind,2025-10,1057,8754,9811,15419
+Haryana,Jind,2025-11,1387,14032,15419,6017
+Haryana,Kaithal,2025-06,435,5019,5454,10861
+Haryana,Kaithal,2025-09,897,9964,10861,7047
+Haryana,Kaithal,2025-10,559,6488,7047,9736
+Haryana,Kaithal,2025-11,978,8758,9736,3859
+Haryana,Karnal,2025-09,1426,10776,12202,8561
+Haryana,Karnal,2025-10,1023,7538,8561,15367
+Haryana,Karnal,2025-11,1182,14185,15367,6255
+Haryana,Kurukshetra,2025-06,93,684,777,8652
+Haryana,Kurukshetra,2025-09,698,7954,8652,6048
+Haryana,Kurukshetra,2025-10,640,5408,6048,10521
+Haryana,Kurukshetra,2025-11,886,9635,10521,3053
+Haryana,Mahendragarh,2025-09,877,6345,7222,5970
+Haryana,Mahendragarh,2025-10,650,5320,5970,10208
+Haryana,Mahendragarh,2025-11,990,9218,10208,4461
+Haryana,Nuh,2025-05,2654,9512,12166,1506
+Haryana,Nuh,2025-06,1506,0,1506,18622
+Haryana,Nuh,2025-09,1523,17099,18622,13401
+Haryana,Nuh,2025-10,1787,11614,13401,16853
+Haryana,Nuh,2025-11,2244,14609,16853,7973
+Haryana,Palwal,2025-09,1341,12794,14135,10090
+Haryana,Palwal,2025-10,1258,8832,10090,15167
+Haryana,Palwal,2025-11,2143,13024,15167,7722
+Haryana,Panchkula,2025-09,350,2949,3299,3208
+Haryana,Panchkula,2025-10,356,2852,3208,5699
+Haryana,Panchkula,2025-11,571,5128,5699,1853
+Haryana,Panipat,2025-06,877,4563,5440,17141
+Haryana,Panipat,2025-07,1523,15618,17141,13228
+Haryana,Panipat,2025-09,1326,11902,13228,9001
+Haryana,Panipat,2025-10,879,8122,9001,14825
+Haryana,Panipat,2025-11,1350,13475,14825,5335
+Haryana,Rewari,2025-09,761,7250,8011,6575
+Haryana,Rewari,2025-10,683,5892,6575,8942
+Haryana,Rewari,2025-11,1020,7922,8942,4114
+Haryana,Rohtak,2025-06,528,3933,4461,9410
+Haryana,Rohtak,2025-09,999,8411,9410,7142
+Haryana,Rohtak,2025-10,890,6252,7142,8611
+Haryana,Rohtak,2025-11,1004,7607,8611,3581
+Haryana,Sirsa,2025-09,962,10358,11320,12556
+Haryana,Sirsa,2025-10,936,11620,12556,15821
+Haryana,Sirsa,2025-11,1373,14448,15821,5798
+Haryana,Sonipat,2025-06,858,10046,10904,11334
+Haryana,Sonipat,2025-09,1340,9994,11334,9251
+Haryana,Sonipat,2025-10,1063,8188,9251,13674
+Haryana,Sonipat,2025-11,1646,12028,13674,5512
+Haryana,Yamuna Nagar,2025-09,1057,10136,11193,8695
+Haryana,Yamuna Nagar,2025-10,755,7940,8695,17053
+Haryana,Yamuna Nagar,2025-11,1435,15618,17053,5803
+Himachal Pradesh,Bilaspur,2025-09,266,1394,1660,1748
+Himachal Pradesh,Bilaspur,2025-10,273,1475,1748,2197
+Himachal Pradesh,Bilaspur,2025-11,347,1850,2197,822
+Himachal Pradesh,Chamba,2025-09,404,4209,4613,3038
+Himachal Pradesh,Chamba,2025-10,456,2582,3038,7151
+Himachal Pradesh,Chamba,2025-11,809,6342,7151,1792
+Himachal Pradesh,Hamirpur,2025-09,301,1116,1417,1574
+Himachal Pradesh,Hamirpur,2025-10,331,1243,1574,2138
+Himachal Pradesh,Hamirpur,2025-11,473,1665,2138,780
+Himachal Pradesh,Kangra,2025-09,1318,7674,8992,6872
+Himachal Pradesh,Kangra,2025-10,1067,5805,6872,11438
+Himachal Pradesh,Kangra,2025-11,1486,9952,11438,2864
+Himachal Pradesh,Kinnaur,2025-09,54,145,199,100
+Himachal Pradesh,Kinnaur,2025-10,31,69,100,247
+Himachal Pradesh,Kinnaur,2025-11,59,188,247,84
+Himachal Pradesh,Kullu,2025-07,114,239,353,1090
+Himachal Pradesh,Kullu,2025-09,218,872,1090,1736
+Himachal Pradesh,Kullu,2025-10,266,1470,1736,4091
+Himachal Pradesh,Kullu,2025-11,611,3480,4091,870
+Himachal Pradesh,Lahaul And Spiti,2025-09,24,24,48,40
+Himachal Pradesh,Lahaul And Spiti,2025-10,17,23,40,51
+Himachal Pradesh,Lahaul And Spiti,2025-11,28,23,51,10
+Himachal Pradesh,Mandi,2025-09,726,3904,4630,5425
+Himachal Pradesh,Mandi,2025-10,703,4722,5425,6344
+Himachal Pradesh,Mandi,2025-11,918,5426,6344,1975
+Himachal Pradesh,Shimla,2025-09,471,2397,2868,3063
+Himachal Pradesh,Shimla,2025-10,487,2576,3063,4635
+Himachal Pradesh,Shimla,2025-11,709,3926,4635,1239
+Himachal Pradesh,Sirmaur,2025-09,556,3782,4338,2897
+Himachal Pradesh,Sirmaur,2025-10,388,2509,2897,4736
+Himachal Pradesh,Sirmaur,2025-11,637,4099,4736,1432
+Himachal Pradesh,Solan,2025-09,380,2992,3372,2823
+Himachal Pradesh,Solan,2025-10,329,2494,2823,4466
+Himachal Pradesh,Solan,2025-11,463,4003,4466,1169
+Himachal Pradesh,Una,2025-09,385,3075,3460,3038
+Himachal Pradesh,Una,2025-10,401,2637,3038,2823
+Himachal Pradesh,Una,2025-11,418,2405,2823,918
+Jammu & Kashmir,Anantnag,2025-09,1024,5030,6054,6164
+Jammu & Kashmir,Anantnag,2025-10,862,5302,6164,8176
+Jammu & Kashmir,Anantnag,2025-11,1164,7012,8176,8571
+Jammu & Kashmir,Badgam,2025-09,607,2137,2744,2214
+Jammu & Kashmir,Badgam,2025-10,443,1771,2214,3009
+Jammu & Kashmir,Badgam,2025-11,627,2382,3009,2046
+Jammu & Kashmir,Bandipore,2025-09,505,2683,3188,3280
+Jammu & Kashmir,Bandipore,2025-10,553,2727,3280,3567
+Jammu & Kashmir,Bandipore,2025-11,649,2918,3567,2336
+Jammu & Kashmir,Bandipur,2025-10,1,0,1,1
+Jammu & Kashmir,Baramula,2025-05,374,5120,5494,8854
+Jammu & Kashmir,Baramula,2025-09,1092,7762,8854,6440
+Jammu & Kashmir,Baramula,2025-10,802,5638,6440,11852
+Jammu & Kashmir,Baramula,2025-11,1227,10625,11852,6140
+Jammu & Kashmir,Budgam,2025-09,253,1993,2246,2651
+Jammu & Kashmir,Budgam,2025-10,239,2412,2651,2771
+Jammu & Kashmir,Budgam,2025-11,280,2491,2771,1309
+Jammu & Kashmir,Doda,2025-07,538,0,538,1787
+Jammu & Kashmir,Doda,2025-09,437,1350,1787,6860
+Jammu & Kashmir,Doda,2025-10,1888,4972,6860,7918
+Jammu & Kashmir,Doda,2025-11,1297,6621,7918,3019
+Jammu & Kashmir,Ganderbal,2025-09,290,1336,1626,1187
+Jammu & Kashmir,Ganderbal,2025-10,184,1003,1187,2495
+Jammu & Kashmir,Ganderbal,2025-11,310,2185,2495,1558
+Jammu & Kashmir,Jammu,2025-05,81,912,993,11828
+Jammu & Kashmir,Jammu,2025-09,1593,10235,11828,12724
+Jammu & Kashmir,Jammu,2025-10,1199,11525,12724,14068
+Jammu & Kashmir,Jammu,2025-11,1403,12665,14068,5291
+Jammu & Kashmir,Kargil,2025-09,147,406,553,488
+Jammu & Kashmir,Kargil,2025-10,138,350,488,630
+Jammu & Kashmir,Kargil,2025-11,173,457,630,384
+Jammu & Kashmir,Kathua,2025-09,645,3715,4360,5415
+Jammu & Kashmir,Kathua,2025-10,589,4826,5415,7566
+Jammu & Kashmir,Kathua,2025-11,1293,6273,7566,3654
+Jammu & Kashmir,Kishtwar,2025-09,243,1264,1507,2069
+Jammu & Kashmir,Kishtwar,2025-10,356,1713,2069,2491
+Jammu & Kashmir,Kishtwar,2025-11,488,2003,2491,1584
+Jammu & Kashmir,Kulgam,2025-09,318,2012,2330,1887
+Jammu & Kashmir,Kulgam,2025-10,320,1567,1887,4010
+Jammu & Kashmir,Kulgam,2025-11,511,3499,4010,1642
+Jammu & Kashmir,Kupwara,2025-09,899,6139,7038,6890
+Jammu & Kashmir,Kupwara,2025-10,818,6072,6890,7765
+Jammu & Kashmir,Kupwara,2025-11,1042,6723,7765,4115
+Jammu & Kashmir,Leh,2025-09,47,221,268,437
+Jammu & Kashmir,Leh,2025-10,74,363,437,406
+Jammu & Kashmir,Leh,2025-11,70,336,406,118
+Jammu & Kashmir,Leh Ladakh,2025-10,1,0,1,2
+Jammu & Kashmir,Pulwama,2025-09,509,1988,2497,4346
+Jammu & Kashmir,Pulwama,2025-10,545,3801,4346,9341
+Jammu & Kashmir,Pulwama,2025-11,648,8693,9341,2412
+Jammu & Kashmir,Punch,2025-04,211,1960,2171,4452
+Jammu & Kashmir,Punch,2025-09,572,3880,4452,6556
+Jammu & Kashmir,Punch,2025-10,696,5860,6556,9843
+Jammu & Kashmir,Punch,2025-11,949,8894,9843,3249
+Jammu & Kashmir,Rajauri,2025-11,1,0,1,1
+Jammu & Kashmir,Rajouri,2025-09,735,4698,5433,5552
+Jammu & Kashmir,Rajouri,2025-10,498,5054,5552,10826
+Jammu & Kashmir,Rajouri,2025-11,1097,9729,10826,3590
+Jammu & Kashmir,Ramban,2025-09,340,1464,1804,4195
+Jammu & Kashmir,Ramban,2025-10,638,3557,4195,7932
+Jammu & Kashmir,Ramban,2025-11,687,7245,7932,1919
+Jammu & Kashmir,Reasi,2025-09,387,1720,2107,2475
+Jammu & Kashmir,Reasi,2025-10,425,2050,2475,4207
+Jammu & Kashmir,Reasi,2025-11,802,3405,4207,1794
+Jammu & Kashmir,Samba,2025-09,170,889,1059,1296
+Jammu & Kashmir,Samba,2025-10,147,1149,1296,1704
+Jammu & Kashmir,Samba,2025-11,202,1502,1704,681
+Jammu & Kashmir,Shupiyan,2025-09,178,2001,2179,2188
+Jammu & Kashmir,Shupiyan,2025-10,178,2010,2188,2049
+Jammu & Kashmir,Shupiyan,2025-11,177,1872,2049,1783
+Jammu & Kashmir,Srinagar,2025-09,1224,7784,9008,10762
+Jammu & Kashmir,Srinagar,2025-10,867,9895,10762,14310
+Jammu & Kashmir,Srinagar,2025-11,1129,13181,14310,5824
+Jammu & Kashmir,Udhampur,2025-09,614,3078,3692,4312
+Jammu & Kashmir,Udhampur,2025-10,530,3782,4312,7327
+Jammu & Kashmir,Udhampur,2025-11,1182,6145,7327,3292
+Jharkhand,Bokaro,2025-09,2129,15896,18025,9535
+Jharkhand,Bokaro,2025-10,1223,8312,9535,18417
+Jharkhand,Bokaro,2025-11,2207,16210,18417,6151
+Jharkhand,Chatra,2025-06,474,1525,1999,2386
+Jharkhand,Chatra,2025-07,501,1885,2386,18715
+Jharkhand,Chatra,2025-09,2001,16714,18715,6890
+Jharkhand,Chatra,2025-10,1034,5856,6890,14227
+Jharkhand,Chatra,2025-11,2153,12074,14227,5383
+Jharkhand,Deoghar,2025-03,55,0,55,4558
+Jharkhand,Deoghar,2025-04,723,3835,4558,13519
+Jharkhand,Deoghar,2025-09,2247,11272,13519,9810
+Jharkhand,Deoghar,2025-10,1738,8072,9810,16868
+Jharkhand,Deoghar,2025-11,3265,13603,16868,6235
+Jharkhand,Dhanbad,2025-07,1538,6134,7672,23384
+Jharkhand,Dhanbad,2025-09,3617,19767,23384,13228
+Jharkhand,Dhanbad,2025-10,2289,10939,13228,28910
+Jharkhand,Dhanbad,2025-11,3919,24991,28910,7867
+Jharkhand,Dumka,2025-04,89,1099,1188,595
+Jharkhand,Dumka,2025-06,198,397,595,630
+Jharkhand,Dumka,2025-07,188,442,630,14044
+Jharkhand,Dumka,2025-09,1945,12099,14044,8694
+Jharkhand,Dumka,2025-10,1203,7491,8694,14327
+Jharkhand,Dumka,2025-11,2212,12115,14327,3805
+Jharkhand,East Singhbhum,2025-04,120,2009,2129,2943
+Jharkhand,East Singhbhum,2025-07,1740,1203,2943,23182
+Jharkhand,East Singhbhum,2025-09,2993,20189,23182,12974
+Jharkhand,East Singhbhum,2025-10,1743,11231,12974,24282
+Jharkhand,East Singhbhum,2025-11,3143,21139,24282,8231
+Jharkhand,Garhwa,2025-09,2358,16234,18592,10275
+Jharkhand,Garhwa,2025-10,1332,8943,10275,21067
+Jharkhand,Garhwa,2025-11,2714,18353,21067,6436
+Jharkhand,Giridih,2025-07,1819,2636,4455,23328
+Jharkhand,Giridih,2025-09,4228,19100,23328,14325
+Jharkhand,Giridih,2025-10,2938,11387,14325,28868
+Jharkhand,Giridih,2025-11,4967,23901,28868,10018
+Jharkhand,Godda,2025-04,136,2445,2581,15348
+Jharkhand,Godda,2025-09,2037,13311,15348,10483
+Jharkhand,Godda,2025-10,1004,9479,10483,20946
+Jharkhand,Godda,2025-11,2246,18700,20946,4947
+Jharkhand,Gumla,2025-06,369,1904,2273,2145
+Jharkhand,Gumla,2025-07,692,1453,2145,17452
+Jharkhand,Gumla,2025-09,2431,15021,17452,10217
+Jharkhand,Gumla,2025-10,1194,9023,10217,13936
+Jharkhand,Gumla,2025-11,1744,12192,13936,6613
+Jharkhand,Hazaribag,2025-09,208,1636,1844,943
+Jharkhand,Hazaribag,2025-10,120,823,943,1856
+Jharkhand,Hazaribag,2025-11,232,1624,1856,458
+Jharkhand,Hazaribagh,2025-04,248,1798,2046,14682
+Jharkhand,Hazaribagh,2025-09,2075,12607,14682,8206
+Jharkhand,Hazaribagh,2025-10,1347,6859,8206,15490
+Jharkhand,Hazaribagh,2025-11,2224,13266,15490,5460
+Jharkhand,Jamtara,2025-09,1659,7854,9513,6786
+Jharkhand,Jamtara,2025-10,1183,5603,6786,7401
+Jharkhand,Jamtara,2025-11,1422,5979,7401,3201
+Jharkhand,Khunti,2025-06,250,1026,1276,2514
+Jharkhand,Khunti,2025-07,356,2158,2514,8465
+Jharkhand,Khunti,2025-09,769,7696,8465,4831
+Jharkhand,Khunti,2025-10,483,4348,4831,7971
+Jharkhand,Khunti,2025-11,792,7179,7971,1825
+Jharkhand,Koderma,2025-09,1312,4982,6294,3899
+Jharkhand,Koderma,2025-10,778,3121,3899,7230
+Jharkhand,Koderma,2025-11,1255,5975,7230,2507
+Jharkhand,Latehar,2025-09,1061,9914,10975,4456
+Jharkhand,Latehar,2025-10,370,4086,4456,9252
+Jharkhand,Latehar,2025-11,972,8280,9252,3353
+Jharkhand,Lohardaga,2025-04,308,4930,5238,3095
+Jharkhand,Lohardaga,2025-06,360,2735,3095,6382
+Jharkhand,Lohardaga,2025-09,749,5633,6382,2850
+Jharkhand,Lohardaga,2025-10,358,2492,2850,4811
+Jharkhand,Lohardaga,2025-11,694,4117,4811,2313
+Jharkhand,Pakaur,2025-04,962,2572,3534,2850
+Jharkhand,Pakaur,2025-06,1107,1743,2850,4035
+Jharkhand,Pakaur,2025-07,2028,2007,4035,11699
+Jharkhand,Pakaur,2025-09,2035,9664,11699,5695
+Jharkhand,Pakaur,2025-10,446,5249,5695,5912
+Jharkhand,Pakaur,2025-11,898,5014,5912,1624
+Jharkhand,Palamau,2025-09,2881,19707,22588,13175
+Jharkhand,Palamau,2025-10,1526,11649,13175,31446
+Jharkhand,Palamau,2025-11,4332,27114,31446,9417
+Jharkhand,Ramgarh,2025-09,1037,5757,6794,3943
+Jharkhand,Ramgarh,2025-10,669,3274,3943,7549
+Jharkhand,Ramgarh,2025-11,1135,6414,7549,2243
+Jharkhand,Ranchi,2025-04,1120,13075,14195,3047
+Jharkhand,Ranchi,2025-06,566,2481,3047,9723
+Jharkhand,Ranchi,2025-07,1595,8128,9723,27284
+Jharkhand,Ranchi,2025-09,3266,24018,27284,15716
+Jharkhand,Ranchi,2025-10,2392,13324,15716,32600
+Jharkhand,Ranchi,2025-11,5844,26756,32600,8462
+Jharkhand,Sahibganj,2025-09,2162,15091,17253,11747
+Jharkhand,Sahibganj,2025-10,1251,10496,11747,16494
+Jharkhand,Sahibganj,2025-11,3193,13301,16494,4591
+Jharkhand,Seraikela Kharsawan,2025-09,1349,10264,11613,7251
+Jharkhand,Seraikela Kharsawan,2025-10,949,6302,7251,13866
+Jharkhand,Seraikela Kharsawan,2025-11,1689,12177,13866,4259
+Jharkhand,Simdega,2025-09,961,10324,11285,4692
+Jharkhand,Simdega,2025-10,452,4240,4692,6573
+Jharkhand,Simdega,2025-11,669,5904,6573,1667
+Jharkhand,West Singhbhum,2025-07,776,2644,3420,25107
+Jharkhand,West Singhbhum,2025-09,2034,23073,25107,14379
+Jharkhand,West Singhbhum,2025-10,1689,12690,14379,19659
+Jharkhand,West Singhbhum,2025-11,2539,17120,19659,6245
+Karnataka,Bagalkot,2025-09,2743,11425,14168,9498
+Karnataka,Bagalkot,2025-10,1478,8020,9498,12527
+Karnataka,Bagalkot,2025-11,1971,10556,12527,5687
+Karnataka,Ballari,2025-09,3014,12350,15364,9253
+Karnataka,Ballari,2025-10,1434,7819,9253,9751
+Karnataka,Ballari,2025-11,1857,7894,9751,5317
+Karnataka,Bangalore Rural,2025-05,404,3766,4170,6125
+Karnataka,Bangalore Rural,2025-09,705,5420,6125,5286
+Karnataka,Bangalore Rural,2025-10,562,4724,5286,7218
+Karnataka,Bangalore Rural,2025-11,788,6430,7218,3378
+Karnataka,Belagavi,2025-09,5652,20466,26118,16784
+Karnataka,Belagavi,2025-10,3215,13569,16784,21877
+Karnataka,Belagavi,2025-11,4364,17513,21877,12055
+Karnataka,Bengaluru,2025-04,8257,32929,41186,47445
+Karnataka,Bengaluru,2025-05,5961,41484,47445,44259
+Karnataka,Bengaluru,2025-09,5636,38623,44259,32647
+Karnataka,Bengaluru,2025-10,4157,28490,32647,49072
+Karnataka,Bengaluru,2025-11,6274,42798,49072,23225
+Karnataka,Bengaluru Rural,2025-06,1134,0,1134,1654
+Karnataka,Bengaluru Rural,2025-07,1654,0,1654,2
+Karnataka,Bengaluru Rural,2025-09,1,1,2,1
+Karnataka,Bengaluru South,2025-09,3,6,9,54
+Karnataka,Bengaluru South,2025-10,29,25,54,289
+Karnataka,Bengaluru South,2025-11,121,168,289,162
+Karnataka,Bengaluru Urban,2025-03,732,0,732,10123
+Karnataka,Bengaluru Urban,2025-06,10123,0,10123,12219
+Karnataka,Bengaluru Urban,2025-07,12219,0,12219,17849
+Karnataka,Bengaluru Urban,2025-09,2208,15641,17849,13981
+Karnataka,Bengaluru Urban,2025-10,1754,12227,13981,18764
+Karnataka,Bengaluru Urban,2025-11,2469,16295,18764,6812
+Karnataka,Bidar,2025-07,169,379,548,12421
+Karnataka,Bidar,2025-09,1773,10648,12421,9681
+Karnataka,Bidar,2025-10,1079,8602,9681,12659
+Karnataka,Bidar,2025-11,1567,11092,12659,5556
+Karnataka,Chamarajanagar,2025-09,959,4636,5595,3328
+Karnataka,Chamarajanagar,2025-10,707,2621,3328,4256
+Karnataka,Chamarajanagar,2025-11,993,3263,4256,2043
+Karnataka,Chikkaballapur,2025-09,1083,6122,7205,5072
+Karnataka,Chikkaballapur,2025-10,765,4307,5072,6462
+Karnataka,Chikkaballapur,2025-11,896,5566,6462,3045
+Karnataka,Chikkamagaluru,2025-09,788,2820,3608,2544
+Karnataka,Chikkamagaluru,2025-10,566,1978,2544,3270
+Karnataka,Chikkamagaluru,2025-11,820,2450,3270,1764
+Karnataka,Chitradurga,2025-09,1240,7113,8353,6764
+Karnataka,Chitradurga,2025-10,993,5771,6764,7827
+Karnataka,Chitradurga,2025-11,1129,6698,7827,5432
+Karnataka,Dakshina Kannada,2025-09,1937,7771,9708,8952
+Karnataka,Dakshina Kannada,2025-10,1657,7295,8952,11134
+Karnataka,Dakshina Kannada,2025-11,2198,8936,11134,4525
+Karnataka,Davanagere,2025-09,183,578,761,341
+Karnataka,Davanagere,2025-10,95,246,341,428
+Karnataka,Davanagere,2025-11,142,286,428,222
+Karnataka,Davangere,2025-09,1548,10631,12179,6963
+Karnataka,Davangere,2025-10,959,6004,6963,7936
+Karnataka,Davangere,2025-11,1170,6766,7936,4746
+Karnataka,Dharwad,2025-09,1802,9746,11548,8224
+Karnataka,Dharwad,2025-10,1297,6927,8224,10845
+Karnataka,Dharwad,2025-11,1722,9123,10845,4628
+Karnataka,Gadag,2025-09,2174,5852,8026,5382
+Karnataka,Gadag,2025-10,824,4558,5382,6596
+Karnataka,Gadag,2025-11,1369,5227,6596,3070
+Karnataka,Gulbarga,2025-09,1527,7026,8553,7431
+Karnataka,Gulbarga,2025-10,1032,6399,7431,8166
+Karnataka,Gulbarga,2025-11,1372,6794,8166,3978
+Karnataka,Hassan,2025-09,1136,4459,5595,4969
+Karnataka,Hassan,2025-10,811,4158,4969,6626
+Karnataka,Hassan,2025-11,1134,5492,6626,2781
+Karnataka,Haveri,2025-09,1520,8144,9664,7033
+Karnataka,Haveri,2025-10,955,6078,7033,8535
+Karnataka,Haveri,2025-11,1371,7164,8535,3981
+Karnataka,Kalaburagi,2025-04,608,1779,2387,8531
+Karnataka,Kalaburagi,2025-09,1444,7087,8531,5918
+Karnataka,Kalaburagi,2025-10,954,4964,5918,8545
+Karnataka,Kalaburagi,2025-11,1481,7064,8545,4280
+Karnataka,Kodagu,2025-09,316,1265,1581,1708
+Karnataka,Kodagu,2025-10,297,1411,1708,1849
+Karnataka,Kodagu,2025-11,380,1469,1849,1086
+Karnataka,Kolar,2025-09,1406,8876,10282,6853
+Karnataka,Kolar,2025-10,911,5942,6853,9430
+Karnataka,Kolar,2025-11,1679,7751,9430,4011
+Karnataka,Koppal,2025-09,1945,10443,12388,7229
+Karnataka,Koppal,2025-10,1103,6126,7229,9546
+Karnataka,Koppal,2025-11,2036,7510,9546,4970
+Karnataka,Mandya,2025-09,952,5482,6434,7127
+Karnataka,Mandya,2025-10,886,6241,7127,8862
+Karnataka,Mandya,2025-11,1294,7568,8862,3711
+Karnataka,Mysuru,2025-04,485,1554,2039,1240
+Karnataka,Mysuru,2025-07,567,673,1240,10720
+Karnataka,Mysuru,2025-09,2143,8577,10720,9544
+Karnataka,Mysuru,2025-10,1714,7830,9544,11864
+Karnataka,Mysuru,2025-11,1990,9874,11864,5592
+Karnataka,Raichur,2025-06,428,1737,2165,17332
+Karnataka,Raichur,2025-09,3153,14179,17332,15687
+Karnataka,Raichur,2025-10,2191,13496,15687,17379
+Karnataka,Raichur,2025-11,2952,14427,17379,8545
+Karnataka,Ramanagara,2025-07,204,0,204,7249
+Karnataka,Ramanagara,2025-09,1358,5891,7249,5010
+Karnataka,Ramanagara,2025-10,691,4319,5010,6118
+Karnataka,Ramanagara,2025-11,851,5267,6118,3024
+Karnataka,Shivamogga,2025-09,1549,6530,8079,4714
+Karnataka,Shivamogga,2025-10,928,3786,4714,6607
+Karnataka,Shivamogga,2025-11,1317,5290,6607,3462
+Karnataka,Tumakuru,2025-09,1888,8857,10745,9487
+Karnataka,Tumakuru,2025-10,1468,8019,9487,9544
+Karnataka,Tumakuru,2025-11,1661,7883,9544,5530
+Karnataka,Udupi,2025-09,1696,3847,5543,3660
+Karnataka,Udupi,2025-10,886,2774,3660,3416
+Karnataka,Udupi,2025-11,834,2582,3416,1965
+Karnataka,Uttara Kannada,2025-09,1077,4109,5186,4521
+Karnataka,Uttara Kannada,2025-10,814,3707,4521,5475
+Karnataka,Uttara Kannada,2025-11,1293,4182,5475,2343
+Karnataka,Vijayanagara,2025-09,870,2720,3590,1802
+Karnataka,Vijayanagara,2025-10,455,1347,1802,1947
+Karnataka,Vijayanagara,2025-11,575,1372,1947,1021
+Karnataka,Vijayapura,2025-07,450,638,1088,20225
+Karnataka,Vijayapura,2025-09,4433,15792,20225,9811
+Karnataka,Vijayapura,2025-10,1945,7866,9811,11804
+Karnataka,Vijayapura,2025-11,2314,9490,11804,6649
+Karnataka,Yadgir,2025-04,994,3885,4879,11026
+Karnataka,Yadgir,2025-09,2334,8692,11026,8716
+Karnataka,Yadgir,2025-10,1504,7212,8716,9146
+Karnataka,Yadgir,2025-11,1942,7204,9146,4634
+Kerala,Alappuzha,2025-09,1095,5380,6475,6784
+Kerala,Alappuzha,2025-10,996,5788,6784,6124
+Kerala,Alappuzha,2025-11,1216,4908,6124,3250
+Kerala,Ernakulam,2025-06,139,517,656,893
+Kerala,Ernakulam,2025-07,224,669,893,12542
+Kerala,Ernakulam,2025-09,1875,10667,12542,11815
+Kerala,Ernakulam,2025-10,1610,10205,11815,14403
+Kerala,Ernakulam,2025-11,2167,12236,14403,4830
+Kerala,Idukki,2025-09,560,2850,3410,3493
+Kerala,Idukki,2025-10,500,2993,3493,3159
+Kerala,Idukki,2025-11,582,2577,3159,1074
+Kerala,Kannur,2025-07,70,235,305,15126
+Kerala,Kannur,2025-09,1835,13291,15126,10983
+Kerala,Kannur,2025-10,1459,9524,10983,14487
+Kerala,Kannur,2025-11,2261,12226,14487,5844
+Kerala,Kasaragod,2025-09,1122,7222,8344,7060
+Kerala,Kasaragod,2025-10,1010,6050,7060,9577
+Kerala,Kasaragod,2025-11,1420,8157,9577,4334
+Kerala,Kollam,2025-05,56,208,264,11875
+Kerala,Kollam,2025-09,1602,10273,11875,9908
+Kerala,Kollam,2025-10,1346,8562,9908,11188
+Kerala,Kollam,2025-11,1818,9370,11188,4461
+Kerala,Kottayam,2025-09,1035,4424,5459,5293
+Kerala,Kottayam,2025-10,951,4342,5293,5272
+Kerala,Kottayam,2025-11,1086,4186,5272,2320
+Kerala,Kozhikode,2025-09,2086,17123,19209,15162
+Kerala,Kozhikode,2025-10,1565,13597,15162,23351
+Kerala,Kozhikode,2025-11,2641,20710,23351,9017
+Kerala,Malappuram,2025-05,266,590,856,32716
+Kerala,Malappuram,2025-09,4020,28696,32716,29226
+Kerala,Malappuram,2025-10,3619,25607,29226,42994
+Kerala,Malappuram,2025-11,5182,37812,42994,17754
+Kerala,Palakkad,2025-09,1834,10121,11955,11922
+Kerala,Palakkad,2025-10,1765,10157,11922,13482
+Kerala,Palakkad,2025-11,2315,11167,13482,6599
+Kerala,Pathanamthitta,2025-09,640,2850,3490,2853
+Kerala,Pathanamthitta,2025-10,501,2352,2853,3041
+Kerala,Pathanamthitta,2025-11,596,2445,3041,1689
+Kerala,Thiruvananthapuram,2025-05,58,229,287,700
+Kerala,Thiruvananthapuram,2025-07,180,520,700,13493
+Kerala,Thiruvananthapuram,2025-09,1842,11651,13493,12813
+Kerala,Thiruvananthapuram,2025-10,1775,11038,12813,14333
+Kerala,Thiruvananthapuram,2025-11,2436,11897,14333,5748
+Kerala,Thrissur,2025-06,47,134,181,14790
+Kerala,Thrissur,2025-09,1922,12868,14790,12933
+Kerala,Thrissur,2025-10,1990,10943,12933,13363
+Kerala,Thrissur,2025-11,2991,10372,13363,4195
+Kerala,Wayanad,2025-09,409,4327,4736,3422
+Kerala,Wayanad,2025-10,372,3050,3422,4370
+Kerala,Wayanad,2025-11,741,3629,4370,1236
+Ladakh,Kargil,2025-09,166,479,645,298
+Ladakh,Kargil,2025-10,88,210,298,426
+Ladakh,Kargil,2025-11,150,276,426,348
+Ladakh,Leh,2025-09,37,105,142,99
+Ladakh,Leh,2025-10,29,70,99,251
+Ladakh,Leh,2025-11,51,200,251,200
+Lakshadweep,Lakshadweep,2025-09,69,204,273,248
+Lakshadweep,Lakshadweep,2025-10,48,200,248,295
+Lakshadweep,Lakshadweep,2025-11,70,225,295,69
+Madhya Pradesh,Agar Malwa,2025-09,672,2341,3013,1236
+Madhya Pradesh,Agar Malwa,2025-10,372,864,1236,3487
+Madhya Pradesh,Agar Malwa,2025-11,1150,2337,3487,1732
+Madhya Pradesh,Alirajpur,2025-04,254,3037,3291,2615
+Madhya Pradesh,Alirajpur,2025-05,133,2482,2615,7796
+Madhya Pradesh,Alirajpur,2025-06,1046,6750,7796,7012
+Madhya Pradesh,Alirajpur,2025-07,1475,5537,7012,11511
+Madhya Pradesh,Alirajpur,2025-09,1337,10174,11511,4235
+Madhya Pradesh,Alirajpur,2025-10,858,3377,4235,6789
+Madhya Pradesh,Alirajpur,2025-11,1252,5537,6789,3723
+Madhya Pradesh,Anuppur,2025-09,736,7831,8567,3905
+Madhya Pradesh,Anuppur,2025-10,650,3255,3905,6201
+Madhya Pradesh,Anuppur,2025-11,1274,4927,6201,3545
+Madhya Pradesh,Ashok Nagar,2025-04,531,8962,9493,2707
+Madhya Pradesh,Ashok Nagar,2025-05,220,2487,2707,12225
+Madhya Pradesh,Ashok Nagar,2025-09,2387,9838,12225,4395
+Madhya Pradesh,Ashok Nagar,2025-10,540,3855,4395,6281
+Madhya Pradesh,Ashok Nagar,2025-11,1168,5113,6281,3538
+Madhya Pradesh,Ashoknagar,2025-06,868,0,868,2143
+Madhya Pradesh,Balaghat,2025-07,338,1629,1967,15283
+Madhya Pradesh,Balaghat,2025-09,2330,12953,15283,8802
+Madhya Pradesh,Balaghat,2025-10,1303,7499,8802,14815
+Madhya Pradesh,Balaghat,2025-11,2237,12578,14815,6734
+Madhya Pradesh,Barwani,2025-04,1640,27460,29100,31939
+Madhya Pradesh,Barwani,2025-05,3452,28487,31939,15302
+Madhya Pradesh,Barwani,2025-06,2233,13069,15302,45926
+Madhya Pradesh,Barwani,2025-07,8453,37473,45926,19509
+Madhya Pradesh,Barwani,2025-09,3844,15665,19509,11082
+Madhya Pradesh,Barwani,2025-10,1488,9594,11082,13189
+Madhya Pradesh,Barwani,2025-11,2068,11121,13189,5889
+Madhya Pradesh,Betul,2025-04,223,4101,4324,8490
+Madhya Pradesh,Betul,2025-07,968,7522,8490,19914
+Madhya Pradesh,Betul,2025-09,2433,17481,19914,9276
+Madhya Pradesh,Betul,2025-10,1310,7966,9276,19206
+Madhya Pradesh,Betul,2025-11,2457,16749,19206,7382
+Madhya Pradesh,Bhind,2025-03,109,0,109,4863
+Madhya Pradesh,Bhind,2025-04,1051,3812,4863,6275
+Madhya Pradesh,Bhind,2025-05,956,5319,6275,3699
+Madhya Pradesh,Bhind,2025-06,885,2814,3699,18835
+Madhya Pradesh,Bhind,2025-07,4055,14780,18835,15930
+Madhya Pradesh,Bhind,2025-09,2666,13264,15930,6879
+Madhya Pradesh,Bhind,2025-10,1108,5771,6879,14263
+Madhya Pradesh,Bhind,2025-11,2363,11900,14263,6919
+Madhya Pradesh,Bhopal,2025-04,555,7226,7781,8605
+Madhya Pradesh,Bhopal,2025-06,833,7772,8605,6375
+Madhya Pradesh,Bhopal,2025-07,1133,5242,6375,25979
+Madhya Pradesh,Bhopal,2025-09,3912,22067,25979,15655
+Madhya Pradesh,Bhopal,2025-10,2137,13518,15655,29008
+Madhya Pradesh,Bhopal,2025-11,3682,25326,29008,11670
+Madhya Pradesh,Burhanpur,2025-04,802,6569,7371,9734
+Madhya Pradesh,Burhanpur,2025-05,932,8802,9734,14725
+Madhya Pradesh,Burhanpur,2025-06,1777,12948,14725,16711
+Madhya Pradesh,Burhanpur,2025-07,2976,13735,16711,8281
+Madhya Pradesh,Burhanpur,2025-09,1253,7028,8281,4329
+Madhya Pradesh,Burhanpur,2025-10,605,3724,4329,8634
+Madhya Pradesh,Burhanpur,2025-11,947,7687,8634,2794
+Madhya Pradesh,Chhatarpur,2025-04,850,5857,6707,4424
+Madhya Pradesh,Chhatarpur,2025-05,737,3687,4424,3628
+Madhya Pradesh,Chhatarpur,2025-06,714,2914,3628,21166
+Madhya Pradesh,Chhatarpur,2025-07,4418,16748,21166,25578
+Madhya Pradesh,Chhatarpur,2025-09,4629,20949,25578,11083
+Madhya Pradesh,Chhatarpur,2025-10,1837,9246,11083,18873
+Madhya Pradesh,Chhatarpur,2025-11,3850,15023,18873,11428
+Madhya Pradesh,Chhindwara,2025-09,2979,16746,19725,11289
+Madhya Pradesh,Chhindwara,2025-10,2157,9132,11289,16850
+Madhya Pradesh,Chhindwara,2025-11,2981,13869,16850,8582
+Madhya Pradesh,Damoh,2025-09,2381,14120,16501,7975
+Madhya Pradesh,Damoh,2025-10,1249,6726,7975,12999
+Madhya Pradesh,Damoh,2025-11,1976,11023,12999,5306
+Madhya Pradesh,Datia,2025-04,302,2471,2773,3604
+Madhya Pradesh,Datia,2025-07,839,2765,3604,12233
+Madhya Pradesh,Datia,2025-09,2409,9824,12233,4082
+Madhya Pradesh,Datia,2025-10,640,3442,4082,7284
+Madhya Pradesh,Datia,2025-11,1426,5858,7284,4101
+Madhya Pradesh,Dewas,2025-04,502,4542,5044,6736
+Madhya Pradesh,Dewas,2025-05,622,6114,6736,13146
+Madhya Pradesh,Dewas,2025-07,1698,11448,13146,16867
+Madhya Pradesh,Dewas,2025-09,2720,14147,16867,8575
+Madhya Pradesh,Dewas,2025-10,1600,6975,8575,17382
+Madhya Pradesh,Dewas,2025-11,3625,13757,17382,6597
+Madhya Pradesh,Dhar,2025-04,619,8254,8873,10210
+Madhya Pradesh,Dhar,2025-06,1527,8683,10210,7038
+Madhya Pradesh,Dhar,2025-07,922,6116,7038,21804
+Madhya Pradesh,Dhar,2025-09,3374,18430,21804,10893
+Madhya Pradesh,Dhar,2025-10,2041,8852,10893,18858
+Madhya Pradesh,Dhar,2025-11,2996,15862,18858,8341
+Madhya Pradesh,Dindori,2025-09,954,6241,7195,3667
+Madhya Pradesh,Dindori,2025-10,585,3082,3667,4327
+Madhya Pradesh,Dindori,2025-11,573,3754,4327,3237
+Madhya Pradesh,East Nimar,2025-07,458,950,1408,5711
+Madhya Pradesh,East Nimar,2025-09,1353,4358,5711,3047
+Madhya Pradesh,East Nimar,2025-10,738,2309,3047,4566
+Madhya Pradesh,East Nimar,2025-11,949,3617,4566,2669
+Madhya Pradesh,Guna,2025-04,784,8329,9113,4588
+Madhya Pradesh,Guna,2025-07,1072,3516,4588,20818
+Madhya Pradesh,Guna,2025-09,4020,16798,20818,7059
+Madhya Pradesh,Guna,2025-10,1146,5913,7059,10956
+Madhya Pradesh,Guna,2025-11,2074,8882,10956,6085
+Madhya Pradesh,Gwalior,2025-03,327,0,327,8700
+Madhya Pradesh,Gwalior,2025-04,1338,7362,8700,2406
+Madhya Pradesh,Gwalior,2025-05,464,1942,2406,12646
+Madhya Pradesh,Gwalior,2025-06,1930,10716,12646,26431
+Madhya Pradesh,Gwalior,2025-07,5322,21109,26431,22512
+Madhya Pradesh,Gwalior,2025-09,4074,18438,22512,10002
+Madhya Pradesh,Gwalior,2025-10,1502,8500,10002,20569
+Madhya Pradesh,Gwalior,2025-11,3731,16838,20569,9674
+Madhya Pradesh,Harda,2025-09,1296,5842,7138,2621
+Madhya Pradesh,Harda,2025-10,450,2171,2621,4957
+Madhya Pradesh,Harda,2025-11,837,4120,4957,2095
+Madhya Pradesh,Hoshangabad,2025-07,281,1748,2029,15046
+Madhya Pradesh,Hoshangabad,2025-09,2664,12382,15046,5720
+Madhya Pradesh,Hoshangabad,2025-10,1022,4698,5720,8710
+Madhya Pradesh,Hoshangabad,2025-11,1590,7120,8710,4414
+Madhya Pradesh,Indore,2025-04,1348,12915,14263,6887
+Madhya Pradesh,Indore,2025-05,648,6239,6887,12430
+Madhya Pradesh,Indore,2025-06,1122,11308,12430,39492
+Madhya Pradesh,Indore,2025-07,6945,32547,39492,35422
+Madhya Pradesh,Indore,2025-09,5118,30304,35422,19714
+Madhya Pradesh,Indore,2025-10,3007,16707,19714,39624
+Madhya Pradesh,Indore,2025-11,5240,34384,39624,17075
+Madhya Pradesh,Jabalpur,2025-04,318,6130,6448,2484
+Madhya Pradesh,Jabalpur,2025-07,462,2022,2484,30489
+Madhya Pradesh,Jabalpur,2025-09,4255,26234,30489,15160
+Madhya Pradesh,Jabalpur,2025-10,2568,12592,15160,25318
+Madhya Pradesh,Jabalpur,2025-11,3700,21618,25318,10993
+Madhya Pradesh,Jhabua,2025-04,886,6545,7431,3878
+Madhya Pradesh,Jhabua,2025-05,634,3244,3878,4649
+Madhya Pradesh,Jhabua,2025-06,899,3750,4649,11189
+Madhya Pradesh,Jhabua,2025-07,2761,8428,11189,17140
+Madhya Pradesh,Jhabua,2025-09,3416,13724,17140,7756
+Madhya Pradesh,Jhabua,2025-10,1615,6141,7756,13532
+Madhya Pradesh,Jhabua,2025-11,2501,11031,13532,6015
+Madhya Pradesh,Katni,2025-03,106,0,106,2129
+Madhya Pradesh,Katni,2025-04,413,1716,2129,1381
+Madhya Pradesh,Katni,2025-06,293,1088,1381,14896
+Madhya Pradesh,Katni,2025-07,1434,13462,14896,17015
+Madhya Pradesh,Katni,2025-09,3136,13879,17015,11139
+Madhya Pradesh,Katni,2025-10,2279,8860,11139,14898
+Madhya Pradesh,Katni,2025-11,3067,11831,14898,10424
+Madhya Pradesh,Khandwa,2025-04,420,1671,2091,943
+Madhya Pradesh,Khandwa,2025-05,78,865,943,8178
+Madhya Pradesh,Khandwa,2025-07,1662,6516,8178,6705
+Madhya Pradesh,Khandwa,2025-09,1235,5470,6705,4014
+Madhya Pradesh,Khandwa,2025-10,639,3375,4014,5969
+Madhya Pradesh,Khandwa,2025-11,1001,4968,5969,3148
+Madhya Pradesh,Khargone,2025-04,935,11262,12197,3190
+Madhya Pradesh,Khargone,2025-05,448,2742,3190,3408
+Madhya Pradesh,Khargone,2025-06,526,2882,3408,31113
+Madhya Pradesh,Khargone,2025-07,4724,26389,31113,22830
+Madhya Pradesh,Khargone,2025-09,3606,19224,22830,9600
+Madhya Pradesh,Khargone,2025-10,1499,8101,9600,15208
+Madhya Pradesh,Khargone,2025-11,2299,12909,15208,7688
+Madhya Pradesh,Maihar,2025-09,141,462,603,418
+Madhya Pradesh,Maihar,2025-10,107,311,418,578
+Madhya Pradesh,Maihar,2025-11,121,457,578,356
+Madhya Pradesh,Mandla,2025-09,1561,8397,9958,6335
+Madhya Pradesh,Mandla,2025-10,1166,5169,6335,7495
+Madhya Pradesh,Mandla,2025-11,1674,5821,7495,4275
+Madhya Pradesh,Mandsaur,2025-09,2030,10528,12558,7506
+Madhya Pradesh,Mandsaur,2025-10,1666,5840,7506,12832
+Madhya Pradesh,Mandsaur,2025-11,4082,8750,12832,5625
+Madhya Pradesh,Mauganj,2025-09,170,624,794,512
+Madhya Pradesh,Mauganj,2025-10,130,382,512,525
+Madhya Pradesh,Mauganj,2025-11,108,417,525,279
+Madhya Pradesh,Morena,2025-04,2232,22606,24838,5875
+Madhya Pradesh,Morena,2025-05,1066,4809,5875,10912
+Madhya Pradesh,Morena,2025-06,2269,8643,10912,48107
+Madhya Pradesh,Morena,2025-07,8789,39318,48107,22651
+Madhya Pradesh,Morena,2025-09,4039,18612,22651,11683
+Madhya Pradesh,Morena,2025-10,1887,9796,11683,20441
+Madhya Pradesh,Morena,2025-11,4145,16296,20441,10746
+Madhya Pradesh,Narmadapuram,2025-09,293,806,1099,411
+Madhya Pradesh,Narmadapuram,2025-10,130,281,411,859
+Madhya Pradesh,Narmadapuram,2025-11,227,632,859,559
+Madhya Pradesh,Narsimhapur,2025-09,525,1721,2246,1015
+Madhya Pradesh,Narsimhapur,2025-10,192,823,1015,1426
+Madhya Pradesh,Narsimhapur,2025-11,389,1037,1426,607
+Madhya Pradesh,Narsinghpur,2025-07,514,2548,3062,10848
+Madhya Pradesh,Narsinghpur,2025-09,2141,8707,10848,5768
+Madhya Pradesh,Narsinghpur,2025-10,720,5048,5768,8817
+Madhya Pradesh,Narsinghpur,2025-11,1460,7357,8817,3836
+Madhya Pradesh,Neemuch,2025-09,1590,8196,9786,4516
+Madhya Pradesh,Neemuch,2025-10,912,3604,4516,9534
+Madhya Pradesh,Neemuch,2025-11,2322,7212,9534,3708
+Madhya Pradesh,Niwari,2025-09,34,72,106,48
+Madhya Pradesh,Niwari,2025-10,19,29,48,188
+Madhya Pradesh,Niwari,2025-11,63,125,188,90
+Madhya Pradesh,Pandhurna,2025-09,17,30,47,71
+Madhya Pradesh,Pandhurna,2025-10,48,23,71,58
+Madhya Pradesh,Pandhurna,2025-11,25,33,58,48
+Madhya Pradesh,Panna,2025-04,159,1791,1950,6904
+Madhya Pradesh,Panna,2025-05,448,6456,6904,4290
+Madhya Pradesh,Panna,2025-07,487,3803,4290,15946
+Madhya Pradesh,Panna,2025-09,4050,11896,15946,7780
+Madhya Pradesh,Panna,2025-10,1856,5924,7780,11911
+Madhya Pradesh,Panna,2025-11,2405,9506,11911,4931
+Madhya Pradesh,Raisen,2025-04,515,5451,5966,18207
+Madhya Pradesh,Raisen,2025-09,3198,15009,18207,9379
+Madhya Pradesh,Raisen,2025-10,1290,8089,9379,12453
+Madhya Pradesh,Raisen,2025-11,1805,10648,12453,7279
+Madhya Pradesh,Rajgarh,2025-09,2595,14001,16596,8913
+Madhya Pradesh,Rajgarh,2025-10,993,7920,8913,15497
+Madhya Pradesh,Rajgarh,2025-11,2378,13119,15497,9753
+Madhya Pradesh,Ratlam,2025-09,2657,12254,14911,9007
+Madhya Pradesh,Ratlam,2025-10,1317,7690,9007,20027
+Madhya Pradesh,Ratlam,2025-11,3976,16051,20027,11465
+Madhya Pradesh,Rewa,2025-09,3965,28483,32448,21059
+Madhya Pradesh,Rewa,2025-10,2938,18121,21059,22584
+Madhya Pradesh,Rewa,2025-11,3315,19269,22584,10627
+Madhya Pradesh,Sagar,2025-04,221,2489,2710,3313
+Madhya Pradesh,Sagar,2025-06,201,3112,3313,12123
+Madhya Pradesh,Sagar,2025-07,1572,10551,12123,26746
+Madhya Pradesh,Sagar,2025-09,4026,22720,26746,12864
+Madhya Pradesh,Sagar,2025-10,2085,10779,12864,23443
+Madhya Pradesh,Sagar,2025-11,4318,19125,23443,11996
+Madhya Pradesh,Satna,2025-04,437,4720,5157,11742
+Madhya Pradesh,Satna,2025-07,1258,10484,11742,31589
+Madhya Pradesh,Satna,2025-09,5016,26573,31589,18821
+Madhya Pradesh,Satna,2025-10,2813,16008,18821,23625
+Madhya Pradesh,Satna,2025-11,3692,19933,23625,11194
+Madhya Pradesh,Sehore,2025-07,1673,7774,9447,10392
+Madhya Pradesh,Sehore,2025-09,1439,8953,10392,5424
+Madhya Pradesh,Sehore,2025-10,686,4738,5424,10125
+Madhya Pradesh,Sehore,2025-11,1414,8711,10125,7094
+Madhya Pradesh,Seoni,2025-09,2527,13357,15884,7078
+Madhya Pradesh,Seoni,2025-10,1071,6007,7078,11594
+Madhya Pradesh,Seoni,2025-11,1818,9776,11594,5944
+Madhya Pradesh,Shahdol,2025-09,1776,12842,14618,7808
+Madhya Pradesh,Shahdol,2025-10,1080,6728,7808,9947
+Madhya Pradesh,Shahdol,2025-11,1409,8538,9947,7634
+Madhya Pradesh,Shajapur,2025-09,2167,11133,13300,6972
+Madhya Pradesh,Shajapur,2025-10,1225,5747,6972,13813
+Madhya Pradesh,Shajapur,2025-11,2879,10934,13813,5919
+Madhya Pradesh,Sheopur,2025-04,396,3475,3871,13162
+Madhya Pradesh,Sheopur,2025-06,1618,11544,13162,6001
+Madhya Pradesh,Sheopur,2025-07,1753,4248,6001,8588
+Madhya Pradesh,Sheopur,2025-09,1581,7007,8588,3426
+Madhya Pradesh,Sheopur,2025-10,484,2942,3426,6863
+Madhya Pradesh,Sheopur,2025-11,1151,5712,6863,5126
+Madhya Pradesh,Shivpuri,2025-04,869,6019,6888,6564
+Madhya Pradesh,Shivpuri,2025-06,783,5781,6564,11164
+Madhya Pradesh,Shivpuri,2025-07,1364,9800,11164,25979
+Madhya Pradesh,Shivpuri,2025-09,4548,21431,25979,8224
+Madhya Pradesh,Shivpuri,2025-10,1411,6813,8224,16007
+Madhya Pradesh,Shivpuri,2025-11,2588,13419,16007,10496
+Madhya Pradesh,Sidhi,2025-09,2105,17431,19536,11090
+Madhya Pradesh,Sidhi,2025-10,1757,9333,11090,9865
+Madhya Pradesh,Sidhi,2025-11,1777,8088,9865,6224
+Madhya Pradesh,Singrauli,2025-09,2112,13689,15801,11631
+Madhya Pradesh,Singrauli,2025-10,1890,9741,11631,10416
+Madhya Pradesh,Singrauli,2025-11,1789,8627,10416,6630
+Madhya Pradesh,Tikamgarh,2025-09,2591,16210,18801,8798
+Madhya Pradesh,Tikamgarh,2025-10,1264,7534,8798,14730
+Madhya Pradesh,Tikamgarh,2025-11,2524,12206,14730,8038
+Madhya Pradesh,Ujjain,2025-09,4764,20393,25157,16187
+Madhya Pradesh,Ujjain,2025-10,2851,13336,16187,31018
+Madhya Pradesh,Ujjain,2025-11,6011,25007,31018,12054
+Madhya Pradesh,Umaria,2025-09,2052,7756,9808,5526
+Madhya Pradesh,Umaria,2025-10,1120,4406,5526,6041
+Madhya Pradesh,Umaria,2025-11,1475,4566,6041,5133
+Madhya Pradesh,Vidisha,2025-04,831,4700,5531,2353
+Madhya Pradesh,Vidisha,2025-05,267,2086,2353,16992
+Madhya Pradesh,Vidisha,2025-07,2688,14304,16992,19944
+Madhya Pradesh,Vidisha,2025-09,3250,16694,19944,9511
+Madhya Pradesh,Vidisha,2025-10,1140,8371,9511,16683
+Madhya Pradesh,Vidisha,2025-11,1995,14688,16683,8234
+Madhya Pradesh,West Nimar,2025-09,316,1090,1406,598
+Madhya Pradesh,West Nimar,2025-10,164,434,598,683
+Madhya Pradesh,West Nimar,2025-11,198,485,683,462
+Maharashtra,Ahmednagar,2025-04,96,479,575,368
+Maharashtra,Ahmednagar,2025-07,368,0,368,63541
+Maharashtra,Ahmednagar,2025-09,3818,59723,63541,45240
+Maharashtra,Ahmednagar,2025-10,1997,43243,45240,89257
+Maharashtra,Ahmednagar,2025-11,2785,86472,89257,26640
+Maharashtra,Akola,2025-07,637,2241,2878,24015
+Maharashtra,Akola,2025-09,1627,22388,24015,18763
+Maharashtra,Akola,2025-10,877,17886,18763,38717
+Maharashtra,Akola,2025-11,1338,37379,38717,8140
+Maharashtra,Amravati,2025-06,736,7394,8130,3908
+Maharashtra,Amravati,2025-07,684,3224,3908,42145
+Maharashtra,Amravati,2025-09,2461,39684,42145,31305
+Maharashtra,Amravati,2025-10,1248,30057,31305,57544
+Maharashtra,Amravati,2025-11,1605,55939,57544,11793
+Maharashtra,Aurangabad,2025-03,345,0,345,9601
+Maharashtra,Aurangabad,2025-04,791,8810,9601,15776
+Maharashtra,Aurangabad,2025-07,3835,11941,15776,50095
+Maharashtra,Aurangabad,2025-09,5379,44716,50095,46077
+Maharashtra,Aurangabad,2025-10,2439,43638,46077,78152
+Maharashtra,Aurangabad,2025-11,3885,74267,78152,18412
+Maharashtra,Beed,2025-04,900,13288,14188,7502
+Maharashtra,Beed,2025-05,444,7058,7502,9869
+Maharashtra,Beed,2025-06,999,8870,9869,16101
+Maharashtra,Beed,2025-07,2283,13818,16101,48936
+Maharashtra,Beed,2025-09,2666,46270,48936,43017
+Maharashtra,Beed,2025-10,1443,41574,43017,63521
+Maharashtra,Beed,2025-11,2087,61434,63521,13411
+Maharashtra,Bhandara,2025-09,672,11010,11682,9710
+Maharashtra,Bhandara,2025-10,293,9417,9710,15233
+Maharashtra,Bhandara,2025-11,595,14638,15233,3895
+Maharashtra,Buldana,2025-06,368,1414,1782,7346
+Maharashtra,Buldana,2025-07,1462,5884,7346,47768
+Maharashtra,Buldana,2025-09,2928,44840,47768,33515
+Maharashtra,Buldana,2025-10,1325,32190,33515,66241
+Maharashtra,Buldana,2025-11,1534,64707,66241,12132
+Maharashtra,Chandrapur,2025-04,221,1911,2132,3508
+Maharashtra,Chandrapur,2025-06,232,3276,3508,2462
+Maharashtra,Chandrapur,2025-07,403,2059,2462,21452
+Maharashtra,Chandrapur,2025-09,1440,20012,21452,27247
+Maharashtra,Chandrapur,2025-10,646,26601,27247,45648
+Maharashtra,Chandrapur,2025-11,1095,44553,45648,10109
+Maharashtra,Chatrapati Sambhaji Nagar,2025-09,71,591,662,297
+Maharashtra,Chatrapati Sambhaji Nagar,2025-10,51,246,297,760
+Maharashtra,Chatrapati Sambhaji Nagar,2025-11,83,677,760,528
+Maharashtra,Chhatrapati Sambhajinagar,2025-09,349,1348,1697,1188
+Maharashtra,Chhatrapati Sambhajinagar,2025-10,300,888,1188,1487
+Maharashtra,Chhatrapati Sambhajinagar,2025-11,316,1171,1487,1076
+Maharashtra,Dharashiv,2025-07,390,2038,2428,19461
+Maharashtra,Dharashiv,2025-09,1460,18001,19461,19792
+Maharashtra,Dharashiv,2025-10,856,18936,19792,43954
+Maharashtra,Dharashiv,2025-11,1154,42800,43954,7779
+Maharashtra,Dhule,2025-05,182,2792,2974,10410
+Maharashtra,Dhule,2025-06,1488,8922,10410,16672
+Maharashtra,Dhule,2025-07,2644,14028,16672,32702
+Maharashtra,Dhule,2025-09,4436,28266,32702,22979
+Maharashtra,Dhule,2025-10,1368,21611,22979,42988
+Maharashtra,Dhule,2025-11,1987,41001,42988,10535
+Maharashtra,Gadchiroli,2025-09,1043,14571,15614,20919
+Maharashtra,Gadchiroli,2025-10,350,20569,20919,28706
+Maharashtra,Gadchiroli,2025-11,612,28094,28706,6355
+Maharashtra,Gondia,2025-09,1242,15817,17059,20938
+Maharashtra,Gondia,2025-10,606,20332,20938,23794
+Maharashtra,Gondia,2025-11,942,22852,23794,5559
+Maharashtra,Hingoli,2025-04,1144,8294,9438,2746
+Maharashtra,Hingoli,2025-05,311,2435,2746,337
+Maharashtra,Hingoli,2025-06,337,0,337,17815
+Maharashtra,Hingoli,2025-07,3006,14809,17815,21647
+Maharashtra,Hingoli,2025-09,1507,20140,21647,23172
+Maharashtra,Hingoli,2025-10,691,22481,23172,39480
+Maharashtra,Hingoli,2025-11,894,38586,39480,8166
+Maharashtra,Jalgaon,2025-04,423,4018,4441,6512
+Maharashtra,Jalgaon,2025-05,641,5871,6512,8982
+Maharashtra,Jalgaon,2025-07,1463,7519,8982,61333
+Maharashtra,Jalgaon,2025-09,4980,56353,61333,50493
+Maharashtra,Jalgaon,2025-10,1956,48537,50493,79420
+Maharashtra,Jalgaon,2025-11,2998,76422,79420,18126
+Maharashtra,Jalna,2025-09,2407,29733,32140,26548
+Maharashtra,Jalna,2025-10,1243,25305,26548,40192
+Maharashtra,Jalna,2025-11,1595,38597,40192,11203
+Maharashtra,Kolhapur,2025-09,2681,38828,41509,26989
+Maharashtra,Kolhapur,2025-10,1824,25165,26989,55325
+Maharashtra,Kolhapur,2025-11,2597,52728,55325,12478
+Maharashtra,Latur,2025-04,294,2797,3091,3993
+Maharashtra,Latur,2025-06,545,3448,3993,4497
+Maharashtra,Latur,2025-07,819,3678,4497,31738
+Maharashtra,Latur,2025-09,2657,29081,31738,28379
+Maharashtra,Latur,2025-10,1257,27122,28379,59419
+Maharashtra,Latur,2025-11,1870,57549,59419,11123
+Maharashtra,Mumbai,2025-07,931,2847,3778,49854
+Maharashtra,Mumbai,2025-09,4560,45294,49854,43057
+Maharashtra,Mumbai,2025-10,3125,39932,43057,75765
+Maharashtra,Mumbai,2025-11,5441,70324,75765,28318
+Maharashtra,Mumbai City,2025-09,860,6363,7223,6094
+Maharashtra,Mumbai City,2025-10,695,5399,6094,10710
+Maharashtra,Mumbai City,2025-11,1371,9339,10710,4217
+Maharashtra,Mumbai Suburban,2025-04,733,5014,5747,16063
+Maharashtra,Mumbai Suburban,2025-05,1705,14358,16063,22543
+Maharashtra,Mumbai Suburban,2025-07,6453,16090,22543,34747
+Maharashtra,Mumbai Suburban,2025-09,3553,31194,34747,25189
+Maharashtra,Mumbai Suburban,2025-10,2316,22873,25189,44236
+Maharashtra,Mumbai Suburban,2025-11,4466,39770,44236,21147
+Maharashtra,Nagpur,2025-04,566,5023,5589,4461
+Maharashtra,Nagpur,2025-05,293,4168,4461,5060
+Maharashtra,Nagpur,2025-07,1166,3894,5060,48160
+Maharashtra,Nagpur,2025-09,3918,44242,48160,36137
+Maharashtra,Nagpur,2025-10,1996,34141,36137,68889
+Maharashtra,Nagpur,2025-11,3633,65256,68889,18509
+Maharashtra,Nanded,2025-04,607,5974,6581,4270
+Maharashtra,Nanded,2025-05,502,3768,4270,5279
+Maharashtra,Nanded,2025-06,584,4695,5279,11187
+Maharashtra,Nanded,2025-07,1803,9384,11187,55249
+Maharashtra,Nanded,2025-09,4118,51131,55249,56584
+Maharashtra,Nanded,2025-10,1723,54861,56584,108573
+Maharashtra,Nanded,2025-11,2061,106512,108573,19299
+Maharashtra,Nandurbar,2025-04,564,6784,7348,5720
+Maharashtra,Nandurbar,2025-05,406,5314,5720,20294
+Maharashtra,Nandurbar,2025-07,3100,17194,20294,27868
+Maharashtra,Nandurbar,2025-09,3306,24562,27868,26459
+Maharashtra,Nandurbar,2025-10,1567,24892,26459,30235
+Maharashtra,Nandurbar,2025-11,1906,28329,30235,7354
+Maharashtra,Nashik,2025-05,156,932,1088,30454
+Maharashtra,Nashik,2025-07,5364,25090,30454,99566
+Maharashtra,Nashik,2025-09,7811,91755,99566,60430
+Maharashtra,Nashik,2025-10,3235,57195,60430,134136
+Maharashtra,Nashik,2025-11,5625,128511,134136,33812
+Maharashtra,Palghar,2025-04,280,1635,1915,9362
+Maharashtra,Palghar,2025-05,662,8700,9362,2242
+Maharashtra,Palghar,2025-06,514,1728,2242,6453
+Maharashtra,Palghar,2025-07,1217,5236,6453,33343
+Maharashtra,Palghar,2025-09,3255,30088,33343,21745
+Maharashtra,Palghar,2025-10,1788,19957,21745,42749
+Maharashtra,Palghar,2025-11,3056,39693,42749,14611
+Maharashtra,Parbhani,2025-03,68,0,68,1366
+Maharashtra,Parbhani,2025-04,161,1205,1366,4969
+Maharashtra,Parbhani,2025-05,547,4422,4969,30190
+Maharashtra,Parbhani,2025-09,2086,28104,30190,33156
+Maharashtra,Parbhani,2025-10,1397,31759,33156,61709
+Maharashtra,Parbhani,2025-11,1796,59913,61709,9295
+Maharashtra,Pune,2025-04,69,489,558,4572
+Maharashtra,Pune,2025-05,486,4086,4572,1624
+Maharashtra,Pune,2025-06,236,1388,1624,41124
+Maharashtra,Pune,2025-07,6504,34620,41124,98015
+Maharashtra,Pune,2025-09,8727,89288,98015,70963
+Maharashtra,Pune,2025-10,5850,65113,70963,134020
+Maharashtra,Pune,2025-11,9315,124705,134020,49032
+Maharashtra,Raigad,2025-04,335,2864,3199,1742
+Maharashtra,Raigad,2025-07,1166,576,1742,29342
+Maharashtra,Raigad,2025-09,2833,26509,29342,22227
+Maharashtra,Raigad,2025-10,1671,20556,22227,39476
+Maharashtra,Raigad,2025-11,2366,37110,39476,11400
+Maharashtra,Ratnagiri,2025-09,843,13173,14016,12228
+Maharashtra,Ratnagiri,2025-10,679,11549,12228,20177
+Maharashtra,Ratnagiri,2025-11,875,19302,20177,4711
+Maharashtra,Sangli,2025-05,225,1828,2053,2371
+Maharashtra,Sangli,2025-06,356,2015,2371,7399
+Maharashtra,Sangli,2025-07,1594,5805,7399,33838
+Maharashtra,Sangli,2025-09,2343,31495,33838,16679
+Maharashtra,Sangli,2025-10,1132,15547,16679,44341
+Maharashtra,Sangli,2025-11,1780,42561,44341,10453
+Maharashtra,Satara,2025-04,236,1720,1956,1733
+Maharashtra,Satara,2025-05,192,1541,1733,1535
+Maharashtra,Satara,2025-06,201,1334,1535,2046
+Maharashtra,Satara,2025-07,459,1587,2046,30300
+Maharashtra,Satara,2025-09,1494,28806,30300,16822
+Maharashtra,Satara,2025-10,1078,15744,16822,33774
+Maharashtra,Satara,2025-11,1686,32088,33774,10626
+Maharashtra,Sindhudurg,2025-09,391,3660,4051,3771
+Maharashtra,Sindhudurg,2025-10,260,3511,3771,8120
+Maharashtra,Sindhudurg,2025-11,543,7577,8120,1538
+Maharashtra,Solapur,2025-04,660,3823,4483,5837
+Maharashtra,Solapur,2025-05,621,5216,5837,2817
+Maharashtra,Solapur,2025-07,561,2256,2817,55764
+Maharashtra,Solapur,2025-09,3789,51975,55764,36069
+Maharashtra,Solapur,2025-10,2149,33920,36069,109035
+Maharashtra,Solapur,2025-11,3653,105382,109035,20819
+Maharashtra,Thane,2025-03,47,0,47,32327
+Maharashtra,Thane,2025-04,3434,28893,32327,30543
+Maharashtra,Thane,2025-05,2332,28211,30543,57804
+Maharashtra,Thane,2025-06,5957,51847,57804,51289
+Maharashtra,Thane,2025-07,8042,43247,51289,99511
+Maharashtra,Thane,2025-09,9726,89785,99511,81623
+Maharashtra,Thane,2025-10,5849,75774,81623,146720
+Maharashtra,Thane,2025-11,9801,136919,146720,42825
+Maharashtra,Wardha,2025-09,818,14506,15324,12576
+Maharashtra,Wardha,2025-10,365,12211,12576,22050
+Maharashtra,Wardha,2025-11,462,21588,22050,6040
+Maharashtra,Washim,2025-05,228,2170,2398,3408
+Maharashtra,Washim,2025-07,457,2951,3408,20924
+Maharashtra,Washim,2025-09,944,19980,20924,15466
+Maharashtra,Washim,2025-10,567,14899,15466,34611
+Maharashtra,Washim,2025-11,630,33981,34611,7898
+Maharashtra,Yavatmal,2025-05,383,4099,4482,9207
+Maharashtra,Yavatmal,2025-07,1302,7905,9207,50070
+Maharashtra,Yavatmal,2025-09,2592,47478,50070,44015
+Maharashtra,Yavatmal,2025-10,1351,42664,44015,89021
+Maharashtra,Yavatmal,2025-11,1328,87693,89021,16956
+Manipur,Bishnupur,2025-05,185,1121,1306,6399
+Manipur,Bishnupur,2025-09,357,6042,6399,14088
+Manipur,Bishnupur,2025-10,241,13847,14088,15595
+Manipur,Bishnupur,2025-11,319,15276,15595,1205
+Manipur,Chandel,2025-09,362,716,1078,1917
+Manipur,Chandel,2025-10,148,1769,1917,2793
+Manipur,Chandel,2025-11,189,2604,2793,274
+Manipur,Churachandpur,2025-04,632,1136,1768,1451
+Manipur,Churachandpur,2025-06,603,848,1451,3772
+Manipur,Churachandpur,2025-07,1626,2146,3772,3146
+Manipur,Churachandpur,2025-09,711,2435,3146,6206
+Manipur,Churachandpur,2025-10,528,5678,6206,7920
+Manipur,Churachandpur,2025-11,554,7366,7920,755
+Manipur,Imphal East,2025-09,331,4971,5302,12694
+Manipur,Imphal East,2025-10,342,12352,12694,26446
+Manipur,Imphal East,2025-11,389,26057,26446,3584
+Manipur,Imphal West,2025-05,106,723,829,5808
+Manipur,Imphal West,2025-09,334,5474,5808,8515
+Manipur,Imphal West,2025-10,286,8229,8515,31425
+Manipur,Imphal West,2025-11,447,30978,31425,2898
+Manipur,Jiribam,2025-09,49,306,355,687
+Manipur,Jiribam,2025-10,65,622,687,286
+Manipur,Jiribam,2025-11,51,235,286,54
+Manipur,Kakching,2025-09,41,470,511,437
+Manipur,Kakching,2025-10,26,411,437,499
+Manipur,Kakching,2025-11,38,461,499,168
+Manipur,Pherzawl,2025-09,7,0,7,1
+Manipur,Pherzawl,2025-10,1,0,1,1
+Manipur,Pherzawl,2025-11,1,0,1,16
+Manipur,Senapati,2025-09,602,2207,2809,4937
+Manipur,Senapati,2025-10,451,4486,4937,6394
+Manipur,Senapati,2025-11,452,5942,6394,554
+Manipur,Tamenglong,2025-09,310,832,1142,2610
+Manipur,Tamenglong,2025-10,322,2288,2610,4018
+Manipur,Tamenglong,2025-11,322,3696,4018,263
+Manipur,Thoubal,2025-09,332,9058,9390,11321
+Manipur,Thoubal,2025-10,255,11066,11321,26536
+Manipur,Thoubal,2025-11,425,26111,26536,5836
+Manipur,Ukhrul,2025-09,262,1383,1645,2373
+Manipur,Ukhrul,2025-10,257,2116,2373,9355
+Manipur,Ukhrul,2025-11,364,8991,9355,304
+Meghalaya,East Garo Hills,2025-04,1908,384,2292,1360
+Meghalaya,East Garo Hills,2025-05,895,465,1360,1240
+Meghalaya,East Garo Hills,2025-06,880,360,1240,1437
+Meghalaya,East Garo Hills,2025-07,1066,371,1437,2238
+Meghalaya,East Garo Hills,2025-09,851,1387,2238,916
+Meghalaya,East Garo Hills,2025-10,263,653,916,729
+Meghalaya,East Garo Hills,2025-11,276,453,729,40
+Meghalaya,East Jaintia Hills,2025-04,1482,298,1780,897
+Meghalaya,East Jaintia Hills,2025-05,629,268,897,978
+Meghalaya,East Jaintia Hills,2025-06,818,160,978,1668
+Meghalaya,East Jaintia Hills,2025-07,1287,381,1668,1325
+Meghalaya,East Jaintia Hills,2025-09,468,857,1325,1153
+Meghalaya,East Jaintia Hills,2025-10,246,907,1153,889
+Meghalaya,East Jaintia Hills,2025-11,266,623,889,98
+Meghalaya,East Khasi Hills,2025-03,300,0,300,10759
+Meghalaya,East Khasi Hills,2025-04,7798,2961,10759,7078
+Meghalaya,East Khasi Hills,2025-05,4894,2184,7078,4533
+Meghalaya,East Khasi Hills,2025-06,3140,1393,4533,9609
+Meghalaya,East Khasi Hills,2025-07,6586,3023,9609,6980
+Meghalaya,East Khasi Hills,2025-09,2539,4441,6980,5039
+Meghalaya,East Khasi Hills,2025-10,1689,3350,5039,5001
+Meghalaya,East Khasi Hills,2025-11,2163,2838,5001,837
+Meghalaya,Eastern West Khasi Hills,2025-09,116,68,184,103
+Meghalaya,Eastern West Khasi Hills,2025-10,66,37,103,70
+Meghalaya,Eastern West Khasi Hills,2025-11,46,24,70,603
+Meghalaya,North Garo Hills,2025-04,1495,207,1702,375
+Meghalaya,North Garo Hills,2025-05,324,51,375,286
+Meghalaya,North Garo Hills,2025-07,244,42,286,1361
+Meghalaya,North Garo Hills,2025-09,509,852,1361,633
+Meghalaya,North Garo Hills,2025-10,178,455,633,474
+Meghalaya,North Garo Hills,2025-11,221,253,474,237
+Meghalaya,Ri Bhoi,2025-03,67,0,67,2782
+Meghalaya,Ri Bhoi,2025-04,2333,449,2782,2054
+Meghalaya,Ri Bhoi,2025-05,1609,445,2054,1014
+Meghalaya,Ri Bhoi,2025-06,783,231,1014,2978
+Meghalaya,Ri Bhoi,2025-07,2424,554,2978,2828
+Meghalaya,Ri Bhoi,2025-09,928,1900,2828,2314
+Meghalaya,Ri Bhoi,2025-10,527,1787,2314,1804
+Meghalaya,Ri Bhoi,2025-11,803,1001,1804,299
+Meghalaya,South Garo Hills,2025-04,1418,279,1697,866
+Meghalaya,South Garo Hills,2025-05,685,181,866,597
+Meghalaya,South Garo Hills,2025-06,551,46,597,548
+Meghalaya,South Garo Hills,2025-07,486,62,548,1347
+Meghalaya,South Garo Hills,2025-09,760,587,1347,729
+Meghalaya,South Garo Hills,2025-10,302,427,729,699
+Meghalaya,South Garo Hills,2025-11,383,316,699,18
+Meghalaya,South West Garo Hills,2025-04,1775,597,2372,1320
+Meghalaya,South West Garo Hills,2025-05,799,521,1320,867
+Meghalaya,South West Garo Hills,2025-06,618,249,867,1164
+Meghalaya,South West Garo Hills,2025-07,815,349,1164,2028
+Meghalaya,South West Garo Hills,2025-09,553,1475,2028,1976
+Meghalaya,South West Garo Hills,2025-10,245,1731,1976,1354
+Meghalaya,South West Garo Hills,2025-11,228,1126,1354,156
+Meghalaya,South West Khasi Hills,2025-04,988,407,1395,1011
+Meghalaya,South West Khasi Hills,2025-05,527,484,1011,576
+Meghalaya,South West Khasi Hills,2025-06,384,192,576,1027
+Meghalaya,South West Khasi Hills,2025-07,746,281,1027,864
+Meghalaya,South West Khasi Hills,2025-09,270,594,864,754
+Meghalaya,South West Khasi Hills,2025-10,183,571,754,1157
+Meghalaya,South West Khasi Hills,2025-11,398,759,1157,93
+Meghalaya,West Garo Hills,2025-04,3703,4274,7977,7197
+Meghalaya,West Garo Hills,2025-05,2385,4812,7197,8177
+Meghalaya,West Garo Hills,2025-06,2367,5810,8177,11056
+Meghalaya,West Garo Hills,2025-07,4297,6759,11056,6020
+Meghalaya,West Garo Hills,2025-09,1242,4778,6020,4382
+Meghalaya,West Garo Hills,2025-10,947,3435,4382,4575
+Meghalaya,West Garo Hills,2025-11,1211,3364,4575,614
+Meghalaya,West Jaintia Hills,2025-03,510,0,510,3765
+Meghalaya,West Jaintia Hills,2025-04,2917,848,3765,2829
+Meghalaya,West Jaintia Hills,2025-05,2201,628,2829,2379
+Meghalaya,West Jaintia Hills,2025-06,1843,536,2379,2940
+Meghalaya,West Jaintia Hills,2025-07,2196,744,2940,2337
+Meghalaya,West Jaintia Hills,2025-09,1014,1323,2337,1949
+Meghalaya,West Jaintia Hills,2025-10,429,1520,1949,1212
+Meghalaya,West Jaintia Hills,2025-11,552,660,1212,436
+Meghalaya,West Khasi Hills,2025-03,673,0,673,5600
+Meghalaya,West Khasi Hills,2025-04,4695,905,5600,3137
+Meghalaya,West Khasi Hills,2025-05,2432,705,3137,2859
+Meghalaya,West Khasi Hills,2025-06,2177,682,2859,4727
+Meghalaya,West Khasi Hills,2025-07,3619,1108,4727,3549
+Meghalaya,West Khasi Hills,2025-09,1213,2336,3549,2356
+Meghalaya,West Khasi Hills,2025-10,761,1595,2356,1771
+Meghalaya,West Khasi Hills,2025-11,502,1269,1771,227
+Mizoram,Aizawl,2025-09,394,3109,3503,3535
+Mizoram,Aizawl,2025-10,367,3168,3535,2145
+Mizoram,Aizawl,2025-11,378,1767,2145,174
+Mizoram,Champhai,2025-04,368,1573,1941,2418
+Mizoram,Champhai,2025-06,276,2142,2418,488
+Mizoram,Champhai,2025-07,172,316,488,1274
+Mizoram,Champhai,2025-09,168,1106,1274,1050
+Mizoram,Champhai,2025-10,215,835,1050,818
+Mizoram,Champhai,2025-11,164,654,818,107
+Mizoram,Hnahthial,2025-09,2,2,4,2
+Mizoram,Khawzawl,2025-09,7,2,9,24
+Mizoram,Khawzawl,2025-10,21,3,24,14
+Mizoram,Khawzawl,2025-11,7,7,14,1
+Mizoram,Kolasib,2025-07,85,220,305,456
+Mizoram,Kolasib,2025-09,83,373,456,596
+Mizoram,Kolasib,2025-10,63,533,596,341
+Mizoram,Kolasib,2025-11,61,280,341,47
+Mizoram,Lawngtlai,2025-05,371,886,1257,1325
+Mizoram,Lawngtlai,2025-06,173,1152,1325,1026
+Mizoram,Lawngtlai,2025-07,330,696,1026,1904
+Mizoram,Lawngtlai,2025-09,297,1607,1904,582
+Mizoram,Lawngtlai,2025-10,115,467,582,968
+Mizoram,Lawngtlai,2025-11,217,751,968,575
+Mizoram,Lunglei,2025-05,183,783,966,135
+Mizoram,Lunglei,2025-07,135,0,135,630
+Mizoram,Lunglei,2025-09,103,527,630,767
+Mizoram,Lunglei,2025-10,116,651,767,872
+Mizoram,Lunglei,2025-11,200,672,872,83
+Mizoram,Mamit,2025-09,60,195,255,360
+Mizoram,Mamit,2025-10,55,305,360,192
+Mizoram,Mamit,2025-11,61,131,192,30
+Mizoram,Mammit,2025-09,19,40,59,170
+Mizoram,Mammit,2025-10,28,142,170,71
+Mizoram,Mammit,2025-11,30,41,71,12
+Mizoram,Saiha,2025-05,183,303,486,311
+Mizoram,Saiha,2025-07,153,158,311,588
+Mizoram,Saiha,2025-09,159,429,588,595
+Mizoram,Saiha,2025-10,82,513,595,343
+Mizoram,Saiha,2025-11,67,276,343,80
+Mizoram,Saitual,2025-09,1,0,1,7
+Mizoram,Saitual,2025-10,6,1,7,8
+Mizoram,Saitual,2025-11,3,5,8,2
+Mizoram,Serchhip,2025-09,52,453,505,240
+Mizoram,Serchhip,2025-10,30,210,240,131
+Mizoram,Serchhip,2025-11,24,107,131,14
+Nagaland,Chumukedima,2025-04,86,38,124,120
+Nagaland,Chumukedima,2025-09,39,81,120,93
+Nagaland,Chumukedima,2025-10,19,74,93,135
+Nagaland,Chumukedima,2025-11,32,103,135,30
+Nagaland,Dimapur,2025-04,783,1448,2231,1622
+Nagaland,Dimapur,2025-05,384,1238,1622,1776
+Nagaland,Dimapur,2025-06,377,1399,1776,3026
+Nagaland,Dimapur,2025-07,784,2242,3026,3061
+Nagaland,Dimapur,2025-09,372,2689,3061,3290
+Nagaland,Dimapur,2025-10,284,3006,3290,3665
+Nagaland,Dimapur,2025-11,251,3414,3665,352
+Nagaland,Kiphire,2025-07,305,480,785,957
+Nagaland,Kiphire,2025-09,203,754,957,1040
+Nagaland,Kiphire,2025-10,239,801,1040,664
+Nagaland,Kiphire,2025-11,188,476,664,85
+Nagaland,Kohima,2025-04,646,1265,1911,1166
+Nagaland,Kohima,2025-07,239,927,1166,2086
+Nagaland,Kohima,2025-09,412,1674,2086,1562
+Nagaland,Kohima,2025-10,219,1343,1562,975
+Nagaland,Kohima,2025-11,152,823,975,144
+Nagaland,Longleng,2025-04,369,248,617,834
+Nagaland,Longleng,2025-07,351,483,834,399
+Nagaland,Longleng,2025-09,110,289,399,257
+Nagaland,Longleng,2025-10,24,233,257,128
+Nagaland,Longleng,2025-11,31,97,128,38
+Nagaland,Meluri,2025-09,4,24,28,15
+Nagaland,Meluri,2025-10,5,10,15,162
+Nagaland,Mokokchung,2025-07,220,707,927,1318
+Nagaland,Mokokchung,2025-09,143,1175,1318,1008
+Nagaland,Mokokchung,2025-10,80,928,1008,567
+Nagaland,Mokokchung,2025-11,57,510,567,65
+Nagaland,Mon,2025-06,174,524,698,2771
+Nagaland,Mon,2025-07,1003,1768,2771,2150
+Nagaland,Mon,2025-09,429,1721,2150,3170
+Nagaland,Mon,2025-10,446,2724,3170,2366
+Nagaland,Mon,2025-11,263,2103,2366,252
+Nagaland,Niuland,2025-09,16,9,25,29
+Nagaland,Niuland,2025-10,11,18,29,3
+Nagaland,Niuland,2025-11,3,0,3,1
+Nagaland,Noklak,2025-04,128,95,223,124
+Nagaland,Noklak,2025-09,29,95,124,254
+Nagaland,Noklak,2025-10,90,164,254,291
+Nagaland,Noklak,2025-11,124,167,291,68
+Nagaland,Peren,2025-04,544,460,1004,793
+Nagaland,Peren,2025-05,282,511,793,551
+Nagaland,Peren,2025-06,188,363,551,459
+Nagaland,Peren,2025-07,159,300,459,803
+Nagaland,Peren,2025-09,175,628,803,890
+Nagaland,Peren,2025-10,105,785,890,348
+Nagaland,Peren,2025-11,42,306,348,23
+Nagaland,Phek,2025-04,447,877,1324,1134
+Nagaland,Phek,2025-09,254,880,1134,1183
+Nagaland,Phek,2025-10,234,949,1183,510
+Nagaland,Phek,2025-11,180,330,510,18
+Nagaland,Shamator,2025-09,161,100,261,121
+Nagaland,Shamator,2025-10,40,81,121,92
+Nagaland,Shamator,2025-11,41,51,92,48
+Nagaland,Tseminyu,2025-09,9,9,18,33
+Nagaland,Tseminyu,2025-10,15,18,33,14
+Nagaland,Tseminyu,2025-11,10,4,14,2
+Nagaland,Tuensang,2025-04,503,732,1235,1366
+Nagaland,Tuensang,2025-07,511,855,1366,1337
+Nagaland,Tuensang,2025-09,256,1081,1337,1630
+Nagaland,Tuensang,2025-10,192,1438,1630,1130
+Nagaland,Tuensang,2025-11,168,962,1130,182
+Nagaland,Wokha,2025-07,248,917,1165,1016
+Nagaland,Wokha,2025-09,250,766,1016,725
+Nagaland,Wokha,2025-10,57,668,725,476
+Nagaland,Wokha,2025-11,47,429,476,128
+Nagaland,Zunheboto,2025-07,349,780,1129,1364
+Nagaland,Zunheboto,2025-09,155,1209,1364,887
+Nagaland,Zunheboto,2025-10,188,699,887,788
+Nagaland,Zunheboto,2025-11,120,668,788,95
+Odisha,Anugul,2025-09,1683,11293,12976,8082
+Odisha,Anugul,2025-10,546,7536,8082,6507
+Odisha,Anugul,2025-11,771,5736,6507,4039
+Odisha,Balangir,2025-09,2641,13371,16012,13715
+Odisha,Balangir,2025-10,1349,12366,13715,10698
+Odisha,Balangir,2025-11,1252,9446,10698,5227
+Odisha,Balasore,2025-09,3554,15775,19329,16643
+Odisha,Balasore,2025-10,1820,14823,16643,13788
+Odisha,Balasore,2025-11,1793,11995,13788,4992
+Odisha,Bargarh,2025-09,2439,12972,15411,13649
+Odisha,Bargarh,2025-10,1266,12383,13649,11788
+Odisha,Bargarh,2025-11,1211,10577,11788,5152
+Odisha,Bhadrak,2025-09,2444,15133,17577,11165
+Odisha,Bhadrak,2025-10,1208,9957,11165,10029
+Odisha,Bhadrak,2025-11,1252,8777,10029,3621
+Odisha,Boudh,2025-09,789,4076,4865,4726
+Odisha,Boudh,2025-10,396,4330,4726,2790
+Odisha,Boudh,2025-11,331,2459,2790,1559
+Odisha,Cuttack,2025-09,2441,15988,18429,11845
+Odisha,Cuttack,2025-10,1213,10632,11845,10447
+Odisha,Cuttack,2025-11,1284,9163,10447,5797
+Odisha,Debagarh,2025-09,382,2577,2959,2323
+Odisha,Debagarh,2025-10,175,2148,2323,1876
+Odisha,Debagarh,2025-11,159,1717,1876,1186
+Odisha,Dhenkanal,2025-09,1486,10894,12380,9406
+Odisha,Dhenkanal,2025-10,582,8824,9406,7012
+Odisha,Dhenkanal,2025-11,581,6431,7012,3894
+Odisha,Gajapati,2025-09,1092,7351,8443,7225
+Odisha,Gajapati,2025-10,388,6837,7225,6017
+Odisha,Gajapati,2025-11,539,5478,6017,1488
+Odisha,Ganjam,2025-09,3266,20759,24025,20131
+Odisha,Ganjam,2025-10,1836,18295,20131,21994
+Odisha,Ganjam,2025-11,2446,19548,21994,9549
+Odisha,Jagatsinghapur,2025-09,954,4691,5645,6877
+Odisha,Jagatsinghapur,2025-10,1334,5543,6877,6242
+Odisha,Jagatsinghapur,2025-11,745,5497,6242,2124
+Odisha,Jagatsinghpur,2025-09,225,1177,1402,1426
+Odisha,Jagatsinghpur,2025-10,248,1178,1426,1248
+Odisha,Jagatsinghpur,2025-11,177,1071,1248,389
+Odisha,Jajapur,2025-09,1138,6949,8087,5176
+Odisha,Jajapur,2025-10,602,4574,5176,5787
+Odisha,Jajapur,2025-11,746,5041,5787,2340
+Odisha,Jajpur,2025-09,1018,4676,5694,3043
+Odisha,Jajpur,2025-10,522,2521,3043,3298
+Odisha,Jajpur,2025-11,791,2507,3298,1658
+Odisha,Jharsuguda,2025-09,491,3181,3672,2833
+Odisha,Jharsuguda,2025-10,306,2527,2833,3267
+Odisha,Jharsuguda,2025-11,341,2926,3267,977
+Odisha,Kalahandi,2025-09,2368,17850,20218,12766
+Odisha,Kalahandi,2025-10,1146,11620,12766,10160
+Odisha,Kalahandi,2025-11,1017,9143,10160,3521
+Odisha,Kandhamal,2025-09,1729,9308,11037,7767
+Odisha,Kandhamal,2025-10,601,7166,7767,6055
+Odisha,Kandhamal,2025-11,721,5334,6055,2115
+Odisha,Kendrapara,2025-09,1761,10960,12721,9498
+Odisha,Kendrapara,2025-10,861,8637,9498,9846
+Odisha,Kendrapara,2025-11,958,8888,9846,4348
+Odisha,Kendujhar,2025-09,2656,15575,18231,10745
+Odisha,Kendujhar,2025-10,958,9787,10745,9430
+Odisha,Kendujhar,2025-11,1081,8349,9430,6214
+Odisha,Khordha,2025-07,87,0,87,12479
+Odisha,Khordha,2025-09,2191,10288,12479,8793
+Odisha,Khordha,2025-10,1204,7589,8793,10467
+Odisha,Khordha,2025-11,1633,8834,10467,5245
+Odisha,Koraput,2025-09,2655,19659,22314,10786
+Odisha,Koraput,2025-10,916,9870,10786,8826
+Odisha,Koraput,2025-11,893,7933,8826,3753
+Odisha,Malkangiri,2025-09,1900,7046,8946,7137
+Odisha,Malkangiri,2025-10,430,6707,7137,4775
+Odisha,Malkangiri,2025-11,554,4221,4775,1649
+Odisha,Mayurbhanj,2025-09,4412,21446,25858,19064
+Odisha,Mayurbhanj,2025-10,1869,17195,19064,17977
+Odisha,Mayurbhanj,2025-11,1979,15998,17977,5912
+Odisha,Nabarangapur,2025-04,276,1814,2090,21269
+Odisha,Nabarangapur,2025-09,3327,17942,21269,11757
+Odisha,Nabarangapur,2025-10,1355,10402,11757,9862
+Odisha,Nabarangapur,2025-11,1194,8668,9862,3192
+Odisha,Nayagarh,2025-09,1114,8335,9449,5654
+Odisha,Nayagarh,2025-10,531,5123,5654,5614
+Odisha,Nayagarh,2025-11,620,4994,5614,2341
+Odisha,Nuapada,2025-09,1198,9639,10837,7005
+Odisha,Nuapada,2025-10,436,6569,7005,4632
+Odisha,Nuapada,2025-11,422,4210,4632,2347
+Odisha,Puri,2025-09,1629,10516,12145,7695
+Odisha,Puri,2025-10,786,6909,7695,10290
+Odisha,Puri,2025-11,1137,9153,10290,3866
+Odisha,Rayagada,2025-09,2005,10644,12649,8373
+Odisha,Rayagada,2025-10,611,7762,8373,6853
+Odisha,Rayagada,2025-11,726,6127,6853,1924
+Odisha,Sambalpur,2025-09,1084,7870,8954,6857
+Odisha,Sambalpur,2025-10,556,6301,6857,6741
+Odisha,Sambalpur,2025-11,728,6013,6741,3109
+Odisha,Subarnapur,2025-09,1044,5434,6478,4667
+Odisha,Subarnapur,2025-10,402,4265,4667,4283
+Odisha,Subarnapur,2025-11,449,3834,4283,1352
+Odisha,Sundargarh,2025-09,2362,11353,13715,8393
+Odisha,Sundargarh,2025-10,943,7450,8393,7842
+Odisha,Sundargarh,2025-11,1154,6688,7842,3549
+Puducherry,Karaikal,2025-09,241,2614,2855,992
+Puducherry,Karaikal,2025-10,141,851,992,2162
+Puducherry,Karaikal,2025-11,177,1985,2162,478
+Puducherry,Puducherry,2025-09,989,8513,9502,4251
+Puducherry,Puducherry,2025-10,489,3762,4251,7863
+Puducherry,Puducherry,2025-11,851,7012,7863,2502
+Puducherry,Yanam,2025-09,14,45,59,17
+Puducherry,Yanam,2025-10,7,10,17,17
+Puducherry,Yanam,2025-11,7,10,17,21
+Punjab,Amritsar,2025-03,49,0,49,7657
+Punjab,Amritsar,2025-04,1222,6435,7657,12697
+Punjab,Amritsar,2025-05,974,11723,12697,32904
+Punjab,Amritsar,2025-07,3434,29470,32904,22287
+Punjab,Amritsar,2025-09,2451,19836,22287,13851
+Punjab,Amritsar,2025-10,1142,12709,13851,21649
+Punjab,Amritsar,2025-11,2041,19608,21649,5477
+Punjab,Barnala,2025-09,384,3432,3816,2964
+Punjab,Barnala,2025-10,243,2721,2964,3997
+Punjab,Barnala,2025-11,337,3660,3997,1015
+Punjab,Bathinda,2025-09,1168,13254,14422,8841
+Punjab,Bathinda,2025-10,573,8268,8841,11612
+Punjab,Bathinda,2025-11,861,10751,11612,3314
+Punjab,Faridkot,2025-09,407,4407,4814,2721
+Punjab,Faridkot,2025-10,146,2575,2721,4527
+Punjab,Faridkot,2025-11,289,4238,4527,1429
+Punjab,Fatehgarh Sahib,2025-09,461,4388,4849,2870
+Punjab,Fatehgarh Sahib,2025-10,243,2627,2870,4894
+Punjab,Fatehgarh Sahib,2025-11,328,4566,4894,967
+Punjab,Fazilka,2025-09,978,9711,10689,5905
+Punjab,Fazilka,2025-10,375,5530,5905,6005
+Punjab,Fazilka,2025-11,475,5530,6005,2126
+Punjab,Ferozepur,2025-09,682,6986,7668,3597
+Punjab,Ferozepur,2025-10,282,3315,3597,5149
+Punjab,Ferozepur,2025-11,407,4742,5149,1212
+Punjab,Firozpur,2025-09,241,1457,1698,456
+Punjab,Firozpur,2025-10,57,399,456,593
+Punjab,Firozpur,2025-11,96,497,593,239
+Punjab,Gurdaspur,2025-04,318,4273,4591,3942
+Punjab,Gurdaspur,2025-05,294,3648,3942,7415
+Punjab,Gurdaspur,2025-07,658,6757,7415,17778
+Punjab,Gurdaspur,2025-09,1673,16105,17778,9048
+Punjab,Gurdaspur,2025-10,879,8169,9048,12158
+Punjab,Gurdaspur,2025-11,1385,10773,12158,3786
+Punjab,Hoshiarpur,2025-04,336,3446,3782,3802
+Punjab,Hoshiarpur,2025-05,263,3539,3802,8166
+Punjab,Hoshiarpur,2025-06,626,7540,8166,4794
+Punjab,Hoshiarpur,2025-07,365,4429,4794,9961
+Punjab,Hoshiarpur,2025-09,1123,8838,9961,5198
+Punjab,Hoshiarpur,2025-10,579,4619,5198,8275
+Punjab,Hoshiarpur,2025-11,1055,7220,8275,2958
+Punjab,Jalandhar,2025-09,1708,12994,14702,10004
+Punjab,Jalandhar,2025-10,1100,8904,10004,13990
+Punjab,Jalandhar,2025-11,1417,12573,13990,3852
+Punjab,Kapurthala,2025-04,672,2919,3591,3248
+Punjab,Kapurthala,2025-05,396,2852,3248,3103
+Punjab,Kapurthala,2025-06,317,2786,3103,3556
+Punjab,Kapurthala,2025-07,575,2981,3556,5379
+Punjab,Kapurthala,2025-09,596,4783,5379,3427
+Punjab,Kapurthala,2025-10,364,3063,3427,5465
+Punjab,Kapurthala,2025-11,830,4635,5465,1962
+Punjab,Ludhiana,2025-03,131,0,131,19613
+Punjab,Ludhiana,2025-04,2759,16854,19613,13484
+Punjab,Ludhiana,2025-05,1383,12101,13484,13367
+Punjab,Ludhiana,2025-06,1830,11537,13367,27290
+Punjab,Ludhiana,2025-07,4005,23285,27290,26990
+Punjab,Ludhiana,2025-09,3483,23507,26990,18008
+Punjab,Ludhiana,2025-10,1799,16209,18008,29610
+Punjab,Ludhiana,2025-11,3045,26565,29610,8124
+Punjab,Malerkotla,2025-09,373,2483,2856,1433
+Punjab,Malerkotla,2025-10,209,1224,1433,3113
+Punjab,Malerkotla,2025-11,320,2793,3113,771
+Punjab,Mansa,2025-09,505,6550,7055,5530
+Punjab,Mansa,2025-10,246,5284,5530,5921
+Punjab,Mansa,2025-11,343,5578,5921,962
+Punjab,Moga,2025-09,741,6689,7430,4016
+Punjab,Moga,2025-10,292,3724,4016,4847
+Punjab,Moga,2025-11,481,4366,4847,1507
+Punjab,Pathankot,2025-09,408,3415,3823,2191
+Punjab,Pathankot,2025-10,187,2004,2191,3778
+Punjab,Pathankot,2025-11,417,3361,3778,1208
+Punjab,Patiala,2025-05,604,8062,8666,11287
+Punjab,Patiala,2025-07,1021,10266,11287,16828
+Punjab,Patiala,2025-09,1646,15182,16828,11183
+Punjab,Patiala,2025-10,780,10403,11183,15990
+Punjab,Patiala,2025-11,1026,14964,15990,4176
+Punjab,Rupnagar,2025-09,527,4165,4692,1807
+Punjab,Rupnagar,2025-10,201,1606,1807,4312
+Punjab,Rupnagar,2025-11,511,3801,4312,1055
+Punjab,S A S Nagar Mohali,2025-04,280,1061,1341,282
+Punjab,S A S Nagar Mohali,2025-06,282,0,282,423
+Punjab,S A S Nagar Mohali,2025-07,423,0,423,9976
+Punjab,S A S Nagar Mohali,2025-09,1265,8711,9976,5997
+Punjab,S A S Nagar Mohali,2025-10,629,5368,5997,10447
+Punjab,S A S Nagar Mohali,2025-11,1096,9351,10447,3327
+Punjab,Sangrur,2025-04,166,1315,1481,11902
+Punjab,Sangrur,2025-09,1034,10868,11902,7182
+Punjab,Sangrur,2025-10,406,6776,7182,10844
+Punjab,Sangrur,2025-11,718,10126,10844,2409
+Punjab,Shaheed Bhagat Singh Nagar,2025-09,452,2068,2520,1388
+Punjab,Shaheed Bhagat Singh Nagar,2025-10,208,1180,1388,2557
+Punjab,Shaheed Bhagat Singh Nagar,2025-11,471,2086,2557,655
+Punjab,Sri Muktsar Sahib,2025-09,832,7070,7902,4508
+Punjab,Sri Muktsar Sahib,2025-10,282,4226,4508,5944
+Punjab,Sri Muktsar Sahib,2025-11,575,5369,5944,1607
+Punjab,Tarn Taran,2025-07,386,2178,2564,11041
+Punjab,Tarn Taran,2025-09,1111,9930,11041,5711
+Punjab,Tarn Taran,2025-10,602,5109,5711,7102
+Punjab,Tarn Taran,2025-11,984,6118,7102,1548
+Rajasthan,Ajmer,2025-04,1239,6830,8069,4224
+Rajasthan,Ajmer,2025-07,932,3292,4224,39618
+Rajasthan,Ajmer,2025-09,4614,35004,39618,12902
+Rajasthan,Ajmer,2025-10,1775,11127,12902,26181
+Rajasthan,Ajmer,2025-11,3520,22661,26181,10371
+Rajasthan,Alwar,2025-04,1032,6952,7984,6097
+Rajasthan,Alwar,2025-05,799,5298,6097,3751
+Rajasthan,Alwar,2025-06,923,2828,3751,9042
+Rajasthan,Alwar,2025-07,2757,6285,9042,67843
+Rajasthan,Alwar,2025-09,8673,59170,67843,22265
+Rajasthan,Alwar,2025-10,3672,18593,22265,40143
+Rajasthan,Alwar,2025-11,5724,34419,40143,17213
+Rajasthan,Banswara,2025-09,3723,31097,34820,8838
+Rajasthan,Banswara,2025-10,1093,7745,8838,26619
+Rajasthan,Banswara,2025-11,2532,24087,26619,6566
+Rajasthan,Baran,2025-04,464,3249,3713,1733
+Rajasthan,Baran,2025-07,437,1296,1733,27546
+Rajasthan,Baran,2025-09,2587,24959,27546,5134
+Rajasthan,Baran,2025-10,727,4407,5134,16077
+Rajasthan,Baran,2025-11,1817,14260,16077,6470
+Rajasthan,Barmer,2025-06,953,2151,3104,55908
+Rajasthan,Barmer,2025-09,7443,48465,55908,15246
+Rajasthan,Barmer,2025-10,2468,12778,15246,32073
+Rajasthan,Barmer,2025-11,4483,27590,32073,13230
+Rajasthan,Bharatpur,2025-04,287,501,788,8835
+Rajasthan,Bharatpur,2025-07,1998,6837,8835,45603
+Rajasthan,Bharatpur,2025-09,7347,38256,45603,14763
+Rajasthan,Bharatpur,2025-10,2726,12037,14763,29302
+Rajasthan,Bharatpur,2025-11,4657,24645,29302,11636
+Rajasthan,Bhilwara,2025-06,567,1649,2216,2126
+Rajasthan,Bhilwara,2025-07,831,1295,2126,35495
+Rajasthan,Bhilwara,2025-09,4767,30728,35495,11960
+Rajasthan,Bhilwara,2025-10,1659,10301,11960,28483
+Rajasthan,Bhilwara,2025-11,3068,25415,28483,12152
+Rajasthan,Bikaner,2025-04,1658,11716,13374,5390
+Rajasthan,Bikaner,2025-05,605,4785,5390,8437
+Rajasthan,Bikaner,2025-06,1293,7144,8437,9878
+Rajasthan,Bikaner,2025-07,1245,8633,9878,34900
+Rajasthan,Bikaner,2025-09,4636,30264,34900,10561
+Rajasthan,Bikaner,2025-10,1653,8908,10561,21123
+Rajasthan,Bikaner,2025-11,2624,18499,21123,9212
+Rajasthan,Bundi,2025-04,465,1546,2011,666
+Rajasthan,Bundi,2025-07,223,443,666,18260
+Rajasthan,Bundi,2025-09,1883,16377,18260,3914
+Rajasthan,Bundi,2025-10,633,3281,3914,9690
+Rajasthan,Bundi,2025-11,1264,8426,9690,5650
+Rajasthan,Chittorgarh,2025-07,1576,2503,4079,21071
+Rajasthan,Chittorgarh,2025-09,2509,18562,21071,3889
+Rajasthan,Chittorgarh,2025-10,610,3279,3889,10438
+Rajasthan,Chittorgarh,2025-11,1375,9063,10438,4105
+Rajasthan,Churu,2025-04,469,2904,3373,1893
+Rajasthan,Churu,2025-06,535,1358,1893,8473
+Rajasthan,Churu,2025-07,2150,6323,8473,33222
+Rajasthan,Churu,2025-09,4324,28898,33222,10956
+Rajasthan,Churu,2025-10,1793,9163,10956,22481
+Rajasthan,Churu,2025-11,2963,19518,22481,9192
+Rajasthan,Dausa,2025-09,2806,25916,28722,7667
+Rajasthan,Dausa,2025-10,1144,6523,7667,18314
+Rajasthan,Dausa,2025-11,2182,16132,18314,5710
+Rajasthan,Deeg,2025-09,2,1,3,5
+Rajasthan,Deeg,2025-10,5,0,5,40
+Rajasthan,Deeg,2025-11,32,8,40,33
+Rajasthan,Dholpur,2025-04,1745,7057,8802,2281
+Rajasthan,Dholpur,2025-07,727,1554,2281,26668
+Rajasthan,Dholpur,2025-09,3203,23465,26668,8220
+Rajasthan,Dholpur,2025-10,1200,7020,8220,14731
+Rajasthan,Dholpur,2025-11,2117,12614,14731,5276
+Rajasthan,Dungarpur,2025-04,162,699,861,28858
+Rajasthan,Dungarpur,2025-09,3094,25764,28858,7302
+Rajasthan,Dungarpur,2025-10,1077,6225,7302,18008
+Rajasthan,Dungarpur,2025-11,1916,16092,18008,5976
+Rajasthan,Ganganagar,2025-09,2339,23000,25339,7403
+Rajasthan,Ganganagar,2025-10,851,6552,7403,14130
+Rajasthan,Ganganagar,2025-11,1479,12651,14130,7825
+Rajasthan,Hanumangarh,2025-07,751,2136,2887,22184
+Rajasthan,Hanumangarh,2025-09,2010,20174,22184,7256
+Rajasthan,Hanumangarh,2025-10,819,6437,7256,13499
+Rajasthan,Hanumangarh,2025-11,1235,12264,13499,7148
+Rajasthan,Jaipur,2025-04,4614,27901,32515,815
+Rajasthan,Jaipur,2025-05,200,615,815,30523
+Rajasthan,Jaipur,2025-07,4627,25896,30523,86496
+Rajasthan,Jaipur,2025-09,10459,76037,86496,30799
+Rajasthan,Jaipur,2025-10,4095,26704,30799,75167
+Rajasthan,Jaipur,2025-11,8627,66540,75167,31153
+Rajasthan,Jaisalmer,2025-06,134,241,375,11184
+Rajasthan,Jaisalmer,2025-09,1454,9730,11184,3114
+Rajasthan,Jaisalmer,2025-10,506,2608,3114,5973
+Rajasthan,Jaisalmer,2025-11,778,5195,5973,3218
+Rajasthan,Jalor,2025-04,1982,6283,8265,490
+Rajasthan,Jalor,2025-07,490,0,490,31144
+Rajasthan,Jalor,2025-09,5621,25523,31144,10087
+Rajasthan,Jalor,2025-10,1988,8099,10087,21142
+Rajasthan,Jalor,2025-11,3833,17309,21142,8728
+Rajasthan,Jhalawar,2025-04,173,1143,1316,32257
+Rajasthan,Jhalawar,2025-09,3449,28808,32257,6762
+Rajasthan,Jhalawar,2025-10,994,5768,6762,16845
+Rajasthan,Jhalawar,2025-11,2168,14677,16845,5682
+Rajasthan,Jhunjhunu,2025-09,3726,24084,27810,9185
+Rajasthan,Jhunjhunu,2025-10,1604,7581,9185,16186
+Rajasthan,Jhunjhunu,2025-11,2347,13839,16186,7841
+Rajasthan,Jodhpur,2025-04,2276,10891,13167,3364
+Rajasthan,Jodhpur,2025-05,800,2564,3364,6400
+Rajasthan,Jodhpur,2025-06,751,5649,6400,9058
+Rajasthan,Jodhpur,2025-07,2616,6442,9058,58607
+Rajasthan,Jodhpur,2025-09,7111,51496,58607,16518
+Rajasthan,Jodhpur,2025-10,2529,13989,16518,34581
+Rajasthan,Jodhpur,2025-11,5175,29406,34581,17270
+Rajasthan,Karauli,2025-04,465,1081,1546,2916
+Rajasthan,Karauli,2025-07,946,1970,2916,23628
+Rajasthan,Karauli,2025-09,3112,20516,23628,7322
+Rajasthan,Karauli,2025-10,1224,6098,7322,15607
+Rajasthan,Karauli,2025-11,2538,13069,15607,5920
+Rajasthan,Kota,2025-04,68,236,304,24520
+Rajasthan,Kota,2025-09,3101,21419,24520,7207
+Rajasthan,Kota,2025-10,1273,5934,7207,19280
+Rajasthan,Kota,2025-11,2864,16416,19280,7616
+Rajasthan,Nagaur,2025-04,873,5800,6673,3950
+Rajasthan,Nagaur,2025-06,927,3023,3950,5794
+Rajasthan,Nagaur,2025-07,1551,4243,5794,50132
+Rajasthan,Nagaur,2025-09,6771,43361,50132,14297
+Rajasthan,Nagaur,2025-10,2282,12015,14297,32367
+Rajasthan,Nagaur,2025-11,4277,28090,32367,13329
+Rajasthan,Pali,2025-04,187,1450,1637,35134
+Rajasthan,Pali,2025-09,4309,30825,35134,9259
+Rajasthan,Pali,2025-10,1467,7792,9259,22756
+Rajasthan,Pali,2025-11,2960,19796,22756,9226
+Rajasthan,Pratapgarh,2025-09,1996,17812,19808,3508
+Rajasthan,Pratapgarh,2025-10,517,2991,3508,9437
+Rajasthan,Pratapgarh,2025-11,1151,8286,9437,3179
+Rajasthan,Rajsamand,2025-09,2039,15686,17725,5736
+Rajasthan,Rajsamand,2025-10,831,4905,5736,11264
+Rajasthan,Rajsamand,2025-11,1526,9738,11264,4036
+Rajasthan,Sawai Madhopur,2025-07,910,2122,3032,21261
+Rajasthan,Sawai Madhopur,2025-09,2599,18662,21261,6874
+Rajasthan,Sawai Madhopur,2025-10,1112,5762,6874,14984
+Rajasthan,Sawai Madhopur,2025-11,1982,13002,14984,4883
+Rajasthan,Sikar,2025-03,94,0,94,1639
+Rajasthan,Sikar,2025-04,335,1304,1639,2647
+Rajasthan,Sikar,2025-07,650,1997,2647,38979
+Rajasthan,Sikar,2025-09,5188,33791,38979,10770
+Rajasthan,Sikar,2025-10,1741,9029,10770,21454
+Rajasthan,Sikar,2025-11,3034,18420,21454,9490
+Rajasthan,Sirohi,2025-04,1100,8001,9101,2383
+Rajasthan,Sirohi,2025-05,557,1826,2383,2194
+Rajasthan,Sirohi,2025-06,533,1661,2194,8978
+Rajasthan,Sirohi,2025-07,2717,6261,8978,18880
+Rajasthan,Sirohi,2025-09,2774,16106,18880,5982
+Rajasthan,Sirohi,2025-10,1074,4908,5982,15305
+Rajasthan,Sirohi,2025-11,2166,13139,15305,4419
+Rajasthan,Tonk,2025-07,1972,11464,13436,23090
+Rajasthan,Tonk,2025-09,2305,20785,23090,5844
+Rajasthan,Tonk,2025-10,831,5013,5844,15417
+Rajasthan,Tonk,2025-11,1708,13709,15417,5636
+Rajasthan,Udaipur,2025-04,132,440,572,3864
+Rajasthan,Udaipur,2025-07,855,3009,3864,47586
+Rajasthan,Udaipur,2025-09,5895,41691,47586,17014
+Rajasthan,Udaipur,2025-10,2524,14490,17014,38584
+Rajasthan,Udaipur,2025-11,4922,33662,38584,12242
+Sikkim,East,2025-09,206,1193,1399,327
+Sikkim,East,2025-10,76,251,327,568
+Sikkim,East,2025-11,128,440,568,50
+Sikkim,East Sikkim,2025-09,169,654,823,326
+Sikkim,East Sikkim,2025-10,79,247,326,462
+Sikkim,East Sikkim,2025-11,94,368,462,78
+Sikkim,Mangan,2025-10,1,0,1,1
+Sikkim,Mangan,2025-11,1,0,1,1
+Sikkim,Namchi,2025-09,13,14,27,7
+Sikkim,Namchi,2025-10,5,2,7,9
+Sikkim,Namchi,2025-11,4,5,9,5
+Sikkim,North,2025-09,19,37,56,37
+Sikkim,North,2025-10,11,26,37,39
+Sikkim,North,2025-11,13,26,39,4
+Sikkim,North Sikkim,2025-09,21,56,77,92
+Sikkim,North Sikkim,2025-10,20,72,92,138
+Sikkim,North Sikkim,2025-11,27,111,138,3
+Sikkim,South,2025-09,122,667,789,201
+Sikkim,South,2025-10,36,165,201,332
+Sikkim,South,2025-11,70,262,332,11
+Sikkim,South Sikkim,2025-04,49,141,190,260
+Sikkim,South Sikkim,2025-07,260,0,260,320
+Sikkim,South Sikkim,2025-09,80,240,320,109
+Sikkim,South Sikkim,2025-10,36,73,109,211
+Sikkim,South Sikkim,2025-11,62,149,211,20
+Sikkim,West,2025-09,105,774,879,270
+Sikkim,West,2025-10,53,217,270,387
+Sikkim,West,2025-11,67,320,387,27
+Sikkim,West Sikkim,2025-04,127,228,355,310
+Sikkim,West Sikkim,2025-07,171,139,310,545
+Sikkim,West Sikkim,2025-09,109,436,545,189
+Sikkim,West Sikkim,2025-10,49,140,189,267
+Sikkim,West Sikkim,2025-11,60,207,267,19
+Tamil Nadu,Ariyalur,2025-09,831,5663,6494,5024
+Tamil Nadu,Ariyalur,2025-10,552,4472,5024,8876
+Tamil Nadu,Ariyalur,2025-11,963,7913,8876,2383
+Tamil Nadu,Chengalpattu,2025-07,226,101,327,1567
+Tamil Nadu,Chengalpattu,2025-09,370,1197,1567,1187
+Tamil Nadu,Chengalpattu,2025-10,202,985,1187,2467
+Tamil Nadu,Chengalpattu,2025-11,365,2102,2467,943
+Tamil Nadu,Chennai,2025-07,400,655,1055,35206
+Tamil Nadu,Chennai,2025-09,3454,31752,35206,28340
+Tamil Nadu,Chennai,2025-10,2097,26243,28340,50452
+Tamil Nadu,Chennai,2025-11,3724,46728,50452,13511
+Tamil Nadu,Coimbatore,2025-05,89,467,556,28265
+Tamil Nadu,Coimbatore,2025-09,3301,24964,28265,19328
+Tamil Nadu,Coimbatore,2025-10,2236,17092,19328,34051
+Tamil Nadu,Coimbatore,2025-11,3243,30808,34051,10220
+Tamil Nadu,Cuddalore,2025-05,141,568,709,22669
+Tamil Nadu,Cuddalore,2025-09,3403,19266,22669,18656
+Tamil Nadu,Cuddalore,2025-10,1713,16943,18656,33614
+Tamil Nadu,Cuddalore,2025-11,3235,30379,33614,9782
+Tamil Nadu,Dharmapuri,2025-09,1863,11276,13139,13071
+Tamil Nadu,Dharmapuri,2025-10,1347,11724,13071,22174
+Tamil Nadu,Dharmapuri,2025-11,2370,19804,22174,6729
+Tamil Nadu,Dindigul,2025-09,2554,19447,22001,15155
+Tamil Nadu,Dindigul,2025-10,1240,13915,15155,24711
+Tamil Nadu,Dindigul,2025-11,2186,22525,24711,7130
+Tamil Nadu,Erode,2025-09,2406,16978,19384,17582
+Tamil Nadu,Erode,2025-10,1383,16199,17582,28389
+Tamil Nadu,Erode,2025-11,2128,26261,28389,6079
+Tamil Nadu,Kallakurichi,2025-06,243,0,243,772
+Tamil Nadu,Kallakurichi,2025-09,260,512,772,746
+Tamil Nadu,Kallakurichi,2025-10,194,552,746,1378
+Tamil Nadu,Kallakurichi,2025-11,324,1054,1378,486
+Tamil Nadu,Kanchipuram,2025-03,34,0,34,2061
+Tamil Nadu,Kanchipuram,2025-04,328,1733,2061,351
+Tamil Nadu,Kanchipuram,2025-06,351,0,351,33635
+Tamil Nadu,Kanchipuram,2025-09,4743,28892,33635,25838
+Tamil Nadu,Kanchipuram,2025-10,2779,23059,25838,49629
+Tamil Nadu,Kanchipuram,2025-11,4529,45100,49629,13931
+Tamil Nadu,Kanyakumari,2025-09,1715,9532,11247,7998
+Tamil Nadu,Kanyakumari,2025-10,1055,6943,7998,9799
+Tamil Nadu,Kanyakumari,2025-11,1381,8418,9799,2349
+Tamil Nadu,Karur,2025-09,1779,8022,9801,6229
+Tamil Nadu,Karur,2025-10,813,5416,6229,10517
+Tamil Nadu,Karur,2025-11,1355,9162,10517,2896
+Tamil Nadu,Krishnagiri,2025-09,1818,13344,15162,17675
+Tamil Nadu,Krishnagiri,2025-10,1093,16582,17675,23023
+Tamil Nadu,Krishnagiri,2025-11,1696,21327,23023,6797
+Tamil Nadu,Madurai,2025-04,115,601,716,654
+Tamil Nadu,Madurai,2025-06,88,566,654,29404
+Tamil Nadu,Madurai,2025-09,4234,25170,29404,24120
+Tamil Nadu,Madurai,2025-10,2076,22044,24120,40729
+Tamil Nadu,Madurai,2025-11,3354,37375,40729,11888
+Tamil Nadu,Mayiladuthurai,2025-09,210,241,451,241
+Tamil Nadu,Mayiladuthurai,2025-10,106,135,241,472
+Tamil Nadu,Mayiladuthurai,2025-11,147,325,472,162
+Tamil Nadu,Nagapattinam,2025-09,1645,7106,8751,6477
+Tamil Nadu,Nagapattinam,2025-10,878,5599,6477,10669
+Tamil Nadu,Nagapattinam,2025-11,1393,9276,10669,2767
+Tamil Nadu,Namakkal,2025-09,2229,11995,14224,11199
+Tamil Nadu,Namakkal,2025-10,1076,10123,11199,19631
+Tamil Nadu,Namakkal,2025-11,1601,18030,19631,5090
+Tamil Nadu,Nilgiris,2025-09,633,2911,3544,2939
+Tamil Nadu,Nilgiris,2025-10,441,2498,2939,4514
+Tamil Nadu,Nilgiris,2025-11,607,3907,4514,1370
+Tamil Nadu,Perambalur,2025-09,826,5378,6204,4987
+Tamil Nadu,Perambalur,2025-10,515,4472,4987,8601
+Tamil Nadu,Perambalur,2025-11,753,7848,8601,1693
+Tamil Nadu,Pudukkottai,2025-05,190,977,1167,17411
+Tamil Nadu,Pudukkottai,2025-09,2771,14640,17411,14819
+Tamil Nadu,Pudukkottai,2025-10,1447,13372,14819,21114
+Tamil Nadu,Pudukkottai,2025-11,2500,18614,21114,6490
+Tamil Nadu,Ramanathapuram,2025-06,152,975,1127,9792
+Tamil Nadu,Ramanathapuram,2025-09,1389,8403,9792,9674
+Tamil Nadu,Ramanathapuram,2025-10,923,8751,9674,12911
+Tamil Nadu,Ramanathapuram,2025-11,1490,11421,12911,3933
+Tamil Nadu,Ranipet,2025-09,40,77,117,40
+Tamil Nadu,Ranipet,2025-10,21,19,40,110
+Tamil Nadu,Ranipet,2025-11,39,71,110,25
+Tamil Nadu,Salem,2025-06,494,3007,3501,31173
+Tamil Nadu,Salem,2025-09,3686,27487,31173,20928
+Tamil Nadu,Salem,2025-10,2313,18615,20928,37183
+Tamil Nadu,Salem,2025-11,3208,33975,37183,13037
+Tamil Nadu,Sivaganga,2025-06,93,365,458,10838
+Tamil Nadu,Sivaganga,2025-09,1623,9215,10838,8317
+Tamil Nadu,Sivaganga,2025-10,982,7335,8317,15392
+Tamil Nadu,Sivaganga,2025-11,1670,13722,15392,3705
+Tamil Nadu,Tenkasi,2025-09,458,1076,1534,1405
+Tamil Nadu,Tenkasi,2025-10,284,1121,1405,2219
+Tamil Nadu,Tenkasi,2025-11,463,1756,2219,709
+Tamil Nadu,Thanjavur,2025-04,56,436,492,19591
+Tamil Nadu,Thanjavur,2025-09,2953,16638,19591,15101
+Tamil Nadu,Thanjavur,2025-10,1621,13480,15101,22197
+Tamil Nadu,Thanjavur,2025-11,2397,19800,22197,7409
+Tamil Nadu,Theni,2025-09,1382,9914,11296,9151
+Tamil Nadu,Theni,2025-10,909,8242,9151,13751
+Tamil Nadu,Theni,2025-11,1220,12531,13751,4750
+Tamil Nadu,Thiruvallur,2025-07,346,0,346,34791
+Tamil Nadu,Thiruvallur,2025-09,4059,30732,34791,27597
+Tamil Nadu,Thiruvallur,2025-10,2602,24995,27597,48630
+Tamil Nadu,Thiruvallur,2025-11,4481,44149,48630,15257
+Tamil Nadu,Thiruvarur,2025-09,1632,6992,8624,6252
+Tamil Nadu,Thiruvarur,2025-10,778,5474,6252,11670
+Tamil Nadu,Thiruvarur,2025-11,1564,10106,11670,4104
+Tamil Nadu,Thoothukkudi,2025-09,1826,9922,11748,13644
+Tamil Nadu,Thoothukkudi,2025-10,1414,12230,13644,19741
+Tamil Nadu,Thoothukkudi,2025-11,1840,17901,19741,5383
+Tamil Nadu,Tiruchirappalli,2025-09,4289,20312,24601,20172
+Tamil Nadu,Tiruchirappalli,2025-10,2216,17956,20172,30066
+Tamil Nadu,Tiruchirappalli,2025-11,3178,26888,30066,8372
+Tamil Nadu,Tirunelveli,2025-09,3488,21488,24976,24769
+Tamil Nadu,Tirunelveli,2025-10,2541,22228,24769,32678
+Tamil Nadu,Tirunelveli,2025-11,3189,29489,32678,9475
+Tamil Nadu,Tirupathur,2025-09,349,862,1211,976
+Tamil Nadu,Tirupathur,2025-10,229,747,976,2244
+Tamil Nadu,Tirupathur,2025-11,382,1862,2244,609
+Tamil Nadu,Tiruppur,2025-09,2357,17890,20247,16445
+Tamil Nadu,Tiruppur,2025-10,1424,15021,16445,25411
+Tamil Nadu,Tiruppur,2025-11,2221,23190,25411,10975
+Tamil Nadu,Tiruvannamalai,2025-09,2957,15143,18100,16328
+Tamil Nadu,Tiruvannamalai,2025-10,1634,14694,16328,23141
+Tamil Nadu,Tiruvannamalai,2025-11,2588,20553,23141,6630
+Tamil Nadu,Vellore,2025-06,510,1869,2379,22596
+Tamil Nadu,Vellore,2025-09,3308,19288,22596,19912
+Tamil Nadu,Vellore,2025-10,2076,17836,19912,34714
+Tamil Nadu,Vellore,2025-11,3405,31309,34714,8598
+Tamil Nadu,Villupuram,2025-09,4041,16001,20042,22081
+Tamil Nadu,Villupuram,2025-10,2481,19600,22081,38121
+Tamil Nadu,Villupuram,2025-11,5729,32392,38121,8105
+Tamil Nadu,Virudhunagar,2025-09,2079,11760,13839,15928
+Tamil Nadu,Virudhunagar,2025-10,1185,14743,15928,25789
+Tamil Nadu,Virudhunagar,2025-11,2046,23743,25789,5574
+Telangana,Adilabad,2025-09,1349,11100,12449,12636
+Telangana,Adilabad,2025-10,844,11792,12636,11167
+Telangana,Adilabad,2025-11,934,10233,11167,3031
+Telangana,Bhadradri Kothagudem,2025-07,639,608,1247,7565
+Telangana,Bhadradri Kothagudem,2025-09,959,6606,7565,10226
+Telangana,Bhadradri Kothagudem,2025-10,965,9261,10226,6994
+Telangana,Bhadradri Kothagudem,2025-11,821,6173,6994,1728
+Telangana,Hanumakonda,2025-09,387,3102,3489,2588
+Telangana,Hanumakonda,2025-10,317,2271,2588,2322
+Telangana,Hanumakonda,2025-11,346,1976,2322,643
+Telangana,Hyderabad,2025-04,306,2992,3298,2759
+Telangana,Hyderabad,2025-05,911,1848,2759,4907
+Telangana,Hyderabad,2025-06,1218,3689,4907,41506
+Telangana,Hyderabad,2025-07,9547,31959,41506,43541
+Telangana,Hyderabad,2025-09,5458,38083,43541,41563
+Telangana,Hyderabad,2025-10,4773,36790,41563,51302
+Telangana,Hyderabad,2025-11,6229,45073,51302,20208
+Telangana,Jagitial,2025-09,661,2895,3556,3235
+Telangana,Jagitial,2025-10,467,2768,3235,2419
+Telangana,Jagitial,2025-11,412,2007,2419,1575
+Telangana,Jangaon,2025-09,31,74,105,138
+Telangana,Jangaon,2025-10,35,103,138,51
+Telangana,Jangaon,2025-11,18,33,51,17
+Telangana,Jangoan,2025-09,448,3361,3809,2518
+Telangana,Jangoan,2025-10,297,2221,2518,2414
+Telangana,Jangoan,2025-11,274,2140,2414,517
+Telangana,Jayashankar Bhupalpally,2025-09,316,2221,2537,2819
+Telangana,Jayashankar Bhupalpally,2025-10,276,2543,2819,1982
+Telangana,Jayashankar Bhupalpally,2025-11,263,1719,1982,607
+Telangana,Jogulamba Gadwal,2025-09,679,3717,4396,5608
+Telangana,Jogulamba Gadwal,2025-10,630,4978,5608,4623
+Telangana,Jogulamba Gadwal,2025-11,593,4030,4623,1490
+Telangana,K V Rangareddy,2025-04,212,790,1002,52754
+Telangana,K V Rangareddy,2025-09,6302,46452,52754,52254
+Telangana,K V Rangareddy,2025-10,5216,47038,52254,49628
+Telangana,K V Rangareddy,2025-11,5683,43945,49628,18585
+Telangana,Kamareddy,2025-09,809,3960,4769,5118
+Telangana,Kamareddy,2025-10,593,4525,5118,4737
+Telangana,Kamareddy,2025-11,692,4045,4737,1431
+Telangana,Karimnagar,2025-09,2360,19323,21683,20860
+Telangana,Karimnagar,2025-10,1888,18972,20860,16355
+Telangana,Karimnagar,2025-11,1726,14629,16355,4763
+Telangana,Khammam,2025-09,1734,11822,13556,13986
+Telangana,Khammam,2025-10,1069,12917,13986,11797
+Telangana,Khammam,2025-11,1193,10604,11797,2903
+Telangana,Komaram Bheem,2025-09,515,4920,5435,5138
+Telangana,Komaram Bheem,2025-10,307,4831,5138,4100
+Telangana,Komaram Bheem,2025-11,315,3785,4100,1701
+Telangana,Mahabubabad,2025-09,589,4168,4757,4814
+Telangana,Mahabubabad,2025-10,488,4326,4814,4498
+Telangana,Mahabubabad,2025-11,500,3998,4498,1033
+Telangana,Mahabubnagar,2025-09,4589,30320,34909,36610
+Telangana,Mahabubnagar,2025-10,3120,33490,36610,27056
+Telangana,Mahabubnagar,2025-11,2920,24136,27056,7995
+Telangana,Mancherial,2025-09,440,3564,4004,3749
+Telangana,Mancherial,2025-10,310,3439,3749,3668
+Telangana,Mancherial,2025-11,322,3346,3668,1598
+Telangana,Medak,2025-09,3036,20476,23512,27398
+Telangana,Medak,2025-10,2574,24824,27398,19572
+Telangana,Medak,2025-11,2387,17185,19572,4613
+Telangana,Medchal Malkajgiri,2025-04,116,363,479,298
+Telangana,Medchal Malkajgiri,2025-06,298,0,298,406
+Telangana,Medchal Malkajgiri,2025-07,406,0,406,13033
+Telangana,Medchal Malkajgiri,2025-09,1505,11528,13033,13923
+Telangana,Medchal Malkajgiri,2025-10,1506,12417,13923,12376
+Telangana,Medchal Malkajgiri,2025-11,1585,10791,12376,4798
+Telangana,Mulugu,2025-09,382,1794,2176,1766
+Telangana,Mulugu,2025-10,286,1480,1766,1873
+Telangana,Mulugu,2025-11,272,1601,1873,832
+Telangana,Nagarkurnool,2025-09,635,3851,4486,4056
+Telangana,Nagarkurnool,2025-10,357,3699,4056,2662
+Telangana,Nagarkurnool,2025-11,386,2276,2662,953
+Telangana,Nalgonda,2025-09,2732,21276,24008,26481
+Telangana,Nalgonda,2025-10,2096,24385,26481,22794
+Telangana,Nalgonda,2025-11,2120,20674,22794,5256
+Telangana,Narayanpet,2025-09,547,3768,4315,2977
+Telangana,Narayanpet,2025-10,375,2602,2977,2277
+Telangana,Narayanpet,2025-11,364,1913,2277,1092
+Telangana,Nirmal,2025-09,628,6718,7346,5179
+Telangana,Nirmal,2025-10,344,4835,5179,6334
+Telangana,Nirmal,2025-11,477,5857,6334,1590
+Telangana,Nizamabad,2025-09,2751,17504,20255,21673
+Telangana,Nizamabad,2025-10,2165,19508,21673,20323
+Telangana,Nizamabad,2025-11,1975,18348,20323,6366
+Telangana,Peddapalli,2025-09,241,1749,1990,1386
+Telangana,Peddapalli,2025-10,158,1228,1386,1241
+Telangana,Peddapalli,2025-11,186,1055,1241,460
+Telangana,Rajanna Sircilla,2025-09,298,1828,2126,2385
+Telangana,Rajanna Sircilla,2025-10,305,2080,2385,1968
+Telangana,Rajanna Sircilla,2025-11,257,1711,1968,793
+Telangana,Rangareddy,2025-09,104,798,902,678
+Telangana,Rangareddy,2025-10,82,596,678,657
+Telangana,Rangareddy,2025-11,94,563,657,353
+Telangana,Sangareddy,2025-09,954,5171,6125,7028
+Telangana,Sangareddy,2025-10,938,6090,7028,6004
+Telangana,Sangareddy,2025-11,860,5144,6004,2050
+Telangana,Siddipet,2025-09,691,6897,7588,7589
+Telangana,Siddipet,2025-10,635,6954,7589,5614
+Telangana,Siddipet,2025-11,672,4942,5614,1319
+Telangana,Suryapet,2025-09,818,8419,9237,9997
+Telangana,Suryapet,2025-10,681,9316,9997,7059
+Telangana,Suryapet,2025-11,633,6426,7059,2073
+Telangana,Vikarabad,2025-09,1050,11918,12968,10257
+Telangana,Vikarabad,2025-10,799,9458,10257,10033
+Telangana,Vikarabad,2025-11,900,9133,10033,2270
+Telangana,Wanaparthy,2025-09,589,4484,5073,4925
+Telangana,Wanaparthy,2025-10,508,4417,4925,5068
+Telangana,Wanaparthy,2025-11,617,4451,5068,1358
+Telangana,Warangal,2025-09,1206,9069,10275,10417
+Telangana,Warangal,2025-10,917,9500,10417,8775
+Telangana,Warangal,2025-11,896,7879,8775,1918
+Telangana,Warangal Rural,2025-09,246,2724,2970,1887
+Telangana,Warangal Rural,2025-10,230,1657,1887,2161
+Telangana,Warangal Rural,2025-11,289,1872,2161,723
+Telangana,Warangal Urban,2025-09,264,1470,1734,1423
+Telangana,Warangal Urban,2025-10,197,1226,1423,1745
+Telangana,Warangal Urban,2025-11,234,1511,1745,777
+Telangana,Yadadri,2025-09,675,7510,8185,5003
+Telangana,Yadadri,2025-10,409,4594,5003,4443
+Telangana,Yadadri,2025-11,535,3908,4443,1823
+Tripura,Dhalai,2025-06,167,1414,1581,3312
+Tripura,Dhalai,2025-09,488,2824,3312,2726
+Tripura,Dhalai,2025-10,232,2494,2726,3451
+Tripura,Dhalai,2025-11,503,2948,3451,1660
+Tripura,Gomati,2025-07,124,225,349,1145
+Tripura,Gomati,2025-09,195,950,1145,773
+Tripura,Gomati,2025-10,93,680,773,2328
+Tripura,Gomati,2025-11,190,2138,2328,930
+Tripura,Khowai,2025-09,105,534,639,431
+Tripura,Khowai,2025-10,67,364,431,845
+Tripura,Khowai,2025-11,123,722,845,418
+Tripura,North Tripura,2025-07,216,962,1178,3667
+Tripura,North Tripura,2025-09,472,3195,3667,2442
+Tripura,North Tripura,2025-10,221,2221,2442,4782
+Tripura,North Tripura,2025-11,461,4321,4782,1578
+Tripura,Sepahijala,2025-07,325,616,941,2404
+Tripura,Sepahijala,2025-09,409,1995,2404,2835
+Tripura,Sepahijala,2025-10,340,2495,2835,3992
+Tripura,Sepahijala,2025-11,574,3418,3992,2284
+Tripura,South Tripura,2025-09,714,4807,5521,6175
+Tripura,South Tripura,2025-10,460,5715,6175,7775
+Tripura,South Tripura,2025-11,790,6985,7775,3264
+Tripura,Unakoti,2025-04,50,687,737,1101
+Tripura,Unakoti,2025-09,192,909,1101,754
+Tripura,Unakoti,2025-10,157,597,754,1024
+Tripura,Unakoti,2025-11,243,781,1024,731
+Tripura,West Tripura,2025-04,236,1495,1731,8335
+Tripura,West Tripura,2025-09,741,7594,8335,8012
+Tripura,West Tripura,2025-10,677,7335,8012,11500
+Tripura,West Tripura,2025-11,1137,10363,11500,3866
+Uttar Pradesh,Agra,2025-03,906,0,906,7622
+Uttar Pradesh,Agra,2025-04,1437,6185,7622,16333
+Uttar Pradesh,Agra,2025-05,2577,13756,16333,13042
+Uttar Pradesh,Agra,2025-06,3789,9253,13042,16800
+Uttar Pradesh,Agra,2025-07,4569,12231,16800,51663
+Uttar Pradesh,Agra,2025-09,6111,45552,51663,30726
+Uttar Pradesh,Agra,2025-10,3307,27419,30726,60945
+Uttar Pradesh,Agra,2025-11,6450,54495,60945,23822
+Uttar Pradesh,Aligarh,2025-03,623,0,623,40242
+Uttar Pradesh,Aligarh,2025-04,3534,36708,40242,13609
+Uttar Pradesh,Aligarh,2025-05,2826,10783,13609,10132
+Uttar Pradesh,Aligarh,2025-06,2635,7497,10132,32003
+Uttar Pradesh,Aligarh,2025-07,6408,25595,32003,43666
+Uttar Pradesh,Aligarh,2025-09,4675,38991,43666,23786
+Uttar Pradesh,Aligarh,2025-10,2620,21166,23786,41886
+Uttar Pradesh,Aligarh,2025-11,3727,38159,41886,18701
+Uttar Pradesh,Allahabad,2025-05,87,256,343,1311
+Uttar Pradesh,Allahabad,2025-07,1066,245,1311,69939
+Uttar Pradesh,Allahabad,2025-09,6479,63460,69939,36681
+Uttar Pradesh,Allahabad,2025-10,3463,33218,36681,56330
+Uttar Pradesh,Allahabad,2025-11,5144,51186,56330,20645
+Uttar Pradesh,Ambedkar Nagar,2025-04,312,830,1142,26765
+Uttar Pradesh,Ambedkar Nagar,2025-09,3469,23296,26765,14959
+Uttar Pradesh,Ambedkar Nagar,2025-10,1914,13045,14959,21815
+Uttar Pradesh,Ambedkar Nagar,2025-11,2340,19475,21815,7437
+Uttar Pradesh,Amethi,2025-09,3165,21236,24401,12843
+Uttar Pradesh,Amethi,2025-10,1719,11124,12843,17765
+Uttar Pradesh,Amethi,2025-11,2065,15700,17765,8696
+Uttar Pradesh,Amroha,2025-04,580,2968,3548,2548
+Uttar Pradesh,Amroha,2025-06,579,1969,2548,21439
+Uttar Pradesh,Amroha,2025-09,2427,19012,21439,15691
+Uttar Pradesh,Amroha,2025-10,1668,14023,15691,23524
+Uttar Pradesh,Amroha,2025-11,2418,21106,23524,10013
+Uttar Pradesh,Auraiya,2025-09,1606,12822,14428,7076
+Uttar Pradesh,Auraiya,2025-10,714,6362,7076,14644
+Uttar Pradesh,Auraiya,2025-11,1346,13298,14644,4780
+Uttar Pradesh,Ayodhya,2025-06,82,0,82,867
+Uttar Pradesh,Ayodhya,2025-07,603,264,867,26396
+Uttar Pradesh,Ayodhya,2025-09,3563,22833,26396,14480
+Uttar Pradesh,Ayodhya,2025-10,1902,12578,14480,19060
+Uttar Pradesh,Ayodhya,2025-11,2498,16562,19060,7502
+Uttar Pradesh,Azamgarh,2025-04,589,1373,1962,1519
+Uttar Pradesh,Azamgarh,2025-06,452,1067,1519,8526
+Uttar Pradesh,Azamgarh,2025-07,3567,4959,8526,53041
+Uttar Pradesh,Azamgarh,2025-09,6454,46587,53041,29440
+Uttar Pradesh,Azamgarh,2025-10,4088,25352,29440,42487
+Uttar Pradesh,Azamgarh,2025-11,5134,37353,42487,17665
+Uttar Pradesh,Baghpat,2025-04,1106,8298,9404,1042
+Uttar Pradesh,Baghpat,2025-06,244,798,1042,1432
+Uttar Pradesh,Baghpat,2025-07,413,1019,1432,17250
+Uttar Pradesh,Baghpat,2025-09,2526,14724,17250,9413
+Uttar Pradesh,Baghpat,2025-10,1299,8114,9413,14760
+Uttar Pradesh,Baghpat,2025-11,1790,12970,14760,5485
+Uttar Pradesh,Bahraich,2025-03,371,0,371,23121
+Uttar Pradesh,Bahraich,2025-04,3813,19308,23121,14928
+Uttar Pradesh,Bahraich,2025-05,3569,11359,14928,11322
+Uttar Pradesh,Bahraich,2025-06,4069,7253,11322,26818
+Uttar Pradesh,Bahraich,2025-07,10547,16271,26818,46009
+Uttar Pradesh,Bahraich,2025-09,7848,38161,46009,29043
+Uttar Pradesh,Bahraich,2025-10,4676,24367,29043,44263
+Uttar Pradesh,Bahraich,2025-11,4421,39842,44263,18723
+Uttar Pradesh,Ballia,2025-09,3763,33265,37028,22338
+Uttar Pradesh,Ballia,2025-10,2388,19950,22338,29669
+Uttar Pradesh,Ballia,2025-11,3448,26221,29669,11206
+Uttar Pradesh,Balrampur,2025-04,1103,4882,5985,2324
+Uttar Pradesh,Balrampur,2025-06,663,1661,2324,7559
+Uttar Pradesh,Balrampur,2025-07,2380,5179,7559,21639
+Uttar Pradesh,Balrampur,2025-09,2611,19028,21639,15248
+Uttar Pradesh,Balrampur,2025-10,2077,13171,15248,26245
+Uttar Pradesh,Balrampur,2025-11,2711,23534,26245,10534
+Uttar Pradesh,Banda,2025-03,66,0,66,5023
+Uttar Pradesh,Banda,2025-04,841,4182,5023,6236
+Uttar Pradesh,Banda,2025-05,1604,4632,6236,2758
+Uttar Pradesh,Banda,2025-06,787,1971,2758,3087
+Uttar Pradesh,Banda,2025-07,1165,1922,3087,22385
+Uttar Pradesh,Banda,2025-09,2615,19770,22385,12538
+Uttar Pradesh,Banda,2025-10,1370,11168,12538,23020
+Uttar Pradesh,Banda,2025-11,1915,21105,23020,8423
+Uttar Pradesh,Barabanki,2025-04,254,761,1015,1784
+Uttar Pradesh,Barabanki,2025-07,1784,0,1784,41199
+Uttar Pradesh,Barabanki,2025-09,4177,37022,41199,18614
+Uttar Pradesh,Barabanki,2025-10,1927,16687,18614,31948
+Uttar Pradesh,Barabanki,2025-11,3004,28944,31948,12479
+Uttar Pradesh,Bareilly,2025-04,4264,10266,14530,9548
+Uttar Pradesh,Bareilly,2025-05,1929,7619,9548,14370
+Uttar Pradesh,Bareilly,2025-06,2515,11855,14370,16116
+Uttar Pradesh,Bareilly,2025-07,3072,13044,16116,57013
+Uttar Pradesh,Bareilly,2025-09,5708,51305,57013,32075
+Uttar Pradesh,Bareilly,2025-10,3652,28423,32075,62352
+Uttar Pradesh,Bareilly,2025-11,6021,56331,62352,22331
+Uttar Pradesh,Basti,2025-04,289,1146,1435,28924
+Uttar Pradesh,Basti,2025-09,3515,25409,28924,17441
+Uttar Pradesh,Basti,2025-10,2514,14927,17441,24165
+Uttar Pradesh,Basti,2025-11,3446,20719,24165,10634
+Uttar Pradesh,Bhadohi,2025-09,254,1101,1355,726
+Uttar Pradesh,Bhadohi,2025-10,170,556,726,834
+Uttar Pradesh,Bhadohi,2025-11,150,684,834,508
+Uttar Pradesh,Bijnor,2025-05,1822,13824,15646,45467
+Uttar Pradesh,Bijnor,2025-09,4860,40607,45467,33586
+Uttar Pradesh,Bijnor,2025-10,4385,29201,33586,62957
+Uttar Pradesh,Bijnor,2025-11,5689,57268,62957,18979
+Uttar Pradesh,Budaun,2025-04,760,8085,8845,1788
+Uttar Pradesh,Budaun,2025-05,461,1327,1788,2585
+Uttar Pradesh,Budaun,2025-06,575,2010,2585,10408
+Uttar Pradesh,Budaun,2025-07,3326,7082,10408,38971
+Uttar Pradesh,Budaun,2025-09,4694,34277,38971,21199
+Uttar Pradesh,Budaun,2025-10,2162,19037,21199,35042
+Uttar Pradesh,Budaun,2025-11,3597,31445,35042,15613
+Uttar Pradesh,Bulandshahar,2025-03,61,0,61,15267
+Uttar Pradesh,Bulandshahar,2025-04,1892,13375,15267,1720
+Uttar Pradesh,Bulandshahar,2025-06,477,1243,1720,4104
+Uttar Pradesh,Bulandshahar,2025-07,1364,2740,4104,40556
+Uttar Pradesh,Bulandshahar,2025-09,5451,35105,40556,24365
+Uttar Pradesh,Bulandshahar,2025-10,3357,21008,24365,44739
+Uttar Pradesh,Bulandshahar,2025-11,4917,39822,44739,14280
+Uttar Pradesh,Chandauli,2025-04,428,1802,2230,1860
+Uttar Pradesh,Chandauli,2025-05,419,1441,1860,1682
+Uttar Pradesh,Chandauli,2025-06,467,1215,1682,5043
+Uttar Pradesh,Chandauli,2025-07,1605,3438,5043,30899
+Uttar Pradesh,Chandauli,2025-09,3096,27803,30899,14093
+Uttar Pradesh,Chandauli,2025-10,1228,12865,14093,23637
+Uttar Pradesh,Chandauli,2025-11,2440,21197,23637,7295
+Uttar Pradesh,Chitrakoot,2025-09,1880,13270,15150,9299
+Uttar Pradesh,Chitrakoot,2025-10,1261,8038,9299,13496
+Uttar Pradesh,Chitrakoot,2025-11,1564,11932,13496,5760
+Uttar Pradesh,Deoria,2025-05,907,2844,3751,1326
+Uttar Pradesh,Deoria,2025-07,381,945,1326,37357
+Uttar Pradesh,Deoria,2025-09,3914,33443,37357,20241
+Uttar Pradesh,Deoria,2025-10,1926,18315,20241,29738
+Uttar Pradesh,Deoria,2025-11,2954,26784,29738,12973
+Uttar Pradesh,Etah,2025-04,1091,5423,6514,8117
+Uttar Pradesh,Etah,2025-05,1597,6520,8117,8466
+Uttar Pradesh,Etah,2025-07,3732,4734,8466,21020
+Uttar Pradesh,Etah,2025-09,1789,19231,21020,10079
+Uttar Pradesh,Etah,2025-10,935,9144,10079,16412
+Uttar Pradesh,Etah,2025-11,1790,14622,16412,6965
+Uttar Pradesh,Etawah,2025-04,1180,9222,10402,3397
+Uttar Pradesh,Etawah,2025-07,1023,2374,3397,22222
+Uttar Pradesh,Etawah,2025-09,2334,19888,22222,9005
+Uttar Pradesh,Etawah,2025-10,1135,7870,9005,15798
+Uttar Pradesh,Etawah,2025-11,1788,14010,15798,6647
+Uttar Pradesh,Farrukhabad,2025-06,186,265,451,19111
+Uttar Pradesh,Farrukhabad,2025-09,2049,17062,19111,11517
+Uttar Pradesh,Farrukhabad,2025-10,1287,10230,11517,19617
+Uttar Pradesh,Farrukhabad,2025-11,2008,17609,19617,8421
+Uttar Pradesh,Fatehpur,2025-04,312,1077,1389,2078
+Uttar Pradesh,Fatehpur,2025-05,509,1569,2078,2363
+Uttar Pradesh,Fatehpur,2025-06,609,1754,2363,9417
+Uttar Pradesh,Fatehpur,2025-07,2640,6777,9417,31428
+Uttar Pradesh,Fatehpur,2025-09,3377,28051,31428,16471
+Uttar Pradesh,Fatehpur,2025-10,1902,14569,16471,28874
+Uttar Pradesh,Fatehpur,2025-11,2937,25937,28874,10985
+Uttar Pradesh,Firozabad,2025-03,191,0,191,8556
+Uttar Pradesh,Firozabad,2025-06,2398,6158,8556,47432
+Uttar Pradesh,Firozabad,2025-07,5980,41452,47432,28136
+Uttar Pradesh,Firozabad,2025-09,2911,25225,28136,14033
+Uttar Pradesh,Firozabad,2025-10,1237,12796,14033,30798
+Uttar Pradesh,Firozabad,2025-11,2088,28710,30798,10774
+Uttar Pradesh,Gautam Buddha Nagar,2025-03,883,0,883,20350
+Uttar Pradesh,Gautam Buddha Nagar,2025-04,2951,17399,20350,29480
+Uttar Pradesh,Gautam Buddha Nagar,2025-05,3668,25812,29480,6435
+Uttar Pradesh,Gautam Buddha Nagar,2025-06,1909,4526,6435,26178
+Uttar Pradesh,Gautam Buddha Nagar,2025-07,3724,22454,26178,21393
+Uttar Pradesh,Gautam Buddha Nagar,2025-09,3433,17960,21393,12969
+Uttar Pradesh,Gautam Buddha Nagar,2025-10,2017,10952,12969,23351
+Uttar Pradesh,Gautam Buddha Nagar,2025-11,3023,20328,23351,11361
+Uttar Pradesh,Ghaziabad,2025-03,689,0,689,8974
+Uttar Pradesh,Ghaziabad,2025-05,1666,7308,8974,28764
+Uttar Pradesh,Ghaziabad,2025-06,3449,25315,28764,20358
+Uttar Pradesh,Ghaziabad,2025-07,3716,16642,20358,42580
+Uttar Pradesh,Ghaziabad,2025-09,6070,36510,42580,22542
+Uttar Pradesh,Ghaziabad,2025-10,3115,19427,22542,46584
+Uttar Pradesh,Ghaziabad,2025-11,5319,41265,46584,19538
+Uttar Pradesh,Ghazipur,2025-09,5205,37123,42328,21095
+Uttar Pradesh,Ghazipur,2025-10,2480,18615,21095,30835
+Uttar Pradesh,Ghazipur,2025-11,3391,27444,30835,11314
+Uttar Pradesh,Gonda,2025-04,702,3117,3819,8880
+Uttar Pradesh,Gonda,2025-07,2722,6158,8880,36375
+Uttar Pradesh,Gonda,2025-09,5021,31354,36375,24430
+Uttar Pradesh,Gonda,2025-10,2974,21456,24430,35815
+Uttar Pradesh,Gonda,2025-11,3822,31993,35815,13976
+Uttar Pradesh,Gorakhpur,2025-03,60,0,60,5680
+Uttar Pradesh,Gorakhpur,2025-04,1191,4489,5680,1816
+Uttar Pradesh,Gorakhpur,2025-05,522,1294,1816,2872
+Uttar Pradesh,Gorakhpur,2025-06,826,2046,2872,11624
+Uttar Pradesh,Gorakhpur,2025-07,3579,8045,11624,46880
+Uttar Pradesh,Gorakhpur,2025-09,5534,41346,46880,25720
+Uttar Pradesh,Gorakhpur,2025-10,3261,22459,25720,46222
+Uttar Pradesh,Gorakhpur,2025-11,4854,41368,46222,16229
+Uttar Pradesh,Hamirpur,2025-09,1472,13317,14789,5768
+Uttar Pradesh,Hamirpur,2025-10,645,5123,5768,13187
+Uttar Pradesh,Hamirpur,2025-11,1304,11883,13187,4325
+Uttar Pradesh,Hapur,2025-05,2284,15794,18078,5736
+Uttar Pradesh,Hapur,2025-07,1791,3945,5736,12672
+Uttar Pradesh,Hapur,2025-09,1662,11010,12672,7579
+Uttar Pradesh,Hapur,2025-10,1072,6507,7579,14320
+Uttar Pradesh,Hapur,2025-11,1313,13007,14320,7119
+Uttar Pradesh,Hardoi,2025-06,2535,5075,7610,17664
+Uttar Pradesh,Hardoi,2025-07,8494,9170,17664,57525
+Uttar Pradesh,Hardoi,2025-09,5824,51701,57525,28344
+Uttar Pradesh,Hardoi,2025-10,3253,25091,28344,47352
+Uttar Pradesh,Hardoi,2025-11,4887,42465,47352,15089
+Uttar Pradesh,Hathras,2025-05,808,3050,3858,2232
+Uttar Pradesh,Hathras,2025-06,468,1764,2232,18052
+Uttar Pradesh,Hathras,2025-09,1934,16118,18052,7778
+Uttar Pradesh,Hathras,2025-10,972,6806,7778,17438
+Uttar Pradesh,Hathras,2025-11,1722,15716,17438,6915
+Uttar Pradesh,Jalaun,2025-04,349,1700,2049,2158
+Uttar Pradesh,Jalaun,2025-06,521,1637,2158,17355
+Uttar Pradesh,Jalaun,2025-09,1875,15480,17355,8672
+Uttar Pradesh,Jalaun,2025-10,1022,7650,8672,17944
+Uttar Pradesh,Jalaun,2025-11,1670,16274,17944,5760
+Uttar Pradesh,Jaunpur,2025-03,334,0,334,5580
+Uttar Pradesh,Jaunpur,2025-04,1526,4054,5580,3408
+Uttar Pradesh,Jaunpur,2025-07,1066,2342,3408,54721
+Uttar Pradesh,Jaunpur,2025-09,5443,49278,54721,31045
+Uttar Pradesh,Jaunpur,2025-10,3413,27632,31045,38224
+Uttar Pradesh,Jaunpur,2025-11,3869,34355,38224,16157
+Uttar Pradesh,Jhansi,2025-07,167,332,499,24215
+Uttar Pradesh,Jhansi,2025-09,2667,21548,24215,11793
+Uttar Pradesh,Jhansi,2025-10,1304,10489,11793,26031
+Uttar Pradesh,Jhansi,2025-11,2544,23487,26031,8740
+Uttar Pradesh,Kannauj,2025-07,1082,1611,2693,19603
+Uttar Pradesh,Kannauj,2025-09,2416,17187,19603,10318
+Uttar Pradesh,Kannauj,2025-10,1169,9149,10318,17494
+Uttar Pradesh,Kannauj,2025-11,1838,15656,17494,7037
+Uttar Pradesh,Kanpur Dehat,2025-04,908,2663,3571,5732
+Uttar Pradesh,Kanpur Dehat,2025-07,1911,3821,5732,22295
+Uttar Pradesh,Kanpur Dehat,2025-09,2322,19973,22295,10735
+Uttar Pradesh,Kanpur Dehat,2025-10,1082,9653,10735,16275
+Uttar Pradesh,Kanpur Dehat,2025-11,1721,14554,16275,5945
+Uttar Pradesh,Kanpur Nagar,2025-03,208,0,208,20718
+Uttar Pradesh,Kanpur Nagar,2025-04,3344,17374,20718,12926
+Uttar Pradesh,Kanpur Nagar,2025-05,1746,11180,12926,3985
+Uttar Pradesh,Kanpur Nagar,2025-06,983,3002,3985,16994
+Uttar Pradesh,Kanpur Nagar,2025-07,3320,13674,16994,48533
+Uttar Pradesh,Kanpur Nagar,2025-09,6231,42302,48533,26337
+Uttar Pradesh,Kanpur Nagar,2025-10,3566,22771,26337,46732
+Uttar Pradesh,Kanpur Nagar,2025-11,5423,41309,46732,16321
+Uttar Pradesh,Kasganj,2025-07,2248,3473,5721,16923
+Uttar Pradesh,Kasganj,2025-09,1526,15397,16923,8064
+Uttar Pradesh,Kasganj,2025-10,903,7161,8064,17496
+Uttar Pradesh,Kasganj,2025-11,1480,16016,17496,6680
+Uttar Pradesh,Kaushambi,2025-04,267,1354,1621,3663
+Uttar Pradesh,Kaushambi,2025-07,1113,2550,3663,23803
+Uttar Pradesh,Kaushambi,2025-09,2260,21543,23803,12068
+Uttar Pradesh,Kaushambi,2025-10,1415,10653,12068,18994
+Uttar Pradesh,Kaushambi,2025-11,2291,16703,18994,7127
+Uttar Pradesh,Kheri,2025-04,1102,2877,3979,6410
+Uttar Pradesh,Kheri,2025-05,1552,4858,6410,2413
+Uttar Pradesh,Kheri,2025-06,882,1531,2413,18852
+Uttar Pradesh,Kheri,2025-07,4629,14223,18852,55801
+Uttar Pradesh,Kheri,2025-09,7477,48324,55801,29419
+Uttar Pradesh,Kheri,2025-10,3702,25717,29419,55208
+Uttar Pradesh,Kheri,2025-11,5244,49964,55208,17459
+Uttar Pradesh,Kushinagar,2025-05,409,1043,1452,1570
+Uttar Pradesh,Kushinagar,2025-07,1570,0,1570,37845
+Uttar Pradesh,Kushinagar,2025-09,4222,33623,37845,25501
+Uttar Pradesh,Kushinagar,2025-10,2080,23421,25501,39968
+Uttar Pradesh,Kushinagar,2025-11,3618,36350,39968,15542
+Uttar Pradesh,Lalitpur,2025-05,219,394,613,19915
+Uttar Pradesh,Lalitpur,2025-09,1738,18177,19915,8145
+Uttar Pradesh,Lalitpur,2025-10,857,7288,8145,17244
+Uttar Pradesh,Lalitpur,2025-11,1790,15454,17244,5922
+Uttar Pradesh,Lucknow,2025-03,142,0,142,19298
+Uttar Pradesh,Lucknow,2025-04,2974,16324,19298,9454
+Uttar Pradesh,Lucknow,2025-05,1216,8238,9454,746
+Uttar Pradesh,Lucknow,2025-06,223,523,746,14769
+Uttar Pradesh,Lucknow,2025-07,2750,12019,14769,50732
+Uttar Pradesh,Lucknow,2025-09,7172,43560,50732,29721
+Uttar Pradesh,Lucknow,2025-10,5113,24608,29721,48284
+Uttar Pradesh,Lucknow,2025-11,5807,42477,48284,24579
+Uttar Pradesh,Maharajganj,2025-03,282,0,282,6366
+Uttar Pradesh,Maharajganj,2025-04,1929,4437,6366,4166
+Uttar Pradesh,Maharajganj,2025-05,1331,2835,4166,1586
+Uttar Pradesh,Maharajganj,2025-06,488,1098,1586,12291
+Uttar Pradesh,Maharajganj,2025-07,4209,8082,12291,31833
+Uttar Pradesh,Maharajganj,2025-09,4201,27632,31833,18250
+Uttar Pradesh,Maharajganj,2025-10,2223,16027,18250,26470
+Uttar Pradesh,Maharajganj,2025-11,2941,23529,26470,11927
+Uttar Pradesh,Mahoba,2025-09,1367,11451,12818,5701
+Uttar Pradesh,Mahoba,2025-10,657,5044,5701,10525
+Uttar Pradesh,Mahoba,2025-11,903,9622,10525,3873
+Uttar Pradesh,Mainpuri,2025-04,707,1476,2183,2218
+Uttar Pradesh,Mainpuri,2025-06,783,1435,2218,6057
+Uttar Pradesh,Mainpuri,2025-07,2363,3694,6057,24323
+Uttar Pradesh,Mainpuri,2025-09,3348,20975,24323,10990
+Uttar Pradesh,Mainpuri,2025-10,1608,9382,10990,19036
+Uttar Pradesh,Mainpuri,2025-11,2394,16642,19036,7669
+Uttar Pradesh,Mathura,2025-03,121,0,121,2913
+Uttar Pradesh,Mathura,2025-06,1389,1524,2913,844
+Uttar Pradesh,Mathura,2025-07,294,550,844,29570
+Uttar Pradesh,Mathura,2025-09,3775,25795,29570,16919
+Uttar Pradesh,Mathura,2025-10,2237,14682,16919,26598
+Uttar Pradesh,Mathura,2025-11,3495,23103,26598,11012
+Uttar Pradesh,Mau,2025-09,3353,23457,26810,17423
+Uttar Pradesh,Mau,2025-10,2039,15384,17423,22970
+Uttar Pradesh,Mau,2025-11,2242,20728,22970,8987
+Uttar Pradesh,Meerut,2025-04,2053,9449,11502,23669
+Uttar Pradesh,Meerut,2025-05,3768,19901,23669,974
+Uttar Pradesh,Meerut,2025-06,257,717,974,30424
+Uttar Pradesh,Meerut,2025-07,5459,24965,30424,39417
+Uttar Pradesh,Meerut,2025-09,5330,34087,39417,26835
+Uttar Pradesh,Meerut,2025-10,3775,23060,26835,47034
+Uttar Pradesh,Meerut,2025-11,5674,41360,47034,17497
+Uttar Pradesh,Mirzapur,2025-09,3541,26348,29889,17375
+Uttar Pradesh,Mirzapur,2025-10,1771,15604,17375,22290
+Uttar Pradesh,Mirzapur,2025-11,2382,19908,22290,8863
+Uttar Pradesh,Moradabad,2025-04,2044,11612,13656,21703
+Uttar Pradesh,Moradabad,2025-05,2545,19158,21703,39792
+Uttar Pradesh,Moradabad,2025-06,3652,36140,39792,30164
+Uttar Pradesh,Moradabad,2025-07,4051,26113,30164,32680
+Uttar Pradesh,Moradabad,2025-09,3887,28793,32680,22961
+Uttar Pradesh,Moradabad,2025-10,2619,20342,22961,48624
+Uttar Pradesh,Moradabad,2025-11,4640,43984,48624,13842
+Uttar Pradesh,Muzaffarnagar,2025-04,1015,8625,9640,12885
+Uttar Pradesh,Muzaffarnagar,2025-07,1661,11224,12885,35489
+Uttar Pradesh,Muzaffarnagar,2025-09,3385,32104,35489,21429
+Uttar Pradesh,Muzaffarnagar,2025-10,2411,19018,21429,37710
+Uttar Pradesh,Muzaffarnagar,2025-11,3628,34082,37710,11932
+Uttar Pradesh,Pilibhit,2025-04,878,5956,6834,27333
+Uttar Pradesh,Pilibhit,2025-05,2955,24378,27333,7438
+Uttar Pradesh,Pilibhit,2025-06,1679,5759,7438,21092
+Uttar Pradesh,Pilibhit,2025-07,2766,18326,21092,32104
+Uttar Pradesh,Pilibhit,2025-09,2500,29604,32104,17222
+Uttar Pradesh,Pilibhit,2025-10,1368,15854,17222,27234
+Uttar Pradesh,Pilibhit,2025-11,2098,25136,27234,10026
+Uttar Pradesh,Pratapgarh,2025-09,4495,34673,39168,22166
+Uttar Pradesh,Pratapgarh,2025-10,2819,19347,22166,24741
+Uttar Pradesh,Pratapgarh,2025-11,2966,21775,24741,10770
+Uttar Pradesh,Rae Bareli,2025-09,3636,30034,33670,21533
+Uttar Pradesh,Rae Bareli,2025-10,2886,18647,21533,26641
+Uttar Pradesh,Rae Bareli,2025-11,3123,23518,26641,12101
+Uttar Pradesh,Rampur,2025-04,1246,13636,14882,8892
+Uttar Pradesh,Rampur,2025-05,2031,6861,8892,14680
+Uttar Pradesh,Rampur,2025-06,1466,13214,14680,31371
+Uttar Pradesh,Rampur,2025-07,6154,25217,31371,31412
+Uttar Pradesh,Rampur,2025-09,3423,27989,31412,19120
+Uttar Pradesh,Rampur,2025-10,2466,16654,19120,31634
+Uttar Pradesh,Rampur,2025-11,3449,28185,31634,12033
+Uttar Pradesh,Saharanpur,2025-03,253,0,253,36152
+Uttar Pradesh,Saharanpur,2025-04,3652,32500,36152,7806
+Uttar Pradesh,Saharanpur,2025-06,1528,6278,7806,22050
+Uttar Pradesh,Saharanpur,2025-07,2920,19130,22050,43102
+Uttar Pradesh,Saharanpur,2025-09,4269,38833,43102,27699
+Uttar Pradesh,Saharanpur,2025-10,3111,24588,27699,45551
+Uttar Pradesh,Saharanpur,2025-11,4738,40813,45551,16817
+Uttar Pradesh,Sambhal,2025-07,550,908,1458,29529
+Uttar Pradesh,Sambhal,2025-09,3415,26114,29529,15394
+Uttar Pradesh,Sambhal,2025-10,1584,13810,15394,27375
+Uttar Pradesh,Sambhal,2025-11,2528,24847,27375,10403
+Uttar Pradesh,Sant Kabir Nagar,2025-09,2148,20097,22245,13868
+Uttar Pradesh,Sant Kabir Nagar,2025-10,1730,12138,13868,21640
+Uttar Pradesh,Sant Kabir Nagar,2025-11,2185,19455,21640,9133
+Uttar Pradesh,Sant Ravidas Nagar,2025-09,1823,18357,20180,10458
+Uttar Pradesh,Sant Ravidas Nagar,2025-10,1091,9367,10458,14153
+Uttar Pradesh,Sant Ravidas Nagar,2025-11,1440,12713,14153,5386
+Uttar Pradesh,Shahjahanpur,2025-04,2317,7549,9866,8837
+Uttar Pradesh,Shahjahanpur,2025-05,2312,6525,8837,31191
+Uttar Pradesh,Shahjahanpur,2025-06,2679,28512,31191,20623
+Uttar Pradesh,Shahjahanpur,2025-07,7925,12698,20623,42354
+Uttar Pradesh,Shahjahanpur,2025-09,4301,38053,42354,26072
+Uttar Pradesh,Shahjahanpur,2025-10,2426,23646,26072,39120
+Uttar Pradesh,Shahjahanpur,2025-11,3448,35672,39120,12706
+Uttar Pradesh,Shamli,2025-04,1074,11454,12528,19030
+Uttar Pradesh,Shamli,2025-09,2590,16440,19030,13989
+Uttar Pradesh,Shamli,2025-10,1847,12142,13989,28650
+Uttar Pradesh,Shamli,2025-11,3029,25621,28650,8269
+Uttar Pradesh,Shravasti,2025-04,525,2059,2584,3093
+Uttar Pradesh,Shravasti,2025-05,752,2341,3093,939
+Uttar Pradesh,Shravasti,2025-06,939,0,939,1596
+Uttar Pradesh,Shravasti,2025-07,1596,0,1596,15656
+Uttar Pradesh,Shravasti,2025-09,1794,13862,15656,9690
+Uttar Pradesh,Shravasti,2025-10,891,8799,9690,12030
+Uttar Pradesh,Shravasti,2025-11,1127,10903,12030,5387
+Uttar Pradesh,Siddharth Nagar,2025-04,1878,4725,6603,5495
+Uttar Pradesh,Siddharth Nagar,2025-05,1723,3772,5495,393
+Uttar Pradesh,Siddharth Nagar,2025-06,393,0,393,3948
+Uttar Pradesh,Siddharth Nagar,2025-07,3948,0,3948,27863
+Uttar Pradesh,Siddharth Nagar,2025-09,4173,23690,27863,18692
+Uttar Pradesh,Siddharth Nagar,2025-10,2605,16087,18692,30330
+Uttar Pradesh,Siddharth Nagar,2025-11,3727,26603,30330,13535
+Uttar Pradesh,Sitapur,2025-04,3068,13188,16256,6321
+Uttar Pradesh,Sitapur,2025-05,1373,4948,6321,8724
+Uttar Pradesh,Sitapur,2025-06,2219,6505,8724,22774
+Uttar Pradesh,Sitapur,2025-07,8116,14658,22774,59075
+Uttar Pradesh,Sitapur,2025-09,7083,51992,59075,31526
+Uttar Pradesh,Sitapur,2025-10,3442,28084,31526,52390
+Uttar Pradesh,Sitapur,2025-11,4944,47446,52390,20646
+Uttar Pradesh,Sonbhadra,2025-09,2591,22801,25392,10952
+Uttar Pradesh,Sonbhadra,2025-10,869,10083,10952,19655
+Uttar Pradesh,Sonbhadra,2025-11,1611,18044,19655,7566
+Uttar Pradesh,Sultanpur,2025-04,480,1434,1914,1424
+Uttar Pradesh,Sultanpur,2025-05,424,1000,1424,1257
+Uttar Pradesh,Sultanpur,2025-06,363,894,1257,3838
+Uttar Pradesh,Sultanpur,2025-07,1164,2674,3838,31315
+Uttar Pradesh,Sultanpur,2025-09,3923,27392,31315,19216
+Uttar Pradesh,Sultanpur,2025-10,2548,16668,19216,25915
+Uttar Pradesh,Sultanpur,2025-11,2670,23245,25915,9159
+Uttar Pradesh,Unnao,2025-03,203,0,203,6754
+Uttar Pradesh,Unnao,2025-04,1514,5240,6754,6535
+Uttar Pradesh,Unnao,2025-05,1628,4907,6535,5408
+Uttar Pradesh,Unnao,2025-06,1446,3962,5408,14721
+Uttar Pradesh,Unnao,2025-07,3344,11377,14721,39366
+Uttar Pradesh,Unnao,2025-09,4074,35292,39366,19667
+Uttar Pradesh,Unnao,2025-10,2303,17364,19667,34635
+Uttar Pradesh,Unnao,2025-11,4336,30299,34635,12566
+Uttar Pradesh,Varanasi,2025-04,1341,5469,6810,5588
+Uttar Pradesh,Varanasi,2025-05,1446,4142,5588,3309
+Uttar Pradesh,Varanasi,2025-06,914,2395,3309,21593
+Uttar Pradesh,Varanasi,2025-07,6653,14940,21593,47121
+Uttar Pradesh,Varanasi,2025-09,5720,41401,47121,26336
+Uttar Pradesh,Varanasi,2025-10,3146,23190,26336,42547
+Uttar Pradesh,Varanasi,2025-11,4023,38524,42547,17343
+Uttarakhand,Almora,2025-09,451,2514,2965,2115
+Uttarakhand,Almora,2025-10,354,1761,2115,4106
+Uttarakhand,Almora,2025-11,481,3625,4106,2031
+Uttarakhand,Bageshwar,2025-09,264,1708,1972,962
+Uttarakhand,Bageshwar,2025-10,185,777,962,2942
+Uttarakhand,Bageshwar,2025-11,288,2654,2942,842
+Uttarakhand,Chamoli,2025-09,407,2148,2555,1482
+Uttarakhand,Chamoli,2025-10,272,1210,1482,2017
+Uttarakhand,Chamoli,2025-11,303,1714,2017,1468
+Uttarakhand,Champawat,2025-09,369,3087,3456,2166
+Uttarakhand,Champawat,2025-10,284,1882,2166,3824
+Uttarakhand,Champawat,2025-11,251,3573,3824,1772
+Uttarakhand,Dehradun,2025-03,176,0,176,4975
+Uttarakhand,Dehradun,2025-04,674,4301,4975,7838
+Uttarakhand,Dehradun,2025-05,624,7214,7838,3082
+Uttarakhand,Dehradun,2025-06,294,2788,3082,8350
+Uttarakhand,Dehradun,2025-07,1631,6719,8350,24854
+Uttarakhand,Dehradun,2025-09,2462,22392,24854,14152
+Uttarakhand,Dehradun,2025-10,1571,12581,14152,26127
+Uttarakhand,Dehradun,2025-11,2077,24050,26127,11585
+Uttarakhand,Haridwar,2025-03,60,0,60,3375
+Uttarakhand,Haridwar,2025-07,732,2643,3375,17867
+Uttarakhand,Haridwar,2025-09,1813,16054,17867,12822
+Uttarakhand,Haridwar,2025-10,1475,11347,12822,28108
+Uttarakhand,Haridwar,2025-11,1781,26327,28108,17629
+Uttarakhand,Nainital,2025-03,75,0,75,13300
+Uttarakhand,Nainital,2025-04,1204,12096,13300,11050
+Uttarakhand,Nainital,2025-09,1211,9839,11050,7745
+Uttarakhand,Nainital,2025-10,1162,6583,7745,13501
+Uttarakhand,Nainital,2025-11,1213,12288,13501,6045
+Uttarakhand,Pauri Garhwal,2025-09,708,4660,5368,4780
+Uttarakhand,Pauri Garhwal,2025-10,637,4143,4780,7214
+Uttarakhand,Pauri Garhwal,2025-11,529,6685,7214,2586
+Uttarakhand,Pithoragarh,2025-09,458,2432,2890,1961
+Uttarakhand,Pithoragarh,2025-10,329,1632,1961,3743
+Uttarakhand,Pithoragarh,2025-11,367,3376,3743,1960
+Uttarakhand,Rudraprayag,2025-09,337,2055,2392,1467
+Uttarakhand,Rudraprayag,2025-10,258,1209,1467,4572
+Uttarakhand,Rudraprayag,2025-11,297,4275,4572,1503
+Uttarakhand,Tehri Garhwal,2025-09,995,8443,9438,4909
+Uttarakhand,Tehri Garhwal,2025-10,604,4305,4909,11686
+Uttarakhand,Tehri Garhwal,2025-11,1027,10659,11686,4806
+Uttarakhand,Udham Singh Nagar,2025-09,2552,18607,21159,16685
+Uttarakhand,Udham Singh Nagar,2025-10,1431,15254,16685,33057
+Uttarakhand,Udham Singh Nagar,2025-11,1904,31153,33057,15714
+Uttarakhand,Uttarkashi,2025-09,277,2084,2361,1899
+Uttarakhand,Uttarkashi,2025-10,258,1641,1899,4652
+Uttarakhand,Uttarkashi,2025-11,467,4185,4652,2260
+West Bengal,Alipurduar,2025-04,128,74,202,298
+West Bengal,Alipurduar,2025-05,197,101,298,980
+West Bengal,Alipurduar,2025-06,633,347,980,2297
+West Bengal,Alipurduar,2025-07,1631,666,2297,2204
+West Bengal,Alipurduar,2025-09,430,1774,2204,1055
+West Bengal,Alipurduar,2025-10,218,837,1055,1276
+West Bengal,Alipurduar,2025-11,281,995,1276,733
+West Bengal,Bankura,2025-09,4224,37366,41590,28269
+West Bengal,Bankura,2025-10,2552,25717,28269,41276
+West Bengal,Bankura,2025-11,4394,36882,41276,10222
+West Bengal,Birbhum,2025-05,278,1566,1844,1853
+West Bengal,Birbhum,2025-06,221,1632,1853,2666
+West Bengal,Birbhum,2025-07,769,1897,2666,46042
+West Bengal,Birbhum,2025-09,5195,40847,46042,31145
+West Bengal,Birbhum,2025-10,4053,27092,31145,33962
+West Bengal,Birbhum,2025-11,4772,29190,33962,11753
+West Bengal,Cooch Behar,2025-03,50,0,50,1023
+West Bengal,Cooch Behar,2025-04,485,538,1023,2997
+West Bengal,Cooch Behar,2025-05,1674,1323,2997,105
+West Bengal,Cooch Behar,2025-06,105,0,105,4255
+West Bengal,Cooch Behar,2025-07,4255,0,4255,46152
+West Bengal,Cooch Behar,2025-09,5115,41037,46152,45288
+West Bengal,Cooch Behar,2025-10,4109,41179,45288,34277
+West Bengal,Cooch Behar,2025-11,3333,30944,34277,7310
+West Bengal,Dakshin Dinajpur,2025-05,235,1340,1575,997
+West Bengal,Dakshin Dinajpur,2025-07,997,0,997,28284
+West Bengal,Dakshin Dinajpur,2025-09,3500,24784,28284,12699
+West Bengal,Dakshin Dinajpur,2025-10,1645,11054,12699,15649
+West Bengal,Dakshin Dinajpur,2025-11,1663,13986,15649,5491
+West Bengal,Darjeeling,2025-04,658,1444,2102,1749
+West Bengal,Darjeeling,2025-05,598,1151,1749,2476
+West Bengal,Darjeeling,2025-06,685,1791,2476,4027
+West Bengal,Darjeeling,2025-07,1485,2542,4027,11889
+West Bengal,Darjeeling,2025-09,1885,10004,11889,6054
+West Bengal,Darjeeling,2025-10,1010,5044,6054,10087
+West Bengal,Darjeeling,2025-11,1349,8738,10087,5681
+West Bengal,Hooghly,2025-07,300,824,1124,48966
+West Bengal,Hooghly,2025-09,6322,42644,48966,29754
+West Bengal,Hooghly,2025-10,3976,25778,29754,41743
+West Bengal,Hooghly,2025-11,4586,37157,41743,12992
+West Bengal,Howrah,2025-07,361,635,996,39513
+West Bengal,Howrah,2025-09,6184,33329,39513,26825
+West Bengal,Howrah,2025-10,3723,23102,26825,37489
+West Bengal,Howrah,2025-11,4494,32995,37489,8307
+West Bengal,Jalpaiguri,2025-04,292,636,928,2549
+West Bengal,Jalpaiguri,2025-05,980,1569,2549,1081
+West Bengal,Jalpaiguri,2025-06,315,766,1081,2052
+West Bengal,Jalpaiguri,2025-07,643,1409,2052,52967
+West Bengal,Jalpaiguri,2025-09,3636,49331,52967,24923
+West Bengal,Jalpaiguri,2025-10,1832,23091,24923,32177
+West Bengal,Jalpaiguri,2025-11,2512,29665,32177,10117
+West Bengal,Jhargram,2025-04,62,62,124,1510
+West Bengal,Jhargram,2025-09,389,1121,1510,476
+West Bengal,Jhargram,2025-10,184,292,476,955
+West Bengal,Jhargram,2025-11,292,663,955,367
+West Bengal,Kalimpong,2025-05,78,58,136,260
+West Bengal,Kalimpong,2025-07,189,71,260,338
+West Bengal,Kalimpong,2025-09,94,244,338,112
+West Bengal,Kalimpong,2025-10,29,83,112,198
+West Bengal,Kalimpong,2025-11,48,150,198,208
+West Bengal,Kolkata,2025-04,54,94,148,1715
+West Bengal,Kolkata,2025-05,503,1212,1715,2082
+West Bengal,Kolkata,2025-06,636,1446,2082,2475
+West Bengal,Kolkata,2025-07,815,1660,2475,23317
+West Bengal,Kolkata,2025-09,3176,20141,23317,15193
+West Bengal,Kolkata,2025-10,2107,13086,15193,24988
+West Bengal,Kolkata,2025-11,2927,22061,24988,8884
+West Bengal,Malda,2025-04,396,615,1011,721
+West Bengal,Malda,2025-06,252,469,721,58075
+West Bengal,Malda,2025-09,7191,50884,58075,35240
+West Bengal,Malda,2025-10,5074,30166,35240,38184
+West Bengal,Malda,2025-11,4285,33899,38184,14955
+West Bengal,Murshidabad,2025-09,15762,87166,102928,58789
+West Bengal,Murshidabad,2025-10,10700,48089,58789,78325
+West Bengal,Murshidabad,2025-11,10907,67418,78325,24764
+West Bengal,Nadia,2025-04,248,461,709,1575
+West Bengal,Nadia,2025-05,636,939,1575,2096
+West Bengal,Nadia,2025-06,528,1568,2096,6816
+West Bengal,Nadia,2025-07,2055,4761,6816,53592
+West Bengal,Nadia,2025-09,5743,47849,53592,40381
+West Bengal,Nadia,2025-10,3970,36411,40381,34539
+West Bengal,Nadia,2025-11,4413,30126,34539,12462
+West Bengal,North 24 Parganas,2025-04,232,884,1116,2476
+West Bengal,North 24 Parganas,2025-05,726,1750,2476,1050
+West Bengal,North 24 Parganas,2025-06,1050,0,1050,5097
+West Bengal,North 24 Parganas,2025-07,5097,0,5097,85068
+West Bengal,North 24 Parganas,2025-09,12582,72486,85068,51820
+West Bengal,North 24 Parganas,2025-10,7602,44218,51820,63956
+West Bengal,North 24 Parganas,2025-11,8565,55391,63956,24123
+West Bengal,Paschim Bardhaman,2025-09,518,1268,1786,880
+West Bengal,Paschim Bardhaman,2025-10,266,614,880,1376
+West Bengal,Paschim Bardhaman,2025-11,378,998,1376,718
+West Bengal,Paschim Medinipur,2025-06,122,0,122,523
+West Bengal,Paschim Medinipur,2025-07,523,0,523,76881
+West Bengal,Paschim Medinipur,2025-09,8821,68060,76881,52665
+West Bengal,Paschim Medinipur,2025-10,5638,47027,52665,67085
+West Bengal,Paschim Medinipur,2025-11,6109,60976,67085,15285
+West Bengal,Purba Bardhaman,2025-06,58,36,94,62743
+West Bengal,Purba Bardhaman,2025-09,8909,53834,62743,34260
+West Bengal,Purba Bardhaman,2025-10,4941,29319,34260,47277
+West Bengal,Purba Bardhaman,2025-11,6476,40801,47277,16040
+West Bengal,Purba Medinipur,2025-09,7137,30361,37498,26451
+West Bengal,Purba Medinipur,2025-10,4350,22101,26451,35596
+West Bengal,Purba Medinipur,2025-11,5153,30443,35596,10143
+West Bengal,Purulia,2025-09,6384,45881,52265,28327
+West Bengal,Purulia,2025-10,3425,24902,28327,37124
+West Bengal,Purulia,2025-11,4378,32746,37124,13735
+West Bengal,South 24 Parganas,2025-07,490,0,490,103273
+West Bengal,South 24 Parganas,2025-09,12045,91228,103273,81153
+West Bengal,South 24 Parganas,2025-10,13272,67881,81153,103412
+West Bengal,South 24 Parganas,2025-11,12605,90807,103412,29957
+West Bengal,Uttar Dinajpur,2025-03,71,0,71,8252
+West Bengal,Uttar Dinajpur,2025-04,1713,6539,8252,15896
+West Bengal,Uttar Dinajpur,2025-05,5042,10854,15896,2666
+West Bengal,Uttar Dinajpur,2025-06,2666,0,2666,8934
+West Bengal,Uttar Dinajpur,2025-07,8934,0,8934,61852
+West Bengal,Uttar Dinajpur,2025-09,9299,52553,61852,53807
+West Bengal,Uttar Dinajpur,2025-10,7452,46355,53807,46717
+West Bengal,Uttar Dinajpur,2025-11,5405,41312,46717,14692
