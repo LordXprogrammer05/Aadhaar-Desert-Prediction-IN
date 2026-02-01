@@ -12,7 +12,7 @@ from reportlab.lib.utils import ImageReader
 st.set_page_config(page_title="Aadhaar Desert Dashboard IN", layout="wide")
 
 st.title("🆔 Aadhaar Desert Dashboard IN 🇮🇳")
-st.write("District-wise Demand Forecasting + Visual Insights (UIDAI Hackathon Demo)")
+st.write("District-wise Demand Forecasting + Visual Insights ")
 
 # ---------------- LOAD FILES ----------------
 @st.cache_data
@@ -32,7 +32,7 @@ demand_model = load_model()
 monthly_df = monthly_df.sort_values(["state", "district", "month"])
 
 # ---------------- SIDEBAR ----------------
-st.sidebar.header("📌 UIDAI Hackathon Dashboard")
+st.sidebar.header("📌 Aadhaar Desert Dashboard")
 st.sidebar.write("✅ Auto-load district data → predict next month workload")
 
 # ---------------- MAIN UI ----------------
@@ -198,7 +198,7 @@ def create_pdf_report():
 
     # Title
     c.setFont("Helvetica-Bold", 16)
-    c.drawString(50, y, "UIDAI Hackathon Report (Auto Generated)")
+    c.drawString(50, y, Aadhaar Desert Report (Auto Generated)")
     y -= 25
 
     c.setFont("Helvetica", 11)
@@ -311,4 +311,5 @@ else:
 
 # ---------------- FOOTER ----------------
 st.markdown("---")
+
 
