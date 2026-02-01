@@ -1,6 +1,5 @@
 # Aadhaar-Desert-Prediction-IN
-UIDAI hackathon 2026
-# 🆔 Aadhaar Desert Dashboard IN 🇮🇳  
+# 🆔 Aadhaar Desert Dashboard IN  
 ### District-wise Risk Detection + Next Month Workload Forecasting (UIDAI Hackathon Project)
 
 This project identifies **Aadhaar Desert Districts** (high-risk districts with high service pressure) and predicts **Next Month Aadhaar Service Workload** using **Machine Learning**.  
